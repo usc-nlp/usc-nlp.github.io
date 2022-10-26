@@ -1,9 +1,67 @@
+
+.initial-navbar .logo-usc-responsive .text-usc-acronym, .initial-navbar .logo-usc-responsive .text-usc-acronym-large  {
+  fill: #fc0;
+}
+
+.initial-navbar .logo-usc-responsive .text-usc-full {
+  fill: #fff;
+}
+
+.initial-navbar .logo-usc-responsive .icon-shield {
+  fill: #fff;
+}
+
+
+.final-navbar .logo-usc-responsive .text-usc-acronym, .logo-usc-responsive .text-usc-acronym-large {
+  fill: #900;
+}
+
+@media (min-width: 1200px) {
+    .logo-usc-responsive {
+        height: 38px;
+    }
+    .logo-usc-responsive .text-usc-acronym-large {
+        opacity: 0;
+    }
+    .text-usc-full, .text-usc-acronym  {
+        opacity: 1;
+    }
+
+}
+
+@media (max-width: 1199px) {
+    .logo-usc-responsive {
+        height: 27px;
+        margin-right: -3rem;
+    }
+    .logo-usc-responsive .text-usc-acronym-large {
+        opacity: 1;
+    }
+    .logo-usc-responsive .text-usc-acronym, .text-usc-full {
+        opacity: 0;
+    }
+    .logo-usc-responsive {
+    }
+
+}
+
+
+#logo {
+    height: 38px;
+    margin: 11px;
+    margin-right: 0;
+}
+
+.usc-logo-wrapper {
+    flex-grow: 1;
+    text-align: right;
+}
+
 .top-navbar {
   position: fixed;
   left: 0;
-  top: 0;
   width: 100%;
-  height: 50px;
+  height: 60px;
   z-index: 99999;
   transition: all 0.4s ease-out;
   margin: 0px;
@@ -30,7 +88,7 @@
 
 #top-nav-items ul a {
     height: 100%;
-    padding-top: 1em;
+    padding-top: 1.1em;
 }
 
 .nav-item {
@@ -38,11 +96,27 @@
     margin-right: 0.2em;
 }
 
+
+.usc-logo-wrapper {
+    text-align: right;
+}
+
+
 /* --- initial state start ------ */
 
-.initial-navbar {
-  background-color: rgba(68, 68, 68, 0.2);
+.navbar {
+    padding: 0;
 }
+
+
+.final-navbar > .usc-logo-wrapper {
+    display: none;
+}
+
+.initial-navbar {
+  background-color: #900;
+}
+
 
 .navbar-brand {
     margin-left: 0.25em;

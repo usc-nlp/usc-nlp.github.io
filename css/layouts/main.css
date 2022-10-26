@@ -40,7 +40,7 @@ a {
 }
 
 a:hover {
-  color: #207089;
+  text-decoration-color: currentcolor;
 }
 
 .nav-button {

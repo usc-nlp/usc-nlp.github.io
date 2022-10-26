@@ -64,6 +64,10 @@
     line-height: 1em;
 }
 
+.student-name:hover {
+    color: #900;
+}
+
 .student-title {
     font-size: 1em;
     color: #fbbf15;
