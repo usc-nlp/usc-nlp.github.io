@@ -1,6 +1,12 @@
 "use strict";
 
 const updateNavBar = () => {
+  if ($(document).scrollTop() > 1) {
+    $('#usc-brand').hide(10);
+  } else {
+    $('#usc-brand').show();
+  }  
+  
   if ($(document).scrollTop() > 40) {
     $('#top-navbar').removeClass('initial-navbar');
     $('#top-navbar').addClass('final-navbar shadow');
