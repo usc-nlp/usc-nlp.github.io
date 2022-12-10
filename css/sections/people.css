@@ -10,14 +10,20 @@
 
 .faculty-title {
     color: #444444;
-    font-size: 1em;
+    font-size: 1.25em;
+    margin-bottom: 0;
+}
+
+.faculty-group {
+    color: #444444;
+    font-size: 1.25em;
     margin-bottom: 0;
 }
 
 .faculty-appoint {
     color: #444444;
     margin-bottom: 0.2em;
-    font-size: 0.8em;
+    font-size: 1em;
     line-height: 0.85em;
 }
 
@@ -31,6 +37,7 @@
 .faculty-avatar {
     width: 13em;
     height: 13em;
+    border: 2px solid black;
 }
 
 .faculty-desc {
@@ -48,8 +55,8 @@
 .student-avatar {
     width: 9em;
     height: 9em;
-    padding: 0.25em;
     background-color: white;
+    border: 2px solid black;
 }
 
 .student-card {
