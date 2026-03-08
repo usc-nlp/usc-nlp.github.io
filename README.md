@@ -104,5 +104,5 @@ This fetches co-authorship and topic data from Semantic Scholar and clusters mem
 - **Photos**: Square crop, reasonable file size. Name files `firstname.jpg` (lowercase).
 - **Links**: Every person should link to their personal website. Use `#` if they don't have one.
 - **Co-advised students**: Duplicate the student card in each lab. Keep both copies in sync.
-- **Affiliated groups**: Labs without a CS department faculty PI go in the collapsible "Affiliated Groups" section.
+- **Affiliated members**: Members without a CS department faculty PI go in the "Affiliated Members" section.
 - **No build step**: Edit HTML directly. Open `index.html` in a browser to preview.
