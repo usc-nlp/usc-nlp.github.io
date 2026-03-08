@@ -1,0 +1,4429 @@
+{
+  "generated": "2026-03-08T12:39:00",
+  "researchAreas": [
+    "language models",
+    "large language models",
+    "reasoning",
+    "knowledge",
+    "multimodal",
+    "vision",
+    "robot"
+  ],
+  "nodes": [
+    {
+      "id": "xiang-ren",
+      "name": "Xiang Ren",
+      "role": "faculty",
+      "lab": "INK Lab",
+      "url": "https://shanzhenren.github.io/",
+      "image": "images/faculty/xiang.jpg",
+      "cluster": 0,
+      "topics": [
+        "knowledge",
+        "text",
+        "language models",
+        "large language models",
+        "reasoning"
+      ],
+      "researchAreas": [
+        "language models",
+        "large language models",
+        "reasoning",
+        "knowledge"
+      ],
+      "paperCount": 132,
+      "topPapers": [
+        {
+          "title": "Knowledge-Augmented Methods for Natural Language Processing",
+          "year": 2023,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Chenguang Zhu",
+            "Yichong Xu",
+            "Xiang Ren",
+            "Bill Yuchen Lin",
+            "Meng Jiang",
+            "Wenhao Yu"
+          ],
+          "citations": 19
+        },
+        {
+          "title": "Estimating Large Language Model Capabilities without Labeled Test Data",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Harvey Yiyun Fu",
+            "Qinyuan Ye",
+            "Albert Xu",
+            "Xiang Ren",
+            "Robin Jia"
+          ],
+          "citations": 10
+        },
+        {
+          "title": "FiD-ICL: A Fusion-in-Decoder Approach for Efficient In-Context Learning",
+          "year": 2023,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Qinyuan Ye",
+            "Iz Beltagy",
+            "Matthew E. Peters",
+            "Xiang Ren",
+            "Hannaneh Hajishirzi"
+          ],
+          "citations": 17
+        },
+        {
+          "title": "Exploring Distributional Shifts in Large Language Models for Code Analysis",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Shushan Arakelyan",
+            "Rocktim Jyoti Das",
+            "Yi Mao",
+            "Xiang Ren"
+          ],
+          "citations": 26
+        },
+        {
+          "title": "LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion",
+          "year": 2023,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Dongfu Jiang",
+            "Xiang Ren",
+            "Bill Yuchen Lin"
+          ],
+          "citations": 533
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Xiang-Ren/1384550891",
+      "fetchedDate": "2026-03-08T12:14:27"
+    },
+    {
+      "id": "robin-jia",
+      "name": "Robin Jia",
+      "role": "faculty",
+      "lab": "Allegro Lab",
+      "url": "https://robinjia.github.io/",
+      "image": "images/faculty/robin.jpg",
+      "cluster": 1,
+      "topics": [
+        "question answering",
+        "adversarial",
+        "large language models",
+        "examples",
+        "robust"
+      ],
+      "researchAreas": [
+        "large language models"
+      ],
+      "paperCount": 50,
+      "topPapers": [
+        {
+          "title": "Estimating Large Language Model Capabilities without Labeled Test Data",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Harvey Yiyun Fu",
+            "Qinyuan Ye",
+            "Albert Xu",
+            "Xiang Ren",
+            "Robin Jia"
+          ],
+          "citations": 10
+        },
+        {
+          "title": "Operationalizing content moderation \"accuracy\" in the Digital Services Act",
+          "year": 2023,
+          "venue": "AAAI/ACM Conference on AI, Ethics, and Society",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Frederike Zufall",
+            "Robin Jia"
+          ],
+          "citations": 5
+        },
+        {
+          "title": "Chain-of-Questions Training with Latent Answers for Robust Multistep Question Answering",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Wang Bill Zhu",
+            "Jesse Thomason",
+            "Robin Jia"
+          ],
+          "citations": 13
+        },
+        {
+          "title": "How Predictable Are Large Language Model Capabilities? A Case Study on BIG-bench",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Qinyuan Ye",
+            "Harvey Yiyun Fu",
+            "Xiang Ren",
+            "Robin Jia"
+          ],
+          "citations": 36
+        },
+        {
+          "title": "SCENE: Self-Labeled Counterfactuals for Extrapolating to Negative Examples",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Deqing Fu",
+            "Ameya Godbole",
+            "Robin Jia"
+          ],
+          "citations": 8
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/3422908",
+      "fetchedDate": "2026-03-08T12:14:30"
+    },
+    {
+      "id": "jesse-thomason",
+      "name": "Jesse Thomason",
+      "role": "faculty",
+      "lab": "GLAMOR Lab",
+      "url": "https://jessethomason.com/",
+      "image": "images/faculty/jesse.jpg",
+      "cluster": 2,
+      "topics": [
+        "language",
+        "robot",
+        "vision",
+        "multimodal",
+        "dialog"
+      ],
+      "researchAreas": [
+        "multimodal",
+        "vision",
+        "robot"
+      ],
+      "paperCount": 63,
+      "topPapers": [
+        {
+          "title": "ViSaRL: Visual Reinforcement Learning Guided by Human Saliency",
+          "year": 2024,
+          "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+          "authors": [
+            "Anthony Liang",
+            "Jesse Thomason",
+            "Erdem Biyik"
+          ],
+          "citations": 16
+        },
+        {
+          "title": "ProgPrompt: program generation for situated robot task planning using large language models",
+          "year": 2023,
+          "venue": "Autonomous Robots",
+          "authors": [
+            "Ishika Singh",
+            "Valts Blukis",
+            "A. Mousavian",
+            "Ankit Goyal",
+            "Danfei Xu",
+            "Jonathan Tremblay",
+            "D. Fox",
+            "Jesse Thomason",
+            "Animesh Garg"
+          ],
+          "citations": 82
+        },
+        {
+          "title": "Task-Attentive Transformer Architecture for Continual Learning of Vision-and-Language Tasks Using Knowledge Distillation",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Yuliang Cai",
+            "Jesse Thomason",
+            "Mohammad Rostami"
+          ],
+          "citations": 14
+        },
+        {
+          "title": "RREx-BoT: Remote Referring Expressions with a Bag of Tricks",
+          "year": 2023,
+          "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+          "authors": [
+            "Gunnar A. Sigurdsson",
+            "Jesse Thomason",
+            "G. Sukhatme",
+            "Robinson Piramuthu"
+          ],
+          "citations": 14
+        },
+        {
+          "title": "Self-Supervised 3D Representation Learning for Robotics",
+          "year": 2023,
+          "venue": "",
+          "authors": [
+            "Ishika Singh",
+            "Anthony Liang",
+            "Mohit Shridhar",
+            "Jesse Thomason"
+          ],
+          "citations": 2
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/2665873",
+      "fetchedDate": "2026-03-08T12:14:33"
+    },
+    {
+      "id": "swabha-swayamdipta",
+      "name": "Swabha Swayamdipta",
+      "role": "faculty",
+      "lab": "DILL Lab",
+      "url": "https://swabhs.com/",
+      "image": "images/faculty/swabha.jpg",
+      "cluster": 0,
+      "topics": [
+        "semantic",
+        "language models",
+        "experts",
+        "natural language processing",
+        "syntactic"
+      ],
+      "researchAreas": [
+        "language models"
+      ],
+      "paperCount": 45,
+      "topPapers": [
+        {
+          "title": "Uncovering Intervention Opportunities for Suicide Prevention with Language Model Assistants",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jaspreet Ranjit",
+            "Hyundong Justin Cho",
+            "Claire J. Smerdon",
+            "Yoonsoo Nam",
+            "Myles Phung",
+            "Jonathan May",
+            "J. Blosnich",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Evaluation Under Imperfect Benchmarks and Ratings: A Case Study in Text Simplification",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Joseph Liu",
+            "Yoonsoo Nam",
+            "Xinyue Cui",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 4
+        },
+        {
+          "title": "Robust Data Watermarking in Language Models by Injecting Fictitious Knowledge",
+          "year": 2025,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Xinyue Cui",
+            "Johnny Tian-Zheng Wei",
+            "Swabha Swayamdipta",
+            "Robin Jia"
+          ],
+          "citations": 8
+        },
+        {
+          "title": "How Reliable is Language Model Micro-Benchmarking?",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Gregory Yauney",
+            "Shahzaib Saqib Warraich",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Sample, Align, Synthesize: Graph-Based Response Synthesis with ConGrs",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Sayan Ghosh",
+            "Shahzaib Saqib Warraich",
+            "Dhruv Tarsadiya",
+            "Gregory Yauney",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 0
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/2705113",
+      "fetchedDate": "2026-03-08T12:14:36"
+    },
+    {
+      "id": "jieyu-zhao",
+      "name": "Jieyu Zhao",
+      "role": "faculty",
+      "lab": "LIME Lab",
+      "url": "https://jyzhao.net/",
+      "image": "images/faculty/jieyu.jpeg",
+      "cluster": 0,
+      "topics": [
+        "bias",
+        "gender",
+        "biases",
+        "embeddings",
+        "mitigating"
+      ],
+      "researchAreas": [],
+      "paperCount": 34,
+      "topPapers": [
+        {
+          "title": "Survey: Bias and Explainability",
+          "year": 2023,
+          "venue": "",
+          "authors": [
+            "Hiren Bavaskar",
+            "Pushpak Bhattacharyya",
+            "Ulrich A\u00efvodji",
+            "Hiromi Arai",
+            "O. Fortineau",
+            "D. Aksenov",
+            "Peter Bourgonje",
+            "Karolina Zaczyn-616",
+            "Malte Ostendorff",
+            "J. Schneider",
+            "Christopher J. Anders",
+            "Plamen Pasliev",
+            "Ann-Kathrin Dom-623",
+            "Klaus-Robert M\u00fcller",
+            "P. Kessel",
+            "Jieyu Zhao",
+            "Tianlu Wang",
+            "Mark Yatskar",
+            "Kai-Wei Chang"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Does BERT Exacerbate Gender or L1 Biases in Automated English Speaking Assessment?",
+          "year": 2023,
+          "venue": "Workshop on Innovative Use of NLP for Building Educational Applications",
+          "authors": [
+            "Alexander Kwako",
+            "Yixin Wan",
+            "Jieyu Zhao",
+            "Mark Hansen",
+            "Kai-Wei Chang",
+            "Li Cai"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases in Dialogue Systems",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Yixin Wan",
+            "Jieyu Zhao",
+            "Nanyun Peng",
+            "Kai-Wei Chang",
+            "Aman Chadha"
+          ],
+          "citations": 44
+        },
+        {
+          "title": "Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System",
+          "year": 2022,
+          "venue": "Workshop on Innovative Use of NLP for Building Educational Applications",
+          "authors": [
+            "Alexander Kwako",
+            "Yixin Wan",
+            "Jieyu Zhao",
+            "Kai-Wei Chang",
+            "Li Cai",
+            "Mark Hansen"
+          ],
+          "citations": 9
+        },
+        {
+          "title": "Auditing Algorithmic Fairness in Machine Learning for Health with Severity-Based LOGAN",
+          "year": 2022,
+          "venue": "arXiv.org",
+          "authors": [
+            "Anaelia Ovalle",
+            "Sunipa Dev",
+            "Jieyu Zhao",
+            "M. Sarrafzadeh",
+            "Kai-Wei Chang"
+          ],
+          "citations": 2
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Jieyu-Zhao/33524946",
+      "fetchedDate": "2026-03-08T12:14:39"
+    },
+    {
+      "id": "hirona-arai",
+      "name": "Hirona Arai",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://www.hironaarai.com/",
+      "image": "images/students/hirona.jpeg",
+      "cluster": 0,
+      "topics": [
+        "planning",
+        "plasma",
+        "procedural",
+        "knowledge",
+        "making"
+      ],
+      "researchAreas": [
+        "language models",
+        "knowledge"
+      ],
+      "paperCount": 4,
+      "topPapers": [
+        {
+          "title": "Can VLMs Recall Factual Associations From Visual References?",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Dhananjay Ashok",
+            "Ashutosh Chaubey",
+            "H. J. Arai",
+            "Jonathan May",
+            "J. Thomason"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "PlaSma: Procedural Knowledge Models for Language-based Planning and Re-Planning",
+          "year": 2024,
+          "venue": "International Conference on Learning Representations",
+          "authors": [
+            "Faeze Brahman",
+            "Chandra Bhagavatula",
+            "Valentina Pyatkin",
+            "Jena D. Hwang",
+            "Xiang Lorraine Li",
+            "H. J. Arai",
+            "Soumya Sanyal",
+            "Keisuke Sakaguchi",
+            "Xiang Ren",
+            "Yejin Choi"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning",
+          "year": 2023,
+          "venue": "",
+          "authors": [
+            "Faeze Brahman",
+            "Chandra Bhagavatula",
+            "Valentina Pyatkin",
+            "Jena D. Hwang",
+            "Xiang Lorraine Li",
+            "H. J. Arai",
+            "Soumya Sanyal",
+            "Keisuke Sakaguchi",
+            "Xiang Ren",
+            "Yejin Choi"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning",
+          "year": 2023,
+          "venue": "arXiv.org",
+          "authors": [
+            "Faeze Brahman",
+            "Chandra Bhagavatula",
+            "Valentina Pyatkin",
+            "Jena D. Hwang",
+            "Xiang Lorraine Li",
+            "H. J. Arai",
+            "Soumya Sanyal",
+            "Keisuke Sakaguchi",
+            "Xiang Ren",
+            "Yejin Choi"
+          ],
+          "citations": 27
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/H.-J.-Arai/2218605855",
+      "fetchedDate": "2026-03-08T12:29:42"
+    },
+    {
+      "id": "jacob-bremerman",
+      "name": "Jacob Bremerman",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://bremerman.me/",
+      "image": "images/students/jacob.jpg",
+      "cluster": 2,
+      "topics": [
+        "translation",
+        "evaluation",
+        "machine translation",
+        "multilingual",
+        "tedx"
+      ],
+      "researchAreas": [],
+      "paperCount": 7,
+      "topPapers": [
+        {
+          "title": "Machine Translation Robustness to Natural Asemantic Variation",
+          "year": 2022,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Jacob Bremerman",
+            "Xiang Ren",
+            "Jonathan May"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "FINDINGS OF THE IWSLT 2021 EVALUATION CAMPAIGN",
+          "year": 2021,
+          "venue": "International Workshop on Spoken Language Translation",
+          "authors": [
+            "Antonios Anastasopoulos",
+            "Ondrej Bojar",
+            "Jacob Bremerman",
+            "R. Cattoni",
+            "Maha Elbayad",
+            "Marcello Federico",
+            "Xutai Ma",
+            "Satoshi Nakamura",
+            "Matteo Negri",
+            "J. Niehues",
+            "J. Pino",
+            "Elizabeth Salesky",
+            "Sebastian St\u00fcker",
+            "Katsuhito Sudoh",
+            "Marco Turchi",
+            "A. Waibel",
+            "Changhan Wang",
+            "Matthew Wiesner"
+          ],
+          "citations": 81
+        },
+        {
+          "title": "The Multilingual TEDx Corpus for Speech Recognition and Translation",
+          "year": 2021,
+          "venue": "Interspeech",
+          "authors": [
+            "Elizabeth Salesky",
+            "Matthew Wiesner",
+            "Jacob Bremerman",
+            "R. Cattoni",
+            "Matteo Negri",
+            "Marco Turchi",
+            "Douglas W. Oard",
+            "Matt Post"
+          ],
+          "citations": 140
+        },
+        {
+          "title": "The JHU Submission to the 2020 Duolingo Shared Task on Simultaneous Translation and Paraphrase for Language Education",
+          "year": 2020,
+          "venue": "Workshop on Neural Generation and Translation",
+          "authors": [
+            "Huda Khayrallah",
+            "Jacob Bremerman",
+            "Arya D. McCarthy",
+            "Kenton Murray",
+            "Winston Wu",
+            "Matt Post"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "Two Test Collections for Retrieval Using Named Entity Markup",
+          "year": 2020,
+          "venue": "International Conference on Information and Knowledge Management",
+          "authors": [
+            "Jacob Bremerman",
+            "Dawn J Lawrie",
+            "J. Mayfield",
+            "Douglas W. Oard"
+          ],
+          "citations": 0
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/103022133",
+      "fetchedDate": "2026-03-08T12:14:43"
+    },
+    {
+      "id": "matthew-finlayson",
+      "name": "Matthew Finlayson",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://mattf1n.github.io/",
+      "image": "images/students/matt.jpeg",
+      "cluster": 0,
+      "topics": [
+        "language models",
+        "neural",
+        "decoding",
+        "meta",
+        "generation"
+      ],
+      "researchAreas": [
+        "language models",
+        "large language models"
+      ],
+      "paperCount": 12,
+      "topPapers": [
+        {
+          "title": "Post-training an LLM for RAG? Train on Self-Generated Demonstrations",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Matthew Finlayson",
+            "Ilia Kulikov",
+            "Daneil M. Bikel",
+            "Barlas O\u011fuz",
+            "Xilun Chen",
+            "Aasish Pappu"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "Better Language Model Inversion by Compactly Representing Next-Token Distributions",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Murtaza Nazir",
+            "Matthew Finlayson",
+            "John X. Morris",
+            "Xiang Ren",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 6
+        },
+        {
+          "title": "Teaching Models to Understand (but not Generate) High-risk Data",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Ryan Wang",
+            "Matthew Finlayson",
+            "Luca Soldaini",
+            "Swabha Swayamdipta",
+            "Robin Jia"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Every Language Model Has a Forgery-Resistant Signature",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Matthew Finlayson",
+            "Xiang Ren",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Logits of API-Protected LLMs Leak Proprietary Information",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Matthew Finlayson",
+            "Xiang Ren",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 39
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/1580418311",
+      "fetchedDate": "2026-03-08T12:14:46"
+    },
+    {
+      "id": "skyler-hallinan",
+      "name": "Skyler Hallinan",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://skylerhallinan.com/",
+      "image": "images/students/skyler.jpeg",
+      "cluster": 0,
+      "topics": [
+        "self",
+        "text",
+        "tailoring",
+        "distillation",
+        "multi"
+      ],
+      "researchAreas": [
+        "reasoning"
+      ],
+      "paperCount": 18,
+      "topPapers": [
+        {
+          "title": "OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Skyler Hallinan",
+            "Thejas Venkatesh",
+            "Xiang Ren",
+            "Sai Praneeth Karimireddy",
+            "Ashwin Paranjape",
+            "Yuhao Zhang",
+            "Jack Hessel"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "LLaMA-Berry: Pairwise Optimization for Olympiad-level Mathematical Reasoning via O1-like Monte Carlo Tree Search",
+          "year": 2025,
+          "venue": "North American Chapter of the Association for Computational Linguistics",
+          "authors": [
+            "Di Zhang",
+            "Jianbo Wu",
+            "Jingdi Lei",
+            "Tong Che",
+            "Jiatong Li",
+            "Tong Xie",
+            "Xiaoshui Huang",
+            "Shufei Zhang",
+            "Marco Pavone",
+            "Yuqiang Li",
+            "Wanli Ouyang",
+            "Dongzhan Zhou",
+            "Minpeng Liao",
+            "Wei Luo",
+            "Chengxi Li",
+            "Jing Wu",
+            "Kai Fan. 2024. Mario",
+            "Jiacheng Liu",
+            "Andrew Cohen",
+            "Ramakanth Pasunuru",
+            "Yejin Choi",
+            "Hanna Hajishirzi",
+            "Asli Celiky-ilmaz",
+            "Liangchen Luo",
+            "Yinxiao Liu",
+            "Rosanne Liu",
+            "Samrat Phatale",
+            "Harsh Lara",
+            "Yunxuan Li",
+            "Lei Shu",
+            "Yun Zhu",
+            "Lei Meng",
+            "Jiao Sun",
+            "Abhinav Rastogi",
+            "Qianli Ma",
+            "Hao Zhou",
+            "Tingkai Liu",
+            "Jianbo Yuan",
+            "Pengfei Liu",
+            "Yang You",
+            "Hongxia Yang",
+            "Aman Madaan",
+            "Niket Tandon",
+            "Prakhar Gupta",
+            "Skyler Hallinan",
+            "Luyu Gao",
+            "Sarah Wiegreffe",
+            "Uri Alon",
+            "Nouha Dziri",
+            "Shrimai Prabhumoye",
+            "Yiming Yang",
+            "Shashank Gupta",
+            "Bodhisattwa Prasad Majumder",
+            "Katherine Hermann",
+            "S. Welleck",
+            "Amir Yazdan-bakhsh",
+            "Peter Clark",
+            "Aaron Meurer",
+            "Mateusz Christopher P. Smith",
+            "Ond\u02c7rej \u02c7Cert\u00edk",
+            "S. B. Kirpichev",
+            "M. Rocklin",
+            "Amit Kumar",
+            "Sergiu Ivanov",
+            "J. K. Moore",
+            "Sartaj Singh",
+            "T. Rathnayake",
+            "Sean Vig",
+            "B. Granger",
+            "R. Muller",
+            "F. Bonazzi",
+            "Harsh Gupta",
+            "Fredrik Shivam Vats",
+            "Fabian Pedregosa",
+            "Matthew J. Curry",
+            "A. Terrel",
+            "\u0160t\u02c7ep\u00e1n Rou\u02c7cka",
+            "Ashutosh Saboo",
+            "Isuru Fer-nando",
+            "Sumith Kulal",
+            "R. Cimrman",
+            "Anthony Scopatz. 2017",
+            "SymPy",
+            "Zhihong Shao",
+            "Peiyi Wang",
+            "Qihao Zhu",
+            "Runxin Xu",
+            "Jun-Mei Song",
+            "Mingchuan Zhang",
+            "YK Li",
+            "Yu Wu",
+            "Daya Guo. 2024",
+            "Deepseekmath",
+            "Noah Shinn",
+            "Federico Cassano",
+            "E. Karthik",
+            "Narasimhan Ashwin"
+          ],
+          "citations": 9
+        },
+        {
+          "title": "Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Sahana Ramnath",
+            "Anurag Mudgil",
+            "Brihi Joshi",
+            "Skyler Hallinan",
+            "Xiang Ren"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jaehun Jung",
+            "Seungju Han",
+            "Ximing Lu",
+            "Skyler Hallinan",
+            "David Acuna",
+            "Shrimai Prabhumoye",
+            "Mostafa Patwary",
+            "M. Shoeybi",
+            "Bryan Catanzaro",
+            "Yejin Choi"
+          ],
+          "citations": 19
+        },
+        {
+          "title": "The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Skyler Hallinan",
+            "Jaehun Jung",
+            "Melanie Sclar",
+            "Ximing Lu",
+            "Abhilasha Ravichander",
+            "Sahana Ramnath",
+            "Yejin Choi",
+            "Sai Praneeth Karimireddy",
+            "Niloofar Mireshghallah",
+            "Xiang Ren"
+          ],
+          "citations": 3
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/1474550731",
+      "fetchedDate": "2026-03-08T12:14:49"
+    },
+    {
+      "id": "brihi-joshi",
+      "name": "Brihi Joshi",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://brihijoshi.github.io/",
+      "image": "images/students/brihi.jpg",
+      "cluster": 0,
+      "topics": [
+        "rationales",
+        "text",
+        "multi",
+        "collusive",
+        "free"
+      ],
+      "researchAreas": [],
+      "paperCount": 19,
+      "topPapers": [
+        {
+          "title": "Tailoring Self-Rationalizers with Multi-Reward Distillation",
+          "year": 2024,
+          "venue": "International Conference on Learning Representations",
+          "authors": [
+            "Sahana Ramnath",
+            "Brihi Joshi",
+            "Skyler Hallinan",
+            "Ximing Lu",
+            "Liunian Harold Li",
+            "Aaron Chan",
+            "Jack Hessel",
+            "Yejin Choi",
+            "Xiang Ren"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Tailoring Self-Rationalizers with Multi-Reward Distillation",
+          "year": 2023,
+          "venue": "arXiv.org",
+          "authors": [
+            "Sahana Ramnath",
+            "Brihi Joshi",
+            "Skyler Hallinan",
+            "Ximing Lu",
+            "Liunian Harold Li",
+            "Aaron Chan",
+            "Jack Hessel",
+            "Yejin Choi",
+            "Xiang Ren"
+          ],
+          "citations": 23
+        },
+        {
+          "title": "Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-text Rationales",
+          "year": 2023,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Brihi Joshi",
+            "Ziyi Liu",
+            "Sahana Ramnath",
+            "Aaron Chan",
+            "Zhewei Tong",
+            "Shaoliang Nie",
+            "Qifan Wang",
+            "Yejin Choi",
+            "Xiang Ren"
+          ],
+          "citations": 41
+        },
+        {
+          "title": "BaDumTss: Multi-task Learning for Beatbox Transcription",
+          "year": 2022,
+          "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+          "authors": [
+            "P. Mehta",
+            "Meet Maheshwari",
+            "Brihi Joshi",
+            "Tanmoy Chakraborty"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "ER-TEST Evaluating Explanation Regularization Methods for NLP Models",
+          "year": 2022,
+          "venue": "TRUSTNLP",
+          "authors": [
+            "Brihi Joshi",
+            "Aaron Chan",
+            "Ziyi Liu",
+            "Shaoliang Nie",
+            "Maziar Sanjabi",
+            "Hamed Firooz",
+            "Xiang Ren"
+          ],
+          "citations": 4
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/41017365",
+      "fetchedDate": "2026-03-08T12:14:52"
+    },
+    {
+      "id": "huihan-li",
+      "name": "Huihan Li",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://huihanlhh.github.io/",
+      "image": "images/students/huihan.jpg",
+      "cluster": 0,
+      "topics": [
+        "search",
+        "long",
+        "tail",
+        "culture",
+        "systematic"
+      ],
+      "researchAreas": [
+        "knowledge"
+      ],
+      "paperCount": 7,
+      "topPapers": [
+        {
+          "title": "Diagnosing Memorization in Chain-of-Thought Reasoning, One Token at a Time",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Huihan Li",
+            "You Chen",
+            "Siyuan Wang",
+            "Yixin He",
+            "Ninareh Mehrabi",
+            "Rahul Gupta",
+            "Xiang Ren"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Huihan Li",
+            "Liwei Jiang",
+            "Nouha Dziri",
+            "Xiang Ren",
+            "Yejin Choi"
+          ],
+          "citations": 58
+        },
+        {
+          "title": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
+          "year": 2024,
+          "venue": "International Conference on Learning Representations",
+          "authors": [
+            "Huihan Li",
+            "Arnav Goel",
+            "Keyu He",
+            "Xiang Ren"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Huihan Li",
+            "Yuting Ning",
+            "Zeyi Liao",
+            "Siyuan Wang",
+            "Xiang Lorraine Li",
+            "Ximing Lu",
+            "Wenting Zhao",
+            "Faeze Brahman",
+            "Yejin Choi",
+            "Xiang Ren"
+          ],
+          "citations": 11
+        },
+        {
+          "title": "In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search",
+          "year": 2023,
+          "venue": "arXiv.org",
+          "authors": [
+            "Huihan Li",
+            "Yuting Ning",
+            "Zeyi Liao",
+            "Siyuan Wang",
+            "Xiang Lorraine Li",
+            "Ximing Lu",
+            "Faeze Brahman",
+            "Wenting Zhao",
+            "Yejin Choi",
+            "Xiang Ren"
+          ],
+          "citations": 5
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Huihan-Li/2144403358",
+      "fetchedDate": "2026-03-08T12:29:45"
+    },
+    {
+      "id": "sahana-ramnath",
+      "name": "Sahana Ramnath",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://sahanaramnath.github.io/",
+      "image": "images/students/sahana.jpg",
+      "cluster": 0,
+      "topics": [
+        "tailoring",
+        "multi",
+        "rationales",
+        "utility",
+        "inference"
+      ],
+      "researchAreas": [],
+      "paperCount": 13,
+      "topPapers": [
+        {
+          "title": "DIAL-SUMMER: A Structured Evaluation Framework of Hierarchical Errors in Dialogue Summaries",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Sahana Ramnath",
+            "Nima Chitsazan",
+            "Mingyang Zhou",
+            "Chia-Hsuan Lee",
+            "Shixiong Zhang",
+            "Stephen Rawls",
+            "Sambit Sahu",
+            "Sangwoo Cho",
+            "Xiang Ren",
+            "Genta Indra Winata",
+            "A. Veldanda"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "ELI-Why: Evaluating the Pedagogical Utility of Language Model Explanations",
+          "year": 2025,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Brihi Joshi",
+            "Keyu He",
+            "Sahana Ramnath",
+            "Sadra Sabouri",
+            "Kaitlyn Zhou",
+            "Souti Chattopadhyay",
+            "Swabha Swayamdipta",
+            "Xiang Ren"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Sahana Ramnath",
+            "Anurag Mudgil",
+            "Brihi Joshi",
+            "Skyler Hallinan",
+            "Xiang Ren"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Skyler Hallinan",
+            "Jaehun Jung",
+            "Melanie Sclar",
+            "Ximing Lu",
+            "Abhilasha Ravichander",
+            "Sahana Ramnath",
+            "Yejin Choi",
+            "Sai Praneeth Karimireddy",
+            "Niloofar Mireshghallah",
+            "Xiang Ren"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "CAVE: Controllable Authorship Verification Explanations",
+          "year": 2024,
+          "venue": "North American Chapter of the Association for Computational Linguistics",
+          "authors": [
+            "Sahana Ramnath",
+            "K. Pandey",
+            "Elizabeth Boschee",
+            "Xiang Ren"
+          ],
+          "citations": 3
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/1399403094",
+      "fetchedDate": "2026-03-08T12:14:55"
+    },
+    {
+      "id": "ting-yun-chang",
+      "name": "Ting-Yun Chang",
+      "role": "student",
+      "lab": "Allegro Lab",
+      "url": "https://terachang.github.io/",
+      "image": "images/students/ting-yun.jpg",
+      "cluster": 2,
+      "topics": [
+        "llm",
+        "commonsense",
+        "word",
+        "localization",
+        "actually"
+      ],
+      "researchAreas": [],
+      "paperCount": 14,
+      "topPapers": [
+        {
+          "title": "Why Do Some Inputs Break Low-Bit LLM Quantization?",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Ting-Yun Chang",
+            "Muru Zhang",
+            "Jesse Thomason",
+            "Robin Jia"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Vibe Checker: Aligning Code Evaluation with Human Preference",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Ming Zhong",
+            "Xiang Zhou",
+            "Ting-Yun Chang",
+            "Qingze Wang",
+            "Nan Xu",
+            "Xi-ance Si",
+            "Dan Garrette",
+            "Shyam Upadhyay",
+            "Jerry Liu",
+            "Jiawei Han",
+            "Beno\u00eet Schillings",
+            "Jiao Sun"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "When Parts Are Greater Than Sums: Individual LLM Components Can Outperform Full Models",
+          "year": 2024,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Ting-Yun Chang",
+            "Jesse Thomason",
+            "Robin Jia"
+          ],
+          "citations": 6
+        },
+        {
+          "title": "Do Localization Methods Actually Localize Memorized Data in LLMs? A Tale of Two Benchmarks",
+          "year": 2023,
+          "venue": "North American Chapter of the Association for Computational Linguistics",
+          "authors": [
+            "Ting-Yun Chang",
+            "Jesse Thomason",
+            "Robin Jia"
+          ],
+          "citations": 26
+        },
+        {
+          "title": "CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks",
+          "year": 2022,
+          "venue": "Neural Information Processing Systems",
+          "authors": [
+            "Tejas Srinivasan",
+            "Ting-Yun Chang",
+            "Leticia Pinto-Alva",
+            "Georgios Chochlakis",
+            "Mohammad Rostami",
+            "Jesse Thomason"
+          ],
+          "citations": 85
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Ting-Yun-Chang/3386996",
+      "fetchedDate": "2026-03-08T12:14:58"
+    },
+    {
+      "id": "deqing-fu",
+      "name": "Deqing Fu",
+      "role": "student",
+      "lab": "Allegro Lab",
+      "url": "https://sites.google.com/usc.edu/deqingfu",
+      "image": "images/students/deqing.jpeg",
+      "cluster": 1,
+      "topics": [
+        "transformers",
+        "learn",
+        "large language models",
+        "order",
+        "in-context learning"
+      ],
+      "researchAreas": [
+        "large language models",
+        "multimodal",
+        "vision"
+      ],
+      "paperCount": 21,
+      "topPapers": [
+        {
+          "title": "EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Amin Banayeeanzade",
+            "Qin Yang",
+            "Deqing Fu",
+            "Spencer Hong",
+            "Erin Babinsky",
+            "Alfy Samuel",
+            "Anoop Kumar",
+            "Robin Jia",
+            "Sai Praneeth Karimireddy"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Are LLM Decisions Faithful to Verbal Confidence?",
+          "year": 2026,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jiawei Wang",
+            "Yanfei Zhou",
+            "Siddartha Devic",
+            "Deqing Fu"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Ang Li",
+            "Charles L. Wang",
+            "Kaiyu Yue",
+            "Zikui Cai",
+            "Ollie Liu",
+            "Deqing Fu",
+            "Peng Guo",
+            "Wang Bill Zhu",
+            "V. Sharan",
+            "Robin Jia",
+            "Willie Neiswanger",
+            "Furong Huang",
+            "Tom Goldstein",
+            "Micah Goldblum"
+          ],
+          "citations": 34
+        },
+        {
+          "title": "Resa: Transparent Reasoning Models via SAEs",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Shangshang Wang",
+            "Julian Asilis",
+            "Omer Faruk Akgul",
+            "Enes Burak Bilgin",
+            "Ollie Liu",
+            "Deqing Fu",
+            "Willie Neiswanger"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "Textual Steering Vectors Can Improve Visual Understanding in Multimodal Large Language Models",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Woody Haosheng Gan",
+            "Deqing Fu",
+            "Julian Asilis",
+            "Ollie Liu",
+            "Dani Yogatama",
+            "V. Sharan",
+            "Robin Jia",
+            "Willie Neiswanger"
+          ],
+          "citations": 5
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/2135593484",
+      "fetchedDate": "2026-03-08T12:15:02"
+    },
+    {
+      "id": "ameya-godbole",
+      "name": "Ameya Godbole",
+      "role": "student",
+      "lab": "Allegro Lab",
+      "url": "https://ameyagodbole.github.io/",
+      "image": "images/students/ameya.jpg",
+      "cluster": 1,
+      "topics": [
+        "reasoning",
+        "llm",
+        "knowledge",
+        "multi",
+        "interrogating"
+      ],
+      "researchAreas": [
+        "reasoning",
+        "knowledge"
+      ],
+      "paperCount": 17,
+      "topPapers": [
+        {
+          "title": "TokenSmith: Streamlining Data Editing, Search, and Inspection for Large-Scale Language Model Training and Interpretability",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Mohammad Aflah Khan",
+            "Ameya Godbole",
+            "Johnny Tian-Zheng Wei",
+            "Ryan Wang",
+            "James Flemings",
+            "Krishna P. Gummadi",
+            "Willie Neiswanger",
+            "Robin Jia"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Verify with Caution: The Pitfalls of Relying on Imperfect Factuality Metrics",
+          "year": 2025,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Ameya Godbole",
+            "Robin Jia"
+          ],
+          "citations": 4
+        },
+        {
+          "title": "Interrogating LLM design under a fair learning doctrine",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Maggie Wang",
+            "Ameya Godbole",
+            "Jonathan Choi",
+            "Robin Jia"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Interrogating LLM design under copyright law",
+          "year": 2025,
+          "venue": "Conference on Fairness, Accountability and Transparency",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Maggie Wang",
+            "Ameya Godbole",
+            "Jonathan Choi",
+            "Robin Jia"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Hubble: a Model Suite to Advance the Study of LLM Memorization",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Ameya Godbole",
+            "Mohammad Aflah Khan",
+            "Ryan Wang",
+            "Xiaoyuan Zhu",
+            "James Flemings",
+            "Nitya Kashyap",
+            "Krishna P. Gummadi",
+            "Willie Neiswanger",
+            "Robin Jia"
+          ],
+          "citations": 5
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/36851489",
+      "fetchedDate": "2026-03-08T12:15:05"
+    },
+    {
+      "id": "johnny-wei",
+      "name": "Johnny Wei",
+      "role": "student",
+      "lab": "Allegro Lab",
+      "url": "https://johntzwei.github.io/",
+      "image": "images/students/johnny.jpg",
+      "cluster": 1,
+      "topics": [
+        "llm",
+        "metrics",
+        "shared",
+        "american",
+        "level"
+      ],
+      "researchAreas": [],
+      "paperCount": 10,
+      "topPapers": [
+        {
+          "title": "Interrogating LLM design under a fair learning doctrine",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Maggie Wang",
+            "Ameya Godbole",
+            "Jonathan Choi",
+            "Robin Jia"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Hubble: a Model Suite to Advance the Study of LLM Memorization",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Ameya Godbole",
+            "Mohammad Aflah Khan",
+            "Ryan Wang",
+            "Xiaoyuan Zhu",
+            "James Flemings",
+            "Nitya Kashyap",
+            "Krishna P. Gummadi",
+            "Willie Neiswanger",
+            "Robin Jia"
+          ],
+          "citations": 5
+        },
+        {
+          "title": "Proving membership in LLM pretraining data via data watermarks",
+          "year": 2024,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Ryan Wang",
+            "Robin Jia"
+          ],
+          "citations": 52
+        },
+        {
+          "title": "Operationalizing content moderation \"accuracy\" in the Digital Services Act",
+          "year": 2023,
+          "venue": "AAAI/ACM Conference on AI, Ethics, and Society",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Frederike Zufall",
+            "Robin Jia"
+          ],
+          "citations": 5
+        },
+        {
+          "title": "Searching for a Higher Power in the Human Evaluation of MT",
+          "year": 2022,
+          "venue": "Conference on Machine Translation",
+          "authors": [
+            "Johnny Tian-Zheng Wei",
+            "Tom Kocmi",
+            "C. Federmann"
+          ],
+          "citations": 6
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/6145196",
+      "fetchedDate": "2026-03-08T12:15:08"
+    },
+    {
+      "id": "yuqing-yang",
+      "name": "Yuqing Yang",
+      "role": "student",
+      "lab": "Allegro Lab",
+      "url": "https://ayyyq.github.io/",
+      "image": "images/students/yuqing.jpg",
+      "cluster": 1,
+      "topics": [
+        "large language models",
+        "honesty",
+        "reasoning",
+        "benchmarking",
+        "document"
+      ],
+      "researchAreas": [
+        "large language models",
+        "reasoning"
+      ],
+      "paperCount": 13,
+      "topPapers": [
+        {
+          "title": "When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Yuqing Yang",
+            "Robin Jia"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "Alignment for Honesty",
+          "year": 2024,
+          "venue": "Advances in Neural Information Processing Systems 37",
+          "authors": [
+            "Ethan Chern",
+            "Pengfei Liu",
+            "Graham Neubig",
+            "Xipeng Qiu",
+            "Yuqing Yang"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "BeHonest: Benchmarking Honesty of Large Language Models",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Steffi Chern",
+            "Zhulin Hu",
+            "Yuqing Yang",
+            "Ethan Chern",
+            "Yuan Guo",
+            "Jiahe Jin",
+            "Binjie Wang",
+            "Pengfei Liu"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Weak-to-Strong Reasoning",
+          "year": 2024,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Yuqing Yang",
+            "Yan Ma",
+            "Pengfei Liu"
+          ],
+          "citations": 29
+        },
+        {
+          "title": "BeHonest: Benchmarking Honesty in Large Language Models",
+          "year": 2024,
+          "venue": "",
+          "authors": [
+            "Steffi Chern",
+            "Zhulin Hu",
+            "Yuqing Yang",
+            "Ethan Chern",
+            "Yuan Guo",
+            "Jiahe Jin",
+            "Binjie Wang",
+            "Pengfei Liu"
+          ],
+          "citations": 12
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Yuqing-Yang/2145435513",
+      "fetchedDate": "2026-03-08T12:15:11"
+    },
+    {
+      "id": "muru-zhang",
+      "name": "Muru Zhang",
+      "role": "student",
+      "lab": "Allegro Lab",
+      "url": "https://nanami18.github.io/",
+      "image": "images/students/muru.jpg",
+      "cluster": 0,
+      "topics": [
+        "language models",
+        "hallucinations",
+        "snowball",
+        "impossibly",
+        "good"
+      ],
+      "researchAreas": [
+        "language models"
+      ],
+      "paperCount": 7,
+      "topPapers": [
+        {
+          "title": "Learning to Build by Building Your Own Instructions",
+          "year": 2024,
+          "venue": "European Conference on Computer Vision",
+          "authors": [
+            "Aaron Walsman",
+            "Muru Zhang",
+            "Adam Fishman",
+            "Ali Farhadi",
+            "Dieter Fox"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "How Language Model Hallucinations Can Snowball",
+          "year": 2023,
+          "venue": "International Conference on Machine Learning",
+          "authors": [
+            "Muru Zhang",
+            "Ofir Press",
+            "William Merrill",
+            "Alisa Liu",
+            "Noah A. Smith"
+          ],
+          "citations": 386
+        },
+        {
+          "title": "STOW: Discrete-Frame Segmentation and Tracking of Unseen Objects for Warehouse Picking Robots",
+          "year": 2023,
+          "venue": "Conference on Robot Learning",
+          "authors": [
+            "Yi Li",
+            "Muru Zhang",
+            "Markus Grotz",
+            "Kaichun Mo",
+            "Dieter Fox"
+          ],
+          "citations": 5
+        },
+        {
+          "title": "Impossibly Good Experts and How to Follow Them",
+          "year": 2023,
+          "venue": "International Conference on Learning Representations",
+          "authors": [
+            "Aaron Walsman",
+            "Muru Zhang",
+            "Sanjiban Choudhury",
+            "Ali Farhadi",
+            "D. Fox"
+          ],
+          "citations": 19
+        },
+        {
+          "title": "Break and Make: Interactive Structural Understanding Using LEGO Bricks",
+          "year": 2022,
+          "venue": "European Conference on Computer Vision",
+          "authors": [
+            "Aaron Walsman",
+            "Muru Zhang",
+            "Klemen Kotar",
+            "Karthik Desingh",
+            "Ali Farhadi",
+            "D. Fox"
+          ],
+          "citations": 13
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Muru-Zhang/2116096584",
+      "fetchedDate": "2026-03-08T12:29:48"
+    },
+    {
+      "id": "tianyi-zhou",
+      "name": "Tianyi Zhou",
+      "role": "student",
+      "lab": "Allegro Lab",
+      "url": "https://kevinzhoutianyi.github.io/",
+      "image": "images/students/tianyi.jpg",
+      "cluster": 1,
+      "topics": [
+        "fourier",
+        "features",
+        "transformers",
+        "learn",
+        "low"
+      ],
+      "researchAreas": [
+        "large language models"
+      ],
+      "paperCount": 5,
+      "topPapers": [
+        {
+          "title": "FoNE: Precise Single-Token Number Embeddings via Fourier Features",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Tianyi Zhou",
+            "Deqing Fu",
+            "Mahdi Soltanolkotabi",
+            "Robin Jia",
+            "V. Sharan"
+          ],
+          "citations": 4
+        },
+        {
+          "title": "LUT-HD: Accelerating Hyperdimensional Computing Inference via Efficient Table Lookup",
+          "year": 2025,
+          "venue": "2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)",
+          "authors": [
+            "Haodong Lu",
+            "Da Tang",
+            "Xiqiong Bai",
+            "Zexu Zhang",
+            "Tianyi Zhou",
+            "Xinran Li",
+            "Kun Wang"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Transformers Learn Low Sensitivity Functions: Investigations and Implications",
+          "year": 2024,
+          "venue": "International Conference on Learning Representations",
+          "authors": [
+            "Bhavya Vasudeva",
+            "Deqing Fu",
+            "Tianyi Zhou",
+            "Elliott Kau",
+            "Youqi Huang",
+            "V. Sharan"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "Simplicity Bias of Transformers to Learn Low Sensitivity Functions",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Bhavya Vasudeva",
+            "Deqing Fu",
+            "Tianyi Zhou",
+            "Elliott Kau",
+            "Youqi Huang",
+            "V. Sharan"
+          ],
+          "citations": 8
+        },
+        {
+          "title": "Pre-trained Large Language Models Use Fourier Features to Compute Addition",
+          "year": 2024,
+          "venue": "Neural Information Processing Systems",
+          "authors": [
+            "Tianyi Zhou",
+            "Deqing Fu",
+            "V. Sharan",
+            "Robin Jia"
+          ],
+          "citations": 37
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Tianyi-Zhou/2291084729",
+      "fetchedDate": "2026-03-08T12:15:14"
+    },
+    {
+      "id": "bill-zhu",
+      "name": "Bill Zhu",
+      "role": "student",
+      "lab": "Allegro Lab",
+      "url": "https://billzhu.me/",
+      "image": "images/students/bill.jpeg",
+      "cluster": 2,
+      "topics": [
+        "vision",
+        "visual",
+        "language models",
+        "questions",
+        "language"
+      ],
+      "researchAreas": [
+        "language models",
+        "multimodal",
+        "vision"
+      ],
+      "paperCount": 22,
+      "topPapers": [
+        {
+          "title": "Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Ang Li",
+            "Charles L. Wang",
+            "Kaiyu Yue",
+            "Zikui Cai",
+            "Ollie Liu",
+            "Deqing Fu",
+            "Peng Guo",
+            "Wang Bill Zhu",
+            "V. Sharan",
+            "Robin Jia",
+            "Willie Neiswanger",
+            "Furong Huang",
+            "Tom Goldstein",
+            "Micah Goldblum"
+          ],
+          "citations": 34
+        },
+        {
+          "title": "PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Wang Bill Zhu",
+            "Miaosen Chai",
+            "Ishika Singh",
+            "Robin Jia",
+            "Jesse Thomason"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks",
+          "year": 2025,
+          "venue": "International Conference on Learning Representations",
+          "authors": [
+            "Jiacheng Chen",
+            "Tianhao Liang",
+            "Sherman Siu",
+            "Zhengqing Wang",
+            "Kai Wang",
+            "Yubo Wang",
+            "Yuansheng Ni",
+            "Ziyan Jiang",
+            "Wang Bill Zhu",
+            "Bohan Lyu",
+            "Dongfu Jiang",
+            "Xuan He",
+            "Yuan-Ting Liu",
+            "Hexiang Hu",
+            "Xiang Yue",
+            "Wenhu Chen"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Wang Bill Zhu",
+            "Tianqi Chen",
+            "Ching Ying Lin",
+            "Jade Law",
+            "Mazen Jizzini",
+            "Jorge J. Nieva",
+            "Ruishan Liu",
+            "Robin Jia"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "Zero-Shot Iterative Formalization and Planning in Partially Observable Environments",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Li Gong",
+            "Wang Bill Zhu",
+            "Jesse Thomason",
+            "Li Zhang"
+          ],
+          "citations": 1
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Wang-Bill-Zhu/2267003898",
+      "fetchedDate": "2026-03-08T12:29:51"
+    },
+    {
+      "id": "abrar-anwar",
+      "name": "Abrar Anwar",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "https://abraranwar.github.io/",
+      "image": "images/students/abrar.png",
+      "cluster": 2,
+      "topics": [
+        "robot",
+        "language",
+        "multi",
+        "policies",
+        "multimodal"
+      ],
+      "researchAreas": [
+        "multimodal",
+        "robot"
+      ],
+      "paperCount": 17,
+      "topPapers": [
+        {
+          "title": "Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Anthony Liang",
+            "Yigit Korkmaz",
+            "Jiahui Zhang",
+            "Minyoung Hwang",
+            "Abrar Anwar",
+            "Sid Kaushik",
+            "Adit Shah",
+            "Alex Huang",
+            "Luke S. Zettlemoyer",
+            "Dieter Fox",
+            "Yu Xiang",
+            "Anqi Li",
+            "Andreea Bobu",
+            "Abhishek Gupta",
+            "Stephen Tu",
+            "Erdem Biyik",
+            "Jesse Zhang"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Chancharik Mitra",
+            "Yusen Luo",
+            "R. Saravanan",
+            "Dantong Niu",
+            "Anirudh Pai",
+            "Jesse Thomason",
+            "Trevor Darrell",
+            "Abrar Anwar",
+            "Deva Ramanan",
+            "Roei Herzig"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "RobotFleet: An Open-Source Framework for Centralized Multi-Robot Task Planning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Rohan Gupta",
+            "Trevor Asbery",
+            "Zain Merchant",
+            "Abrar Anwar",
+            "Jesse Thomason"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Efficient Evaluation of Multi-Task Robot Policies With Active Experiment Selection",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Abrar Anwar",
+            "Rohan Gupta",
+            "Zain Merchant",
+            "Sayan Ghosh",
+            "Willie Neiswanger",
+            "Jesse Thomason"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jiahui Zhang",
+            "Yusen Luo",
+            "Abrar Anwar",
+            "S. Sontakke",
+            "Joseph J. Lim",
+            "Jesse Thomason",
+            "Erdem Biyik",
+            "Jesse Zhang"
+          ],
+          "citations": 28
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/2266391775",
+      "fetchedDate": "2026-03-08T12:15:17"
+    },
+    {
+      "id": "lee-kezar",
+      "name": "Lee Kezar",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "https://leekezar.github.io/",
+      "image": "images/students/lee.jpeg",
+      "cluster": 2,
+      "topics": [
+        "sign",
+        "language",
+        "asl",
+        "modeling",
+        "phonology"
+      ],
+      "researchAreas": [],
+      "paperCount": 12,
+      "topPapers": [
+        {
+          "title": "Phonological Representation Learning for Isolated Signs Improves Out-of-Vocabulary Generalization",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Lee Kezar",
+            "Z. Sehyr",
+            "Jesse Thomason"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge",
+          "year": 2024,
+          "venue": "North American Chapter of the Association for Computational Linguistics",
+          "authors": [
+            "Lee Kezar",
+            "Nidhi Munikote",
+            "Zian Zeng",
+            "Z. Sehyr",
+            "Naomi Caselli",
+            "Jesse Thomason"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Harmful Speech Detection by Language Models Exhibits Gender-Queer Dialect Bias",
+          "year": 2024,
+          "venue": "Conference on Equity and Access in Algorithms, Mechanisms, and Optimization",
+          "authors": [
+            "Rebecca Dorn",
+            "Lee Kezar",
+            "Fred Morstatter",
+            "Kristina Lerman"
+          ],
+          "citations": 19
+        },
+        {
+          "title": "Improving Sign Recognition with Phonology",
+          "year": 2023,
+          "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+          "authors": [
+            "Lee Kezar",
+            "Jesse Thomason",
+            "Z. Sehyr"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "Detecting Unseen Multiword Expressions in American Sign Language",
+          "year": 2023,
+          "venue": "arXiv.org",
+          "authors": [
+            "Lee Kezar",
+            "Aryan Shukla"
+          ],
+          "citations": 0
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/51132560",
+      "fetchedDate": "2026-03-08T12:15:21"
+    },
+    {
+      "id": "anthony-liang",
+      "name": "Anthony Liang",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "https://aliang8.github.io/",
+      "image": "images/students/anthony.jpeg",
+      "cluster": 2,
+      "topics": [
+        "hand",
+        "clam",
+        "continuous",
+        "latent",
+        "action"
+      ],
+      "researchAreas": [
+        "robot"
+      ],
+      "paperCount": 4,
+      "topPapers": [
+        {
+          "title": "HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Matthew Hong",
+            "Anthony Liang",
+            "Kevin Kim",
+            "Harshitha Rajaprakash",
+            "Jesse Thomason",
+            "Erdem Biyik",
+            "Jesse Zhang"
+          ],
+          "citations": 6
+        },
+        {
+          "title": "CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Anthony Liang",
+            "Pavel Czempin",
+            "Matthew Hong",
+            "Yutai Zhou",
+            "Erdem Biyik",
+            "Stephen Tu"
+          ],
+          "citations": 13
+        },
+        {
+          "title": "Plantain: Plan-Answer Interleaved Reasoning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Anthony Liang",
+            "Jonathan Berant",
+            "Adam Fisch",
+            "Abhimanyu Goyal",
+            "K. Krishna",
+            "Jacob Eisenstein"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning",
+          "year": 2024,
+          "venue": "Neural Information Processing Systems",
+          "authors": [
+            "Anthony Liang",
+            "Guy Tennenholtz",
+            "Chih-Wei Hsu",
+            "Yinlam Chow",
+            "Erdem Biyik",
+            "C. Boutilier"
+          ],
+          "citations": 3
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Anthony-Liang/2286891988",
+      "fetchedDate": "2026-03-08T12:15:24"
+    },
+    {
+      "id": "leticia-pinto-alva",
+      "name": "Leticia Pinto-Alva",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "https://leticiapinto.github.io/",
+      "image": "images/students/leticia.jpg",
+      "cluster": 2,
+      "topics": [
+        "benchmark",
+        "climb",
+        "continual",
+        "vision",
+        "language"
+      ],
+      "researchAreas": [
+        "vision"
+      ],
+      "paperCount": 5,
+      "topPapers": [
+        {
+          "title": "CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks",
+          "year": 2022,
+          "venue": "Neural Information Processing Systems",
+          "authors": [
+            "Tejas Srinivasan",
+            "Ting-Yun Chang",
+            "Leticia Pinto-Alva",
+            "Georgios Chochlakis",
+            "Mohammad Rostami",
+            "Jesse Thomason"
+          ],
+          "citations": 85
+        },
+        {
+          "title": "Backpropagation-Based Decoding for Multimodal Machine Translation",
+          "year": 2022,
+          "venue": "Frontiers in Artificial Intelligence",
+          "authors": [
+            "Ziyan Yang",
+            "Leticia Pinto-Alva",
+            "Franck Dernoncourt",
+            "Vicente Ordonez"
+          ],
+          "citations": 4
+        },
+        {
+          "title": "Using Visual Feature Space as a Pivot Across Languages",
+          "year": 2020,
+          "venue": "Findings",
+          "authors": [
+            "Ziyan Yang",
+            "Leticia Pinto-Alva",
+            "Franck Dernoncourt",
+            "Vicente Ordonez"
+          ],
+          "citations": 8
+        },
+        {
+          "title": "Chair Segments: A Compact Benchmark for the Study of Object Segmentation",
+          "year": 2020,
+          "venue": "arXiv.org",
+          "authors": [
+            "Leticia Pinto-Alva",
+            "Ian K. Torres",
+            "Rosangel Garcia",
+            "Ziyan Yang",
+            "Vicente Ordonez"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "An Iterated Semi-Greedy Algorithm for the 0-1 Quadratic Knapsack Problem",
+          "year": 2018,
+          "venue": "EasyChair Preprints",
+          "authors": [
+            "Leticia Pinto-Alva",
+            "Alexander J. Benavides"
+          ],
+          "citations": 0
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/104339089",
+      "fetchedDate": "2026-03-08T12:15:27"
+    },
+    {
+      "id": "ishika-singh",
+      "name": "Ishika Singh",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "https://ishikasingh.github.io/",
+      "image": "images/students/ishika.jpeg",
+      "cluster": 2,
+      "topics": [
+        "large language models",
+        "planning",
+        "planners",
+        "language models",
+        "action"
+      ],
+      "researchAreas": [
+        "language models",
+        "large language models",
+        "robot"
+      ],
+      "paperCount": 18,
+      "topPapers": [
+        {
+          "title": "OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model",
+          "year": 2025,
+          "venue": "",
+          "authors": [
+            "Ishika Singh",
+            "Ankit Goyal",
+            "Stanley T. Birchfield",
+            "Dieter Fox",
+            "Animesh Garg",
+            "Valts Blukis"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Wang Bill Zhu",
+            "Miaosen Chai",
+            "Ishika Singh",
+            "Robin Jia",
+            "Jesse Thomason"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "S.C. and S.T. Special Act for prevent atrocity",
+          "year": 2025,
+          "venue": "International Journal For Multidisciplinary Research",
+          "authors": [
+            "Ishika Singh"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Language Models can Infer Action Semantics for Classical Planners from Environment Feedback",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Wang Bill Zhu",
+            "Ishika Singh",
+            "Robin Jia",
+            "Jesse Thomason"
+          ],
+          "citations": 6
+        },
+        {
+          "title": "Language Models Can Infer Action Semantics for Symbolic Planners from Environment Feedback",
+          "year": 2024,
+          "venue": "North American Chapter of the Association for Computational Linguistics",
+          "authors": [
+            "Wang Bill Zhu",
+            "Ishika Singh",
+            "Robin Jia",
+            "Jesse Thomason"
+          ],
+          "citations": 9
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Ishika-Singh/144399662",
+      "fetchedDate": "2026-03-08T12:15:30"
+    },
+    {
+      "id": "tejas-srinivasan",
+      "name": "Tejas Srinivasan",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "https://tejas1995.github.io/",
+      "image": "images/students/tejas.jpg",
+      "cluster": 2,
+      "topics": [
+        "language",
+        "vision",
+        "multimodal",
+        "speech recognition",
+        "language models"
+      ],
+      "researchAreas": [
+        "language models",
+        "reasoning",
+        "multimodal",
+        "vision"
+      ],
+      "paperCount": 25,
+      "topPapers": [
+        {
+          "title": "Efficient one-pot synthesis of bis-benzothiazoles from dicarboxylic acids: A metal-free benzotriazole strategy",
+          "year": 2026,
+          "venue": "Tetrahedron",
+          "authors": [
+            "Riham M. Bokhtia",
+            "Tejas Srinivasan",
+            "Mandy K. Green",
+            "Rajeev Shakuja",
+            "Siva S. Panda"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Can Vision Language Models Understand Mimed Actions?",
+          "year": 2025,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Hyundong Justin Cho",
+            "Spencer Lin",
+            "Tejas Srinivasan",
+            "Michael S. Bernstein",
+            "Deuksin Kwon",
+            "Natali T. Chavez",
+            "Jonathan May"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "Adjust for Trust: Mitigating Trust-Induced Inappropriate Reliance on AI Assistance",
+          "year": 2025,
+          "venue": "International Conference on Intelligent User Interfaces",
+          "authors": [
+            "Tejas Srinivasan",
+            "Jesse Thomason"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "Believing without Seeing: Quality Scores for Contextualizing Vision-Language Model Explanations",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Keyu He",
+            "Tejas Srinivasan",
+            "Brihi Joshi",
+            "Xiang Ren",
+            "Jesse Thomason",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Better Slow than Sorry: Introducing Positive Friction for Reliable Dialogue Systems",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Mert Inan",
+            "Anthony B. Sicilia",
+            "Suvodip Dey",
+            "Vardhan Dongre",
+            "Tejas Srinivasan",
+            "Jesse Thomason",
+            "Gokhan Tur",
+            "Dilek Hakkani-Tur",
+            "Malihe Alikhani"
+          ],
+          "citations": 4
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/150324514",
+      "fetchedDate": "2026-03-08T12:15:33"
+    },
+    {
+      "id": "xinyue-cui",
+      "name": "Xinyue Cui",
+      "role": "student",
+      "lab": "DILL Lab",
+      "url": "https://x-f-cui.github.io/website/",
+      "image": "images/students/xinyue.jpg",
+      "cluster": 0,
+      "topics": [
+        "robust",
+        "watermarking",
+        "language models",
+        "injecting",
+        "fictitious"
+      ],
+      "researchAreas": [
+        "language models",
+        "knowledge"
+      ],
+      "paperCount": 3,
+      "topPapers": [
+        {
+          "title": "Evaluation Under Imperfect Benchmarks and Ratings: A Case Study in Text Simplification",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Joseph Liu",
+            "Yoonsoo Nam",
+            "Xinyue Cui",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 4
+        },
+        {
+          "title": "Robust Data Watermarking in Language Models by Injecting Fictitious Knowledge",
+          "year": 2025,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Xinyue Cui",
+            "Johnny Tian-Zheng Wei",
+            "Swabha Swayamdipta",
+            "Robin Jia"
+          ],
+          "citations": 8
+        },
+        {
+          "title": "Annotating FrameNet via Structure-Conditioned Language Generation",
+          "year": 2024,
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "authors": [
+            "Xinyue Cui",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 5
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Xinyue-Cui/2305564328",
+      "fetchedDate": "2026-03-08T12:15:36"
+    },
+    {
+      "id": "sayan-ghosh",
+      "name": "Sayan Ghosh",
+      "role": "student",
+      "lab": "DILL Lab",
+      "url": "https://sghosh73.github.io/",
+      "image": "images/students/sayan.jpeg",
+      "cluster": 2,
+      "topics": [
+        "compare",
+        "despair",
+        "reliable",
+        "preference",
+        "evaluation"
+      ],
+      "researchAreas": [],
+      "paperCount": 2,
+      "topPapers": [
+        {
+          "title": "Sample, Align, Synthesize: Graph-Based Response Synthesis with ConGrs",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Sayan Ghosh",
+            "Shahzaib Saqib Warraich",
+            "Dhruv Tarsadiya",
+            "Gregory Yauney",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Compare without Despair: Reliable Preference Evaluation with Generation Separability",
+          "year": 2024,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Sayan Ghosh",
+            "Tejas Srinivasan",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 3
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Sayan-Ghosh/2309426231",
+      "fetchedDate": "2026-03-08T12:15:40"
+    },
+    {
+      "id": "atharva-kulkarni",
+      "name": "Atharva Kulkarni",
+      "role": "student",
+      "lab": "DILL Lab",
+      "url": "https://atharvajk98.github.io/",
+      "image": "images/students/atharva.jpg",
+      "cluster": 0,
+      "topics": [
+        "large language models",
+        "evaluating",
+        "capabilities",
+        "student",
+        "becomes"
+      ],
+      "researchAreas": [
+        "large language models"
+      ],
+      "paperCount": 17,
+      "topPapers": [
+        {
+          "title": "Evaluating Evaluation Metrics - The Mirage of Hallucination Detection",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Atharva Kulkarni",
+            "Yuan Zhang",
+            "Joel Ruben Antony Moniz",
+            "Xiou Ge",
+            "Bo-Hsiang Tseng",
+            "Dhivya Piraviperumal",
+            "Swabha Swayamdipta",
+            "Hong Yu"
+          ],
+          "citations": 8
+        },
+        {
+          "title": "SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking",
+          "year": 2024,
+          "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+          "authors": [
+            "Atharva Kulkarni",
+            "Bo-Hsiang Tseng",
+            "Joel Ruben Antony Moniz",
+            "Dhivya Piraviperumal",
+            "Hong Yu",
+            "Shruti Bhargava"
+          ],
+          "citations": 23
+        },
+        {
+          "title": "Still Not Quite There! Evaluating Large Language Models for Comorbid Mental Health Diagnosis",
+          "year": 2024,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Amey Hengle",
+            "Atharva Kulkarni",
+            "Shantanu Patankar",
+            "M. Chandrasekaran",
+            "Sneha D'Silva",
+            "Jemima S. Jacob",
+            "Rashmi Gupta"
+          ],
+          "citations": 11
+        },
+        {
+          "title": "The student becomes the master: Outperforming GPT3 on Scientific Factual Error Correction",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Dhananjay Ashok",
+            "Atharva Kulkarni",
+            "Hai Pham",
+            "Barnab'as P'oczos"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Learning and Reasoning Multifaceted and Longitudinal Data for Poverty Estimates and Livelihood Capabilities of Lagged Regions in Rural India",
+          "year": 2023,
+          "venue": "International Joint Conference on Artificial Intelligence",
+          "authors": [
+            "Atharva Kulkarni",
+            "Raya Das",
+            "R. Srivastava",
+            "Tanmoy Chakraborty"
+          ],
+          "citations": 4
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Atharva-Kulkarni/1992797499",
+      "fetchedDate": "2026-03-08T12:15:43"
+    },
+    {
+      "id": "jaspreet-ranjit",
+      "name": "Jaspreet Ranjit",
+      "role": "student",
+      "lab": "DILL Lab",
+      "url": "https://jr4fs.github.io/",
+      "image": "images/students/jaspreet.png",
+      "cluster": 0,
+      "topics": [
+        "assistants",
+        "oath",
+        "frames",
+        "characterizing",
+        "online"
+      ],
+      "researchAreas": [],
+      "paperCount": 5,
+      "topPapers": [
+        {
+          "title": "Uncovering Intervention Opportunities for Suicide Prevention with Language Model Assistants",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jaspreet Ranjit",
+            "Hyundong Justin Cho",
+            "Claire J. Smerdon",
+            "Yoonsoo Nam",
+            "Myles Phung",
+            "Jonathan May",
+            "J. Blosnich",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "OATH-Frames: Characterizing Online Attitudes Towards Homelessness with LLM Assistants",
+          "year": 2024,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Jaspreet Ranjit",
+            "Brihi Joshi",
+            "Rebecca Dorn",
+            "Laura Petry",
+            "O. Koumoundouros",
+            "Jayne Bottarini",
+            "Peicheng Liu",
+            "Eric Rice",
+            "Swabha Swayamdipta"
+          ],
+          "citations": 9
+        },
+        {
+          "title": "Variation of Gender Biases in Visual Recognition Models Before and After Finetuning",
+          "year": 2023,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jaspreet Ranjit",
+            "Tianlu Wang",
+            "Baishakhi Ray",
+            "Vicente Ordonez"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "Scenario2Vector: scenario description language based embeddings for traffic situations",
+          "year": 2021,
+          "venue": "International Conference on Cyber-Physical Systems",
+          "authors": [
+            "Aron Harder",
+            "Jaspreet Ranjit",
+            "Madhur Behl"
+          ],
+          "citations": 7
+        },
+        {
+          "title": "Are We Automating the Joy Out of Work? Designing AI to Augment Work, Not Meaning",
+          "year": null,
+          "venue": "",
+          "authors": [
+            "Jaspreet Ranjit",
+            "Swabha Swayamdipta",
+            "Daniele Quercia",
+            "Ke Zhou"
+          ],
+          "citations": 0
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/1819649550",
+      "fetchedDate": "2026-03-08T12:15:46"
+    },
+    {
+      "id": "ziyi-liu",
+      "name": "Ziyi Liu",
+      "role": "student",
+      "lab": "LIME Lab",
+      "url": "http://liuziyi219.github.io/",
+      "image": "images/students/ziyi.jpg",
+      "cluster": 0,
+      "topics": [
+        "llms",
+        "cultural",
+        "grasp",
+        "implicit",
+        "values"
+      ],
+      "researchAreas": [],
+      "paperCount": 4,
+      "topPapers": [
+        {
+          "title": "Can LLMs Grasp Implicit Cultural Values? Benchmarking LLMs' Metacognitive Cultural Intelligence with CQ-Bench",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Ziyi Liu",
+            "Priyanka Dey",
+            "Zhenyu Zhao",
+            "Jen-tse Huang",
+            "Rahul Gupta",
+            "Yang Liu",
+            "Jieyu Zhao"
+          ],
+          "citations": 8
+        },
+        {
+          "title": "AI Sees Your Location - But With A Bias Toward The Wealthy World",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Jingyuan Huang",
+            "Jen-Tse Huang",
+            "Ziyi Liu",
+            "Xiaoyuan Liu",
+            "Wenxuan Wang",
+            "Jieyu Zhao"
+          ],
+          "citations": 9
+        },
+        {
+          "title": "Can LLMs Grasp Implicit Cultural Values? Benchmarking LLMs'Cultural Intelligence with CQ-Bench",
+          "year": 2025,
+          "venue": "",
+          "authors": [
+            "Ziyi Liu",
+            "Priyanka Dey",
+            "Jen-tse Huang",
+            "Zhenyu Zhao",
+            "Bowen Jiang",
+            "Rahul Gupta",
+            "Yang Liu",
+            "Yao Du",
+            "Jieyu Zhao"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Facilitating:",
+          "year": null,
+          "venue": "Art and the Nation State",
+          "authors": [
+            "H. Doh",
+            "Jingyu Shi",
+            "Rahul Jain",
+            "HeeSoo Kim",
+            "Karthik Ramani",
+            "R. Duan",
+            "Chenfei Zhu",
+            "Yuzhao Chen",
+            "Yichen Hu",
+            "Mayank T. Patel",
+            "Asim Unmesh",
+            "A. Ipsita",
+            "Levi Erickson",
+            "P. Maheshwari",
+            "Laura H. Blumenschein",
+            "Seung-Wook Chi",
+            "Hyung-gun Chi",
+            "Alexander J. Quinn",
+            "Kentaro Taninaka",
+            "Kazunori Takashio",
+            "Ryo Suzuki",
+            "Andrew Benton",
+            "M.Tahir Rasheed",
+            "Subramanian Chidambaram",
+            "Jiazhi Li",
+            "Minkang Zhou",
+            "Mahyar Khayatkhoei",
+            "Jiageng Zhu",
+            "Hanchen Xie",
+            "Xiyun Song",
+            "Zongfang Lin",
+            "Heather Yu",
+            "Liang Peng",
+            "Jieyu Zhao",
+            "Dizhi Ma",
+            "Xiyun Hu",
+            "Ziyi Liu",
+            "Zheng Zhu",
+            "Min Liu",
+            "Nachiketh Karthik",
+            "Maria C. Yang",
+            "Chaithanya Manam",
+            "Xun Qian",
+            "Fengming He",
+            "Tianyi Wang"
+          ],
+          "citations": 29
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Ziyi-Liu/2346160584",
+      "fetchedDate": "2026-03-08T12:15:49"
+    },
+    {
+      "id": "taiwei-shi",
+      "name": "Taiwei Shi",
+      "role": "student",
+      "lab": "LIME Lab",
+      "url": "https://maksimstw.github.io/",
+      "image": "images/students/taiwei.jpg",
+      "cluster": 1,
+      "topics": [
+        "large language models",
+        "language models",
+        "aligning",
+        "reinforcement",
+        "knowledge"
+      ],
+      "researchAreas": [
+        "language models",
+        "large language models",
+        "knowledge"
+      ],
+      "paperCount": 13,
+      "topPapers": [
+        {
+          "title": "DP-RFT: Learning to Generate Synthetic Text via Differentially Private Reinforcement Fine-Tuning",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Fan Xu",
+            "Sihao Chen",
+            "Zinan Lin",
+            "Taiwei Shi",
+            "S. Graham",
+            "Pei Zhou",
+            "Mengting Wan",
+            "Alex Stein",
+            "V. Estellers",
+            "Charles Chen",
+            "Morris Sharp",
+            "R. Speyer",
+            "T. Baltru\u0161aitis",
+            "Jennifer Neville",
+            "Eunsol Choi",
+            "Longqi Yang"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Yue Huang",
+            "Chujie Gao",
+            "Siyuan Wu",
+            "Haoran Wang",
+            "Xiangqi Wang",
+            "Yujun Zhou",
+            "Yanbo Wang",
+            "Jiayi Ye",
+            "Jiawen Shi",
+            "Qihui Zhang",
+            "Yuan Li",
+            "Han Bao",
+            "Zhaoyi Liu",
+            "Tianrui Guan",
+            "Dongping Chen",
+            "Ruoxi Chen",
+            "Kehan Guo",
+            "Andy Zou",
+            "Bryan Hooi Kuen-Yew",
+            "Caiming Xiong",
+            "Elias Stengel-Eskin",
+            "Hongyang Zhang",
+            "Hongzhi Yin",
+            "Huan Zhang",
+            "Huaxiu Yao",
+            "Jaehong Yoon",
+            "Jieyu Zhang",
+            "Kai Shu",
+            "Kai-Tuo Zhu",
+            "Ranjay Krishna",
+            "Swabha Swayamdipta",
+            "Taiwei Shi",
+            "Weijia Shi",
+            "Xiang Li",
+            "Yiwei Li",
+            "Yu-Kun Hao",
+            "Zhihao Jia",
+            "Zhize Li",
+            "Xiuying Chen",
+            "Zhengzhong Tu",
+            "Xiyang Hu",
+            "Tianyi Zhou",
+            "Jieyu Zhao",
+            "Lichao Sun",
+            "Furong Huang",
+            "Or Cohen Sasson",
+            "P. Sattigeri",
+            "Anka Reuel",
+            "Max Lamparth",
+            "Yue Zhao",
+            "Nouha Dziri",
+            "Yu Su",
+            "Huan Sun",
+            "Heng Ji",
+            "Chaowei Xiao",
+            "Mohit Bansal",
+            "N. V. Chawla",
+            "Jian Pei",
+            "Jianfeng Gao",
+            "Michael Backes",
+            "Philip S. Yu",
+            "Neil Zhenqiang Gong",
+            "Pin-Yu Chen",
+            "Bo Li",
+            "Xiangliang Zhang"
+          ],
+          "citations": 45
+        },
+        {
+          "title": "Detecting and Filtering Unsafe Training Data via Data Attribution",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Yijun Pan",
+            "Taiwei Shi",
+            "Jieyu Zhao",
+            "Jiaqi W. Ma"
+          ],
+          "citations": 8
+        },
+        {
+          "title": "CoAct-1: Computer-using Multi-Agent System with Coding Actions",
+          "year": 2025,
+          "venue": "",
+          "authors": [
+            "Linxin Song",
+            "Yutong Dai",
+            "Viraj Prabhu",
+            "Jieyu Zhang",
+            "Taiwei Shi",
+            "Li Li",
+            "Junnan Li",
+            "Silvio Savarese",
+            "Zeyuan Chen",
+            "Taiwei Shi",
+            "Ran Xu",
+            "Caiming Xiong"
+          ],
+          "citations": 22
+        },
+        {
+          "title": "Efficient Reinforcement Finetuning via Adaptive Curriculum Learning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Taiwei Shi",
+            "Yiyang Wu",
+            "Linxin Song",
+            "Tianyi Zhou",
+            "Jieyu Zhao"
+          ],
+          "citations": 66
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Taiwei-Shi/2261392431",
+      "fetchedDate": "2026-03-08T12:23:45"
+    },
+    {
+      "id": "linxin-song",
+      "name": "Linxin Song",
+      "role": "student",
+      "lab": "LIME Lab",
+      "url": "https://linxins.net",
+      "image": "images/students/linxin.jpg",
+      "cluster": 1,
+      "topics": [
+        "language models",
+        "reinforcement",
+        "finetuning",
+        "knowledge",
+        "adaptive"
+      ],
+      "researchAreas": [
+        "language models",
+        "knowledge"
+      ],
+      "paperCount": 10,
+      "topPapers": [
+        {
+          "title": "CoAct-1: Computer-using Multi-Agent System with Coding Actions",
+          "year": 2025,
+          "venue": "",
+          "authors": [
+            "Linxin Song",
+            "Yutong Dai",
+            "Viraj Prabhu",
+            "Jieyu Zhang",
+            "Taiwei Shi",
+            "Li Li",
+            "Junnan Li",
+            "Silvio Savarese",
+            "Zeyuan Chen",
+            "Taiwei Shi",
+            "Ran Xu",
+            "Caiming Xiong"
+          ],
+          "citations": 22
+        },
+        {
+          "title": "The Hallucination Tax of Reinforcement Finetuning",
+          "year": 2025,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Linxin Song",
+            "Taiwei Shi",
+            "Jieyu Zhao"
+          ],
+          "citations": 21
+        },
+        {
+          "title": "Optimizing pre-training via target-aware source data selection",
+          "year": 2025,
+          "venue": "Knowledge-Based Systems",
+          "authors": [
+            "Kan Miyoshi",
+            "Ryotaro Shimizu",
+            "Linxin Song",
+            "Masayuki Goto"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Efficient Reinforcement Finetuning via Adaptive Curriculum Learning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Taiwei Shi",
+            "Yiyang Wu",
+            "Linxin Song",
+            "Tianyi Zhou",
+            "Jieyu Zhao"
+          ],
+          "citations": 66
+        },
+        {
+          "title": "Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification",
+          "year": 2025,
+          "venue": "IEEE International Conference on Multimedia and Expo",
+          "authors": [
+            "Shijian Wang",
+            "Linxin Song",
+            "Ryotaro Shimizu",
+            "Masayuki Goto",
+            "Hanqian Wu"
+          ],
+          "citations": 1
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Linxin-Song/2322070046",
+      "fetchedDate": "2026-03-08T12:15:52"
+    },
+    {
+      "id": "ting-rui-chiang",
+      "name": "Ting-Rui Chiang",
+      "role": "student",
+      "lab": "tamagotchi",
+      "url": "https://ctinray.github.io/",
+      "image": "images/students/ting-rui.jpeg",
+      "cluster": 0,
+      "topics": [
+        "dialogue",
+        "bias",
+        "math",
+        "word",
+        "solving"
+      ],
+      "researchAreas": [
+        "reasoning"
+      ],
+      "paperCount": 12,
+      "topPapers": [
+        {
+          "title": "DialCrowd 2.0: A Quality-Focused Dialog System Crowdsourcing Toolkit",
+          "year": 2022,
+          "venue": "International Conference on Language Resources and Evaluation",
+          "authors": [
+            "Jessica Huynh",
+            "Ting-Rui Chiang",
+            "Jeffrey P. Bigham",
+            "M. Esk\u00e9nazi"
+          ],
+          "citations": 6
+        },
+        {
+          "title": "Breaking Down Multilingual Machine Translation",
+          "year": 2021,
+          "venue": "Findings",
+          "authors": [
+            "Ting-Rui Chiang",
+            "Yi-Pei Chen",
+            "Yi-Ting Yeh",
+            "Graham Neubig"
+          ],
+          "citations": 15
+        },
+        {
+          "title": "Are you doing what I say? On modalities alignment in ALFRED",
+          "year": 2021,
+          "venue": "arXiv.org",
+          "authors": [
+            "Ting-Rui Chiang",
+            "Yi-Ting Yeh",
+            "Ta-Chung Chi",
+            "Yau-Shian Wang"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Improving Dialogue State Tracking by Joint Slot Modeling",
+          "year": 2021,
+          "venue": "NLP4CONVAI",
+          "authors": [
+            "Ting-Rui Chiang",
+            "Yi-Ting Yeh"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "Relating Neural Text Degeneration to Exposure Bias",
+          "year": 2021,
+          "venue": "BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP",
+          "authors": [
+            "Ting-Rui Chiang",
+            "Yun-Nung Chen"
+          ],
+          "citations": 21
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/153033862",
+      "fetchedDate": "2026-03-08T12:15:56"
+    },
+    {
+      "id": "ollie-liu",
+      "name": "Ollie Liu",
+      "role": "student",
+      "lab": "tamagotchi",
+      "url": "https://ollieliu.com/",
+      "image": "images/students/oliver.png",
+      "cluster": 1,
+      "topics": [
+        "foundation",
+        "multimodal",
+        "reasoning",
+        "language models",
+        "llm"
+      ],
+      "researchAreas": [
+        "language models",
+        "large language models",
+        "reasoning",
+        "multimodal"
+      ],
+      "paperCount": 19,
+      "topPapers": [
+        {
+          "title": "Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Ang Li",
+            "Charles L. Wang",
+            "Kaiyu Yue",
+            "Zikui Cai",
+            "Ollie Liu",
+            "Deqing Fu",
+            "Peng Guo",
+            "Wang Bill Zhu",
+            "V. Sharan",
+            "Robin Jia",
+            "Willie Neiswanger",
+            "Furong Huang",
+            "Tom Goldstein",
+            "Micah Goldblum"
+          ],
+          "citations": 34
+        },
+        {
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Bangbang Liu",
+            "Xinfeng Li",
+            "Jiayi Zhang",
+            "Jinlin Wang",
+            "Tanjin He",
+            "Sirui Hong",
+            "Hongzhang Liu",
+            "Shaokun Zhang",
+            "Kaitao Song",
+            "Kunlun Zhu",
+            "Yuheng Cheng",
+            "Suyuchen Wang",
+            "Xiaoqian Wang",
+            "Yuyu Luo",
+            "Haibo Jin",
+            "Peiyan Zhang",
+            "Ollie Liu",
+            "Ollie Liu",
+            "Jiaqi Chen",
+            "Huan-Rui Zhang",
+            "Zhaoyang Yu",
+            "Hao Shi",
+            "Boyan Li",
+            "D. Wu",
+            "Fengwei Teng",
+            "Xiao Jia",
+            "Jiawei Xu",
+            "Jinyu Xiang",
+            "Yizhang Lin",
+            "Tianming Liu",
+            "Tongliang Liu",
+            "Yu Su",
+            "Huan Sun",
+            "Glen Berseth",
+            "Jianyun Nie",
+            "Ian T. Foster",
+            "Logan Ward",
+            "Qingyun Wu",
+            "Yu Gu",
+            "Mingchen Zhuge",
+            "Xiangru Tang",
+            "Haohan Wang",
+            "Jiaxuan You",
+            "Chi Wang",
+            "Jian Pei",
+            "Qiang Yang",
+            "Xiaoli Qi",
+            "Chenglin Wu"
+          ],
+          "citations": 108
+        },
+        {
+          "title": "Universal Spectral Tokenization via Self-Supervised Panchromatic Representation Learning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jeff Shen",
+            "Fran\u00e7ois Lanusse",
+            "L. Parker",
+            "Ollie Liu",
+            "Tom Hehir",
+            "Leopoldo Sarra",
+            "Lucas Meyer",
+            "Micah Bowles",
+            "Sebastian Wagner-Carena",
+            "Helen Qu",
+            "Siavash Golkar",
+            "Alberto Bietti",
+            "Hatim Bourfoune",
+            "Nathan Cassereau",
+            "Pierre Cornette",
+            "Keiya Hirashima",
+            "G. Krawezik",
+            "Ruben Ohana",
+            "Nicholas Lourie",
+            "Michael McCabe",
+            "Rudy Morel",
+            "Payel Mukhopadhyay",
+            "Mariel Pettee",
+            "Bruno R\u00e9galdo-Saint Blancard",
+            "Kyunghyun Cho",
+            "Miles Cranmer",
+            "Shirley Ho"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Tina: Tiny Reasoning Models via LoRA",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Shangshang Wang",
+            "Julian Asilis",
+            "Omer Faruk Akgul",
+            "Enes Burak Bilgin",
+            "Ollie Liu",
+            "Willie Neiswanger"
+          ],
+          "citations": 18
+        },
+        {
+          "title": "Resa: Transparent Reasoning Models via SAEs",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Shangshang Wang",
+            "Julian Asilis",
+            "Omer Faruk Akgul",
+            "Enes Burak Bilgin",
+            "Ollie Liu",
+            "Deqing Fu",
+            "Willie Neiswanger"
+          ],
+          "citations": 2
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/2065919693",
+      "fetchedDate": "2026-03-08T12:15:59"
+    },
+    {
+      "id": "xinyan-velocity-yu",
+      "name": "Xinyan Velocity Yu",
+      "role": "student",
+      "lab": "tamagotchi",
+      "url": "https://velocitycavalry.github.io/",
+      "image": "images/students/xinyan.jpg",
+      "cluster": 1,
+      "topics": [
+        "retrieval",
+        "language models",
+        "semantic",
+        "large language models",
+        "diffusion"
+      ],
+      "researchAreas": [
+        "language models",
+        "large language models"
+      ],
+      "paperCount": 16,
+      "topPapers": [
+        {
+          "title": "EXACT: Explicit Attribute-Guided Decoding-Time Personalization",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Xinyan Velocity Yu",
+            "Hanwen Xing",
+            "Lingzhou Xue"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Towards Better Optimization For Listwise Preference in Diffusion Models",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jiamu Bai",
+            "Xinyan Velocity Yu",
+            "Meilong Xu",
+            "Weitao Lu",
+            "Xin Pan",
+            "Kiwan Maeng",
+            "Daniel Kifer",
+            "Jian Wang",
+            "Yu Wang"
+          ],
+          "citations": 4
+        },
+        {
+          "title": "Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Yuehan Qin",
+            "Li Li",
+            "Yi Nian",
+            "Xinyan Velocity Yu",
+            "Yue Zhao",
+            "Xuezhe Ma"
+          ],
+          "citations": 8
+        },
+        {
+          "title": "Cancer-Myth: Evaluating Large Language Models on Patient Questions with False Presuppositions",
+          "year": 2025,
+          "venue": "",
+          "authors": [
+            "Wang Bill Zhu",
+            "Tianqi Chen",
+            "Xinyan Velocity Yu",
+            "Ching Ying Lin",
+            "Jade Law",
+            "Mazen Jizzini",
+            "Jorge J. Nieva",
+            "Ruishan Liu",
+            "Robin Jia"
+          ],
+          "citations": 6
+        },
+        {
+          "title": "LocRef-Diffusion:Tuning-Free Layout and Appearance-Guided Generation",
+          "year": 2024,
+          "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+          "authors": [
+            "Fan Deng",
+            "Yaguang Wu",
+            "Xinyan Velocity Yu",
+            "Xiangjun Huang",
+            "Jian Yang",
+            "Guangyu Yan",
+            "Qiang Xu"
+          ],
+          "citations": 1
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/2118211280",
+      "fetchedDate": "2026-03-08T12:16:02"
+    },
+    {
+      "id": "preni-golazizian",
+      "name": "Preni Golazizian",
+      "role": "student",
+      "lab": "MOLA Lab",
+      "url": "#",
+      "image": "images/students/preni.jpeg",
+      "cluster": 2,
+      "topics": [
+        "police",
+        "annotation",
+        "large language models",
+        "content",
+        "moral"
+      ],
+      "researchAreas": [
+        "large language models"
+      ],
+      "paperCount": 14,
+      "topPapers": [
+        {
+          "title": "The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Preni Golazizian",
+            "Elnaz Rahmati",
+            "Jackson Trager",
+            "Zhivar Sourati",
+            "Nona Ghazizadeh",
+            "Georgios Chochlakis",
+            "Jose Alcocer",
+            "K. Bennett",
+            "Aarya Vijay Devnani",
+            "Parsa Hejabi",
+            "Harry G. Muttram",
+            "Akshay Kiran Padte",
+            "Mehrshad Saadatinia",
+            "Chenhao Wu",
+            "Alireza S. Ziabari",
+            "Michael Sierra-Ar'evalo",
+            "Nicholas Weller",
+            "Shrikanth S. Narayanan",
+            "B. Graham",
+            "Morteza Dehghani"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Targeting audiences' moral values shapes misinformation sharing.",
+          "year": 2025,
+          "venue": "Journal of experimental psychology. General",
+          "authors": [
+            "Suhaib Abdurahman",
+            "Nils K Reimer",
+            "Preni Golazizian",
+            "Elisa C. Baek",
+            "Y. Shen",
+            "Jackson Trager",
+            "Roshni Lulla",
+            "Jonas T. Kaplan",
+            "Carolyn Parkinson",
+            "Morteza Dehghani"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "Reinforced Multiple Instance Selection for Speaker Attribute Prediction",
+          "year": 2024,
+          "venue": "North American Chapter of the Association for Computational Linguistics",
+          "authors": [
+            "Alireza Salkhordeh Ziabari",
+            "Ali Omrani",
+            "Parsa Hejabi",
+            "Preni Golazizian",
+            "Brendan Kennedy",
+            "Payam Piray",
+            "Morteza Dehghani"
+          ],
+          "citations": 6
+        },
+        {
+          "title": "Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Parsa Hejabi",
+            "Elnaz Rahmati",
+            "Alireza S. Ziabari",
+            "Preni Golazizian",
+            "Jesse Thomason",
+            "Morteza Dehghani"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "Cost-Efficient Subjective Task Annotation and Modeling through Few-Shot Annotator Adaptation",
+          "year": 2024,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Preni Golazizian",
+            "Ali Omrani",
+            "Alireza S. Ziabari",
+            "Morteza Dehghani"
+          ],
+          "citations": 2
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/1724513406",
+      "fetchedDate": "2026-03-08T12:16:05"
+    },
+    {
+      "id": "elnaz-rahmati",
+      "name": "Elnaz Rahmati",
+      "role": "student",
+      "lab": "MOLA Lab",
+      "url": "#",
+      "image": "images/students/elnaz.jpeg",
+      "cluster": 2,
+      "topics": [
+        "evaluating",
+        "llms",
+        "ge2pe",
+        "persian",
+        "grapheme"
+      ],
+      "researchAreas": [
+        "large language models"
+      ],
+      "paperCount": 6,
+      "topPapers": [
+        {
+          "title": "The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Preni Golazizian",
+            "Elnaz Rahmati",
+            "Jackson Trager",
+            "Zhivar Sourati",
+            "Nona Ghazizadeh",
+            "Georgios Chochlakis",
+            "Jose Alcocer",
+            "K. Bennett",
+            "Aarya Vijay Devnani",
+            "Parsa Hejabi",
+            "Harry G. Muttram",
+            "Akshay Kiran Padte",
+            "Mehrshad Saadatinia",
+            "Chenhao Wu",
+            "Alireza S. Ziabari",
+            "Michael Sierra-Ar'evalo",
+            "Nicholas Weller",
+            "Shrikanth S. Narayanan",
+            "B. Graham",
+            "Morteza Dehghani"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Flip-Flop Consistency: Unsupervised Training for Robustness to Prompt Perturbations in LLMs",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Parsa Hejabi",
+            "Elnaz Rahmati",
+            "Alireza S. Ziabari",
+            "Morteza Dehghani"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "CoCo-CoLa: Evaluating and Improving Language Adherence in Multilingual LLMs",
+          "year": 2025,
+          "venue": "Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025)",
+          "authors": [
+            "Elnaz Rahmati",
+            "Alireza S. Ziabari",
+            "Morteza Dehghani"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Parsa Hejabi",
+            "Elnaz Rahmati",
+            "Alireza S. Ziabari",
+            "Preni Golazizian",
+            "Jesse Thomason",
+            "Morteza Dehghani"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "GE2PE: Persian End-to-End Grapheme-to-Phoneme Conversion",
+          "year": 2024,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Elnaz Rahmati",
+            "Hossein Sameti"
+          ],
+          "citations": 4
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/2183206991",
+      "fetchedDate": "2026-03-08T12:16:08"
+    }
+  ],
+  "edges": [
+    {
+      "source": "abrar-anwar",
+      "target": "anthony-liang",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.195,
+      "weight": 0.222
+    },
+    {
+      "source": "abrar-anwar",
+      "target": "jesse-thomason",
+      "coauthorCount": 9,
+      "topicSimilarity": 0.486,
+      "weight": 0.64
+    },
+    {
+      "source": "abrar-anwar",
+      "target": "sayan-ghosh",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.017,
+      "weight": 0.115
+    },
+    {
+      "source": "abrar-anwar",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.271,
+      "weight": 0.163
+    },
+    {
+      "source": "ameya-godbole",
+      "target": "deqing-fu",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.137,
+      "weight": 0.187
+    },
+    {
+      "source": "ameya-godbole",
+      "target": "johnny-wei",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.302,
+      "weight": 0.348
+    },
+    {
+      "source": "ameya-godbole",
+      "target": "robin-jia",
+      "coauthorCount": 8,
+      "topicSimilarity": 0.208,
+      "weight": 0.458
+    },
+    {
+      "source": "ameya-godbole",
+      "target": "xiang-ren",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.288,
+      "weight": 0.173
+    },
+    {
+      "source": "anthony-liang",
+      "target": "ishika-singh",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.106,
+      "weight": 0.23
+    },
+    {
+      "source": "anthony-liang",
+      "target": "jesse-thomason",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.109,
+      "weight": 0.275
+    },
+    {
+      "source": "atharva-kulkarni",
+      "target": "swabha-swayamdipta",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.072,
+      "weight": 0.148
+    },
+    {
+      "source": "bill-zhu",
+      "target": "deqing-fu",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.263,
+      "weight": 0.368
+    },
+    {
+      "source": "bill-zhu",
+      "target": "ishika-singh",
+      "coauthorCount": 4,
+      "topicSimilarity": 0.456,
+      "weight": 0.517
+    },
+    {
+      "source": "bill-zhu",
+      "target": "jesse-thomason",
+      "coauthorCount": 9,
+      "topicSimilarity": 0.346,
+      "weight": 0.556
+    },
+    {
+      "source": "bill-zhu",
+      "target": "ollie-liu",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.253,
+      "weight": 0.257
+    },
+    {
+      "source": "bill-zhu",
+      "target": "robin-jia",
+      "coauthorCount": 11,
+      "topicSimilarity": 0.235,
+      "weight": 0.518
+    },
+    {
+      "source": "bill-zhu",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.324,
+      "weight": 0.194
+    },
+    {
+      "source": "bill-zhu",
+      "target": "xinyan-velocity-yu",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.289,
+      "weight": 0.279
+    },
+    {
+      "source": "brihi-joshi",
+      "target": "jaspreet-ranjit",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.028,
+      "weight": 0.122
+    },
+    {
+      "source": "brihi-joshi",
+      "target": "sahana-ramnath",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.541,
+      "weight": 0.596
+    },
+    {
+      "source": "brihi-joshi",
+      "target": "skyler-hallinan",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.379,
+      "weight": 0.437
+    },
+    {
+      "source": "brihi-joshi",
+      "target": "swabha-swayamdipta",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.097,
+      "weight": 0.163
+    },
+    {
+      "source": "brihi-joshi",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.062,
+      "weight": 0.142
+    },
+    {
+      "source": "brihi-joshi",
+      "target": "xiang-ren",
+      "coauthorCount": 8,
+      "topicSimilarity": 0.296,
+      "weight": 0.511
+    },
+    {
+      "source": "brihi-joshi",
+      "target": "ziyi-liu",
+      "coauthorCount": 4,
+      "topicSimilarity": 0.0,
+      "weight": 0.244
+    },
+    {
+      "source": "deqing-fu",
+      "target": "ollie-liu",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.381,
+      "weight": 0.5
+    },
+    {
+      "source": "deqing-fu",
+      "target": "robin-jia",
+      "coauthorCount": 11,
+      "topicSimilarity": 0.175,
+      "weight": 0.482
+    },
+    {
+      "source": "deqing-fu",
+      "target": "tianyi-zhou",
+      "coauthorCount": 4,
+      "topicSimilarity": 0.593,
+      "weight": 0.6
+    },
+    {
+      "source": "elnaz-rahmati",
+      "target": "jesse-thomason",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.094,
+      "weight": 0.162
+    },
+    {
+      "source": "elnaz-rahmati",
+      "target": "preni-golazizian",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.388,
+      "weight": 0.4
+    },
+    {
+      "source": "hirona-arai",
+      "target": "xiang-ren",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.203,
+      "weight": 0.332
+    },
+    {
+      "source": "huihan-li",
+      "target": "xiang-ren",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.188,
+      "weight": 0.384
+    },
+    {
+      "source": "ishika-singh",
+      "target": "jesse-thomason",
+      "coauthorCount": 11,
+      "topicSimilarity": 0.275,
+      "weight": 0.542
+    },
+    {
+      "source": "ishika-singh",
+      "target": "robin-jia",
+      "coauthorCount": 4,
+      "topicSimilarity": 0.151,
+      "weight": 0.335
+    },
+    {
+      "source": "ishika-singh",
+      "target": "taiwei-shi",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.301,
+      "weight": 0.181
+    },
+    {
+      "source": "ishika-singh",
+      "target": "xiang-ren",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.265,
+      "weight": 0.159
+    },
+    {
+      "source": "jacob-bremerman",
+      "target": "xiang-ren",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.086,
+      "weight": 0.157
+    },
+    {
+      "source": "jaspreet-ranjit",
+      "target": "swabha-swayamdipta",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.286,
+      "weight": 0.382
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "lee-kezar",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.262,
+      "weight": 0.429
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "leticia-pinto-alva",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.294,
+      "weight": 0.282
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "preni-golazizian",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.133,
+      "weight": 0.185
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "robin-jia",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.192,
+      "weight": 0.282
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 13,
+      "topicSimilarity": 0.536,
+      "weight": 0.722
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "ting-yun-chang",
+      "coauthorCount": 4,
+      "topicSimilarity": 0.143,
+      "weight": 0.329
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "xiang-ren",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.201,
+      "weight": 0.226
+    },
+    {
+      "source": "jieyu-zhao",
+      "target": "linxin-song",
+      "coauthorCount": 4,
+      "topicSimilarity": 0.103,
+      "weight": 0.305
+    },
+    {
+      "source": "jieyu-zhao",
+      "target": "taiwei-shi",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.045,
+      "weight": 0.299
+    },
+    {
+      "source": "jieyu-zhao",
+      "target": "ziyi-liu",
+      "coauthorCount": 4,
+      "topicSimilarity": 0.072,
+      "weight": 0.287
+    },
+    {
+      "source": "johnny-wei",
+      "target": "robin-jia",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.143,
+      "weight": 0.357
+    },
+    {
+      "source": "lee-kezar",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.239,
+      "weight": 0.248
+    },
+    {
+      "source": "lee-kezar",
+      "target": "xiang-ren",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.159,
+      "weight": 0.2
+    },
+    {
+      "source": "leticia-pinto-alva",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.303,
+      "weight": 0.287
+    },
+    {
+      "source": "leticia-pinto-alva",
+      "target": "ting-yun-chang",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.108,
+      "weight": 0.17
+    },
+    {
+      "source": "linxin-song",
+      "target": "taiwei-shi",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.439,
+      "weight": 0.535
+    },
+    {
+      "source": "linxin-song",
+      "target": "tianyi-zhou",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.072,
+      "weight": 0.148
+    },
+    {
+      "source": "linxin-song",
+      "target": "xiang-ren",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.258,
+      "weight": 0.155
+    },
+    {
+      "source": "matthew-finlayson",
+      "target": "robin-jia",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.1,
+      "weight": 0.165
+    },
+    {
+      "source": "matthew-finlayson",
+      "target": "swabha-swayamdipta",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.177,
+      "weight": 0.377
+    },
+    {
+      "source": "matthew-finlayson",
+      "target": "xiang-ren",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.24,
+      "weight": 0.354
+    },
+    {
+      "source": "muru-zhang",
+      "target": "ollie-liu",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.076,
+      "weight": 0.151
+    },
+    {
+      "source": "muru-zhang",
+      "target": "ting-yun-chang",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.024,
+      "weight": 0.12
+    },
+    {
+      "source": "ollie-liu",
+      "target": "robin-jia",
+      "coauthorCount": 4,
+      "topicSimilarity": 0.124,
+      "weight": 0.318
+    },
+    {
+      "source": "ollie-liu",
+      "target": "ting-rui-chiang",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.081,
+      "weight": 0.154
+    },
+    {
+      "source": "ollie-liu",
+      "target": "xinyan-velocity-yu",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.197,
+      "weight": 0.223
+    },
+    {
+      "source": "robin-jia",
+      "target": "swabha-swayamdipta",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.196,
+      "weight": 0.223
+    },
+    {
+      "source": "robin-jia",
+      "target": "tianyi-zhou",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.054,
+      "weight": 0.199
+    },
+    {
+      "source": "robin-jia",
+      "target": "ting-yun-chang",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.113,
+      "weight": 0.339
+    },
+    {
+      "source": "robin-jia",
+      "target": "xiang-ren",
+      "coauthorCount": 6,
+      "topicSimilarity": 0.304,
+      "weight": 0.478
+    },
+    {
+      "source": "robin-jia",
+      "target": "xinyan-velocity-yu",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.2,
+      "weight": 0.225
+    },
+    {
+      "source": "robin-jia",
+      "target": "xinyue-cui",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.097,
+      "weight": 0.163
+    },
+    {
+      "source": "robin-jia",
+      "target": "yuqing-yang",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.168,
+      "weight": 0.206
+    },
+    {
+      "source": "sahana-ramnath",
+      "target": "skyler-hallinan",
+      "coauthorCount": 5,
+      "topicSimilarity": 0.528,
+      "weight": 0.588
+    },
+    {
+      "source": "sahana-ramnath",
+      "target": "swabha-swayamdipta",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.14,
+      "weight": 0.189
+    },
+    {
+      "source": "sahana-ramnath",
+      "target": "xiang-ren",
+      "coauthorCount": 9,
+      "topicSimilarity": 0.275,
+      "weight": 0.514
+    },
+    {
+      "source": "sahana-ramnath",
+      "target": "ziyi-liu",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.0,
+      "weight": 0.105
+    },
+    {
+      "source": "sayan-ghosh",
+      "target": "swabha-swayamdipta",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.266,
+      "weight": 0.326
+    },
+    {
+      "source": "sayan-ghosh",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.176,
+      "weight": 0.211
+    },
+    {
+      "source": "skyler-hallinan",
+      "target": "xiang-ren",
+      "coauthorCount": 6,
+      "topicSimilarity": 0.303,
+      "weight": 0.476
+    },
+    {
+      "source": "swabha-swayamdipta",
+      "target": "taiwei-shi",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.165,
+      "weight": 0.204
+    },
+    {
+      "source": "swabha-swayamdipta",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.183,
+      "weight": 0.276
+    },
+    {
+      "source": "swabha-swayamdipta",
+      "target": "xiang-ren",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.307,
+      "weight": 0.184
+    },
+    {
+      "source": "swabha-swayamdipta",
+      "target": "xinyue-cui",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.363,
+      "weight": 0.428
+    },
+    {
+      "source": "taiwei-shi",
+      "target": "tianyi-zhou",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.052,
+      "weight": 0.198
+    },
+    {
+      "source": "taiwei-shi",
+      "target": "xiang-ren",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.315,
+      "weight": 0.189
+    },
+    {
+      "source": "tejas-srinivasan",
+      "target": "ting-yun-chang",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.142,
+      "weight": 0.19
+    },
+    {
+      "source": "tejas-srinivasan",
+      "target": "xiang-ren",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.237,
+      "weight": 0.352
+    },
+    {
+      "source": "ting-rui-chiang",
+      "target": "xinyan-velocity-yu",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.077,
+      "weight": 0.213
+    },
+    {
+      "source": "xiang-ren",
+      "target": "xinyan-velocity-yu",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.254,
+      "weight": 0.152
+    },
+    {
+      "source": "xiang-ren",
+      "target": "ziyi-liu",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.029,
+      "weight": 0.227
+    }
+  ],
+  "clusters": [
+    {
+      "id": 0,
+      "label": "language models & text",
+      "topics": [
+        "language models",
+        "text",
+        "knowledge"
+      ],
+      "color": "#4e79a7"
+    },
+    {
+      "id": 1,
+      "label": "large language models & reasoning",
+      "topics": [
+        "large language models",
+        "reasoning",
+        "language models"
+      ],
+      "color": "#f28e2b"
+    },
+    {
+      "id": 2,
+      "label": "language & vision",
+      "topics": [
+        "language",
+        "vision",
+        "robot"
+      ],
+      "color": "#e15759"
+    }
+  ]
+}

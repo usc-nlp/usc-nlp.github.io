@@ -1,0 +1,299 @@
+# USC NLP Group Members
+# semantic_scholar: paste their Semantic Scholar profile URL
+#   e.g. https://www.semanticscholar.org/author/Xiang-Ren/2536571
+# exclude_papers: list of paper ID prefixes (first 12 hex chars) to filter out
+#   (for when S2 merges papers from a different author with the same name)
+
+# ── Faculty ──
+
+- name: Xiang Ren
+  role: faculty
+  lab: INK Lab
+  url: https://shanzhenren.github.io/
+  image: images/faculty/xiang.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Xiang-Ren/1384550891
+
+- name: Robin Jia
+  role: faculty
+  lab: Allegro Lab
+  url: https://robinjia.github.io/
+  image: images/faculty/robin.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/3422908
+
+- name: Jesse Thomason
+  role: faculty
+  lab: GLAMOR Lab
+  url: https://jessethomason.com/
+  image: images/faculty/jesse.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/2665873
+
+- name: Swabha Swayamdipta
+  role: faculty
+  lab: DILL Lab
+  url: https://swabhs.com/
+  image: images/faculty/swabha.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/2705113
+
+- name: Jieyu Zhao
+  role: faculty
+  lab: LIME Lab
+  url: https://jyzhao.net/
+  image: images/faculty/jieyu.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/Jieyu-Zhao/33524946
+  exclude_papers:
+    - 51b118f6851a  # Mapping knowledge structure... asthma
+    - 550cebe0bf39  # Exploration of the spatial relationship... Xi'an
+    - d915f318f1ae  # Chinese virtual simulation golden course
+    - e017936d0ca1  # Longitudinal relationship... body mass index
+    - f6adc2fda1f7  # mediating roles of coping styles
+    - 00d45a98bd73  # Factors Associated with Subjective Well-Being... Adolescents
+    - 1ff48cae9cfd  # Gender and age differences... personality traits
+    - 2785759536b0  # Measuring the Inequalities... Public Healthcare
+    - 41c875710fd0  # Association between pregnant specific stress
+    - e18a7c875250  # Mediating Role of Extra-family Social Relationship
+
+# ── INK Lab Students ──
+
+- name: Hirona Arai
+  role: student
+  lab: INK Lab
+  url: https://www.hironaarai.com/
+  image: images/students/hirona.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/H.-J.-Arai/2218605855
+
+- name: Jacob Bremerman
+  role: student
+  lab: INK Lab
+  url: https://bremerman.me/
+  image: images/students/jacob.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/103022133
+
+- name: Matthew Finlayson
+  role: student
+  lab: INK Lab
+  url: https://mattf1n.github.io/
+  image: images/students/matt.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/1580418311
+
+- name: Skyler Hallinan
+  role: student
+  lab: INK Lab
+  url: https://skylerhallinan.com/
+  image: images/students/skyler.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/1474550731
+
+- name: Brihi Joshi
+  role: student
+  lab: INK Lab
+  url: https://brihijoshi.github.io/
+  image: images/students/brihi.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/41017365
+
+- name: Huihan Li
+  role: student
+  lab: INK Lab
+  url: https://huihanlhh.github.io/
+  image: images/students/huihan.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Huihan-Li/2144403358
+
+- name: Sahana Ramnath
+  role: student
+  lab: INK Lab
+  url: https://sahanaramnath.github.io/
+  image: images/students/sahana.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/1399403094
+
+# ── Allegro Lab Students ──
+
+- name: Ting-Yun Chang
+  role: student
+  lab: Allegro Lab
+  url: https://terachang.github.io/
+  image: images/students/ting-yun.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Ting-Yun-Chang/3386996
+
+- name: Deqing Fu
+  role: student
+  lab: Allegro Lab
+  url: https://sites.google.com/usc.edu/deqingfu
+  image: images/students/deqing.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/2135593484
+
+- name: Ameya Godbole
+  role: student
+  lab: Allegro Lab
+  url: https://ameyagodbole.github.io/
+  image: images/students/ameya.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/36851489
+
+- name: Johnny Wei
+  role: student
+  lab: Allegro Lab
+  url: https://johntzwei.github.io/
+  image: images/students/johnny.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/6145196
+
+- name: Yuqing Yang
+  role: student
+  lab: Allegro Lab
+  url: https://ayyyq.github.io/
+  image: images/students/yuqing.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Yuqing-Yang/2145435513
+
+- name: Muru Zhang
+  role: student
+  lab: Allegro Lab
+  url: https://nanami18.github.io/
+  image: images/students/muru.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Muru-Zhang/2116096584
+
+- name: Tianyi Zhou
+  role: student
+  lab: Allegro Lab
+  url: https://kevinzhoutianyi.github.io/
+  image: images/students/tianyi.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Tianyi-Zhou/2291084729
+
+- name: Bill Zhu
+  role: student
+  lab: Allegro Lab
+  url: https://billzhu.me/
+  image: images/students/bill.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/Wang-Bill-Zhu/2267003898
+
+# ── GLAMOR Lab Students ──
+
+- name: Abrar Anwar
+  role: student
+  lab: GLAMOR Lab
+  url: https://abraranwar.github.io/
+  image: images/students/abrar.png
+  semantic_scholar: https://www.semanticscholar.org/author/2266391775
+
+- name: Lee Kezar
+  role: student
+  lab: GLAMOR Lab
+  url: https://leekezar.github.io/
+  image: images/students/lee.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/51132560
+
+- name: Anthony Liang
+  role: student
+  lab: GLAMOR Lab
+  url: https://aliang8.github.io/
+  image: images/students/anthony.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/Anthony-Liang/2286891988
+
+- name: Leticia Pinto-Alva
+  role: student
+  lab: GLAMOR Lab
+  url: https://leticiapinto.github.io/
+  image: images/students/leticia.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/104339089
+
+- name: Ishika Singh
+  role: student
+  lab: GLAMOR Lab
+  url: https://ishikasingh.github.io/
+  image: images/students/ishika.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/Ishika-Singh/144399662
+
+- name: Tejas Srinivasan
+  role: student
+  lab: GLAMOR Lab
+  url: https://tejas1995.github.io/
+  image: images/students/tejas.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/150324514
+
+# ── DILL Lab Students ──
+
+- name: Xinyue Cui
+  role: student
+  lab: DILL Lab
+  url: https://x-f-cui.github.io/website/
+  image: images/students/xinyue.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Xinyue-Cui/2305564328
+
+- name: Sayan Ghosh
+  role: student
+  lab: DILL Lab
+  url: https://sghosh73.github.io/
+  image: images/students/sayan.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/Sayan-Ghosh/2309426231
+
+- name: Atharva Kulkarni
+  role: student
+  lab: DILL Lab
+  url: https://atharvajk98.github.io/
+  image: images/students/atharva.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Atharva-Kulkarni/1992797499
+
+- name: Jaspreet Ranjit
+  role: student
+  lab: DILL Lab
+  url: https://jr4fs.github.io/
+  image: images/students/jaspreet.png
+  semantic_scholar: https://www.semanticscholar.org/author/1819649550
+
+# ── LIME Lab Students ──
+
+- name: Ziyi Liu
+  role: student
+  lab: LIME Lab
+  url: http://liuziyi219.github.io/
+  image: images/students/ziyi.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Ziyi-Liu/2346160584
+
+- name: Taiwei Shi
+  role: student
+  lab: LIME Lab
+  url: https://maksimstw.github.io/
+  image: images/students/taiwei.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Taiwei-Shi/2261392431
+
+- name: Linxin Song
+  role: student
+  lab: LIME Lab
+  url: https://linxins.net
+  image: images/students/linxin.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Linxin-Song/2322070046
+
+# ── tamagotchi Students ──
+
+- name: Ting-Rui Chiang
+  role: student
+  lab: tamagotchi
+  url: https://ctinray.github.io/
+  image: images/students/ting-rui.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/153033862
+
+- name: Ollie Liu
+  role: student
+  lab: tamagotchi
+  url: https://ollieliu.com/
+  image: images/students/oliver.png
+  semantic_scholar: https://www.semanticscholar.org/author/2065919693
+
+- name: Xinyan Velocity Yu
+  role: student
+  lab: tamagotchi
+  url: https://velocitycavalry.github.io/
+  image: images/students/xinyan.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/2118211280
+
+# ── MOLA Lab Students ──
+
+- name: Preni Golazizian
+  role: student
+  lab: MOLA Lab
+  url: "#"
+  image: images/students/preni.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/1724513406
+
+- name: Elnaz Rahmati
+  role: student
+  lab: MOLA Lab
+  url: "#"
+  image: images/students/elnaz.jpeg
+  semantic_scholar: https://www.semanticscholar.org/author/2183206991
+
