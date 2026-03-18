@@ -89,6 +89,13 @@
   image: images/students/brihi.jpg
   semantic_scholar: https://www.semanticscholar.org/author/41017365
 
+- name: Michael Duan
+  role: student
+  lab: INK Lab
+  url: https://michaelduan8.github.io/
+  image: images/students/michael.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Michael-Duan/2283847628
+
 - name: Huihan Li
   role: student
   lab: INK Lab
@@ -102,6 +109,13 @@
   url: https://sahanaramnath.github.io/
   image: images/students/sahana.jpg
   semantic_scholar: https://www.semanticscholar.org/author/1399403094
+
+- name: Siyuan Wang
+  role: student
+  lab: INK Lab
+  url: https://siyuanwangw.github.io/
+  image: images/students/siyuan.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Siyuan-Wang/2116420560
 
 # ── Allegro Lab Students ──
 
@@ -204,6 +218,27 @@
   url: https://tejas1995.github.io/
   image: images/students/tejas.jpg
   semantic_scholar: https://www.semanticscholar.org/author/150324514
+
+- name: Wei Yang
+  role: student
+  lab: GLAMOR Lab
+  url: https://weiyang930.github.io/
+  image: images/students/wei.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Wei-Yang/2316881202
+
+- name: Yuliang Cai
+  role: student
+  lab: GLAMOR Lab
+  url: "#"
+  image: images/students/yuliang.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Yuliang-Cai/2149196448
+
+- name: Zizhao Hu
+  role: student
+  lab: GLAMOR Lab
+  url: https://zizhaohu.com/
+  image: images/students/zizhao.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Zizhao-Hu/2148424224
 
 # ── DILL Lab Students ──
 

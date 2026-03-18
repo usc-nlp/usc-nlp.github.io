@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-08T12:39:00",
+  "generated": "2026-03-17T17:29:22",
   "researchAreas": [
-    "language models",
     "large language models",
+    "language models",
     "reasoning",
     "knowledge",
     "multimodal",
@@ -26,8 +26,8 @@
         "reasoning"
       ],
       "researchAreas": [
-        "language models",
         "large language models",
+        "language models",
         "reasoning",
         "knowledge"
       ],
@@ -671,8 +671,8 @@
         "generation"
       ],
       "researchAreas": [
-        "language models",
-        "large language models"
+        "large language models",
+        "language models"
       ],
       "paperCount": 12,
       "topPapers": [
@@ -1036,6 +1036,115 @@
       "fetchedDate": "2026-03-08T12:14:52"
     },
     {
+      "id": "michael-duan",
+      "name": "Michael Duan",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://michaelduan8.github.io/",
+      "image": "images/students/michael.jpg",
+      "cluster": 1,
+      "topics": [
+        "privacy",
+        "membership",
+        "inference",
+        "attacks",
+        "large language models"
+      ],
+      "researchAreas": [
+        "large language models"
+      ],
+      "paperCount": 5,
+      "topPapers": [
+        {
+          "title": "Privasis: Synthesizing the Largest \"Public\" Private Dataset from Scratch",
+          "year": 2026,
+          "venue": "arXiv.org",
+          "authors": [
+            "Hyunwoo Kim",
+            "Niloofar Mireshghallah",
+            "Michael Duan",
+            "R. Xin",
+            "Shuyue Stella Li",
+            "Jaehun Jung",
+            "David Acuna",
+            "Qi Pang",
+            "Hanshen Xiao",
+            "G. E. Suh",
+            "Sewoong Oh",
+            "Yulia Tsvetkov",
+            "Pang Wei Koh",
+            "Yejin Choi"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Proof-of-Guardrail in AI Agents and What (Not) to Trust from It",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Xisen Jin",
+            "Michael Duan",
+            "Qin Lin",
+            "Aaron Chan",
+            "Zhenglun Chen",
+            "Junyi Du",
+            "Xiang Ren"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Xinxi Lyu",
+            "Michael Duan",
+            "Rulin Shao",
+            "Pang Wei Koh",
+            "Sewon Min"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "R. Xin",
+            "Niloofar Mireshghallah",
+            "Shuyue Stella Li",
+            "Michael Duan",
+            "Hyunwoo Kim",
+            "Yejin Choi",
+            "Yulia Tsvetkov",
+            "Sewoong Oh",
+            "Pang Wei Koh"
+          ],
+          "citations": 22
+        },
+        {
+          "title": "Do Membership Inference Attacks Work on Large Language Models?",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Michael Duan",
+            "Anshuman Suri",
+            "Niloofar Mireshghallah",
+            "Sewon Min",
+            "Weijia Shi",
+            "Luke S. Zettlemoyer",
+            "Yulia Tsvetkov",
+            "Yejin Choi",
+            "David Evans",
+            "Hanna Hajishirzi"
+          ],
+          "citations": 179
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Michael-Duan/2283847628",
+      "fetchedDate": "2026-03-17T17:29:07"
+    },
+    {
       "id": "huihan-li",
       "name": "Huihan Li",
       "role": "student",
@@ -1234,6 +1343,117 @@
       ],
       "semanticScholarUrl": "https://www.semanticscholar.org/author/1399403094",
       "fetchedDate": "2026-03-08T12:14:55"
+    },
+    {
+      "id": "siyuan-wang",
+      "name": "Siyuan Wang",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://siyuanwangw.github.io/",
+      "image": "images/students/siyuan.jpg",
+      "cluster": 0,
+      "topics": [
+        "reasoning",
+        "multi",
+        "visual",
+        "language",
+        "vision"
+      ],
+      "researchAreas": [
+        "language models",
+        "reasoning",
+        "knowledge",
+        "vision"
+      ],
+      "paperCount": 64,
+      "topPapers": [
+        {
+          "title": "Segment-Level Attribution for Selective Learning of Long Reasoning Traces",
+          "year": 2026,
+          "venue": "arXiv.org",
+          "authors": [
+            "Siyuan Wang",
+            "Yanchen Liu",
+            "Xiang Ren"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation",
+          "year": 2026,
+          "venue": "arXiv.org",
+          "authors": [
+            "Jiwen Zhang",
+            "Zejun Li",
+            "Siyuan Wang",
+            "Xiangyu Shi",
+            "Zhongyu Wei",
+            "Qi Wu"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing",
+          "year": 2026,
+          "venue": "arXiv.org",
+          "authors": [
+            "Dianyi Wang",
+            "Chaofan Ma",
+            "F. Han",
+            "Size Wu",
+            "Wei Song",
+            "Yibin Wang",
+            "Zhixiong Zhang",
+            "Tianhang Wang",
+            "Siyuan Wang",
+            "Zhongyu Wei",
+            "Jiaqi Wang"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution",
+          "year": 2026,
+          "venue": "arXiv.org",
+          "authors": [
+            "Libo Sun",
+            "Jiwen Zhang",
+            "Siyuan Wang",
+            "Zhongyu Wei"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Dianyi Wang",
+            "Ruihang Li",
+            "F. Han",
+            "Chaofan Ma",
+            "Wei Song",
+            "Siyuan Wang",
+            "Yibin Wang",
+            "Yi Xin",
+            "Hongjiang Liu",
+            "Zhixiong Zhang",
+            "Shengyuan Ding",
+            "Tianhang Wang",
+            "Zhenglin Cheng",
+            "Tao Lin",
+            "Cheng Jin",
+            "Kaicheng Yu",
+            "Jingjing Chen",
+            "Wenjie Wang",
+            "Zhongyu Wei",
+            "Jiaqi Wang"
+          ],
+          "citations": 2
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Siyuan-Wang/2116420560",
+      "fetchedDate": "2026-03-17T17:29:10"
     },
     {
       "id": "ting-yun-chang",
@@ -2373,8 +2593,8 @@
         "action"
       ],
       "researchAreas": [
-        "language models",
         "large language models",
+        "language models",
         "robot"
       ],
       "paperCount": 18,
@@ -2538,6 +2758,262 @@
       ],
       "semanticScholarUrl": "https://www.semanticscholar.org/author/150324514",
       "fetchedDate": "2026-03-08T12:15:33"
+    },
+    {
+      "id": "wei-yang",
+      "name": "Wei Yang",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "https://weiyang930.github.io/",
+      "image": "images/students/wei.jpg",
+      "cluster": 1,
+      "topics": [
+        "time",
+        "series",
+        "reasoning",
+        "inference",
+        "forecasting"
+      ],
+      "researchAreas": [
+        "large language models",
+        "reasoning"
+      ],
+      "paperCount": 9,
+      "topPapers": [
+        {
+          "title": "De-conflating Preference and Qualification: Constrained Dual-Perspective Reasoning for Job Recommendation with Large Language Models",
+          "year": 2026,
+          "venue": "arXiv.org",
+          "authors": [
+            "Bryce Kan",
+            "Wei Yang",
+            "Emily Nguyen",
+            "Ganghui Yi",
+            "Bowen Yi",
+            "Chenxiao Yu",
+            "Yan Liu"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "TemporalBench: A Benchmark for Evaluating LLM-Based Agents on Contextual and Event-Informed Time Series Tasks",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Muyan Weng",
+            "Defu Cao",
+            "Wei Yang",
+            "Yash Sharma",
+            "Yan Liu"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling",
+          "year": 2026,
+          "venue": "",
+          "authors": [
+            "Dingding Cao",
+            "Bianbian Jiao",
+            "Jingzong Yang",
+            "Yujin Zhong",
+            "Wei Yang"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Ching Chang",
+            "Yidan Shi",
+            "Defu Cao",
+            "Wei Yang",
+            "Jeehyun Hwang",
+            "Haixin Wang",
+            "Jiacheng Pang",
+            "Wei Wang",
+            "Yan Liu",
+            "Wen-Chih Peng",
+            "Tien-Fu Chen"
+          ],
+          "citations": 11
+        },
+        {
+          "title": "Foundation Models for Demand Forecasting via Dual-Strategy Ensembling",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Wei Yang",
+            "Defu Cao",
+            "Yan Liu"
+          ],
+          "citations": 3
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Wei-Yang/2316881202",
+      "fetchedDate": "2026-03-17T17:29:13"
+    },
+    {
+      "id": "yuliang-cai",
+      "name": "Yuliang Cai",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "#",
+      "image": "images/students/yuliang.jpg",
+      "cluster": 2,
+      "topics": [
+        "continual",
+        "transformer",
+        "architecture",
+        "clip",
+        "negation"
+      ],
+      "researchAreas": [
+        "multimodal"
+      ],
+      "paperCount": 8,
+      "topPapers": [
+        {
+          "title": "Dynamic transformer architecture for continual learning of multimodal tasks",
+          "year": 2026,
+          "venue": "Neurocomputing",
+          "authors": [
+            "Yuliang Cai",
+            "Mohammad Rostami"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Efficient Visual Question Answering Pipeline for Autonomous Driving via Scene Region Compression",
+          "year": 2026,
+          "venue": "arXiv.org",
+          "authors": [
+            "Yuliang Cai",
+            "Dongqiangzi Ye",
+            "Z. Chen",
+            "Chongruo Wu"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "TNG-CLIP:Training-Time Negation Data Generation for Negation Awareness of CLIP",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Yuliang Cai",
+            "Jesse Thomason",
+            "Mohammad Rostami"
+          ],
+          "citations": 3
+        },
+        {
+          "title": "Enhancing Bandwidth Efficiency for Video Motion Transfer Applications using Deep Learning Based Keypoint Prediction",
+          "year": 2024,
+          "venue": "International Conference on Engineering Applications of Neural Networks",
+          "authors": [
+            "Xue Bai",
+            "Tasmiah Haque",
+            "S. Mohan",
+            "Yuliang Cai",
+            "Byungheon Jeong",
+            "\u00c1d\u00e1m M. Hal\u00e1sz",
+            "Srinjoy Das"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering",
+          "year": 2024,
+          "venue": "Journal of Artificial Intelligence Research",
+          "authors": [
+            "Yuliang Cai",
+            "Mohammad Rostami"
+          ],
+          "citations": 5
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Yuliang-Cai/2149196448",
+      "fetchedDate": "2026-03-17T17:29:16"
+    },
+    {
+      "id": "zizhao-hu",
+      "name": "Zizhao Hu",
+      "role": "student",
+      "lab": "GLAMOR Lab",
+      "url": "https://zizhaohu.com/",
+      "image": "images/students/zizhao.jpg",
+      "cluster": 2,
+      "topics": [
+        "diffusion",
+        "multimodal",
+        "synthetic",
+        "collapse",
+        "insights"
+      ],
+      "researchAreas": [
+        "multimodal"
+      ],
+      "paperCount": 11,
+      "topPapers": [
+        {
+          "title": "Multimodal Synthetic Data Finetuning and Model Collapse: Insights from VLMs and Diffusion Models",
+          "year": 2025,
+          "venue": "International Conference on Multimodal Interaction",
+          "authors": [
+            "Zizhao Hu",
+            "Mohammad Rostami",
+            "Jesse Thomason"
+          ],
+          "citations": 1
+        },
+        {
+          "title": "Multi-modal Synthetic Data Training and Model Collapse: Insights from VLMs and Diffusion Models",
+          "year": 2025,
+          "venue": "arXiv.org",
+          "authors": [
+            "Zizhao Hu",
+            "Mohammad Rostami",
+            "Jesse Thomason"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Zizhao Hu",
+            "Shaochong Jia",
+            "Mohammad Rostami"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "Lateralization MLP: A Simple Brain-inspired Architecture for Diffusion",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Zizhao Hu",
+            "Mohammad Rostami"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Static Key Attention in Vision",
+          "year": 2024,
+          "venue": "arXiv.org",
+          "authors": [
+            "Zizhao Hu",
+            "Xiaolin Zhou",
+            "Mohammad Rostami"
+          ],
+          "citations": 0
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Zizhao-Hu/2148424224",
+      "fetchedDate": "2026-03-17T17:29:19"
     },
     {
       "id": "xinyue-cui",
@@ -2964,8 +3440,8 @@
         "knowledge"
       ],
       "researchAreas": [
-        "language models",
         "large language models",
+        "language models",
         "knowledge"
       ],
       "paperCount": 13,
@@ -3306,8 +3782,8 @@
         "llm"
       ],
       "researchAreas": [
-        "language models",
         "large language models",
+        "language models",
         "reasoning",
         "multimodal"
       ],
@@ -3475,8 +3951,8 @@
         "diffusion"
       ],
       "researchAreas": [
-        "language models",
-        "large language models"
+        "large language models",
+        "language models"
       ],
       "paperCount": 16,
       "topPapers": [
@@ -3821,6 +4297,13 @@
     },
     {
       "source": "ameya-godbole",
+      "target": "siyuan-wang",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.418,
+      "weight": 0.251
+    },
+    {
+      "source": "ameya-godbole",
       "target": "xiang-ren",
       "coauthorCount": 0,
       "topicSimilarity": 0.288,
@@ -3881,6 +4364,13 @@
       "coauthorCount": 11,
       "topicSimilarity": 0.235,
       "weight": 0.518
+    },
+    {
+      "source": "bill-zhu",
+      "target": "siyuan-wang",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.293,
+      "weight": 0.176
     },
     {
       "source": "bill-zhu",
@@ -3989,6 +4479,13 @@
     },
     {
       "source": "huihan-li",
+      "target": "siyuan-wang",
+      "coauthorCount": 3,
+      "topicSimilarity": 0.39,
+      "weight": 0.444
+    },
+    {
+      "source": "huihan-li",
       "target": "xiang-ren",
       "coauthorCount": 5,
       "topicSimilarity": 0.188,
@@ -4066,6 +4563,13 @@
     },
     {
       "source": "jesse-thomason",
+      "target": "siyuan-wang",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.269,
+      "weight": 0.161
+    },
+    {
+      "source": "jesse-thomason",
       "target": "tejas-srinivasan",
       "coauthorCount": 13,
       "topicSimilarity": 0.536,
@@ -4084,6 +4588,20 @@
       "coauthorCount": 1,
       "topicSimilarity": 0.201,
       "weight": 0.226
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "yuliang-cai",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.255,
+      "weight": 0.319
+    },
+    {
+      "source": "jesse-thomason",
+      "target": "zizhao-hu",
+      "coauthorCount": 2,
+      "topicSimilarity": 0.116,
+      "weight": 0.236
     },
     {
       "source": "jieyu-zhao",
@@ -4184,6 +4702,13 @@
       "weight": 0.354
     },
     {
+      "source": "michael-duan",
+      "target": "xiang-ren",
+      "coauthorCount": 1,
+      "topicSimilarity": 0.148,
+      "weight": 0.194
+    },
+    {
       "source": "muru-zhang",
       "target": "ollie-liu",
       "coauthorCount": 1,
@@ -4203,6 +4728,13 @@
       "coauthorCount": 4,
       "topicSimilarity": 0.124,
       "weight": 0.318
+    },
+    {
+      "source": "ollie-liu",
+      "target": "siyuan-wang",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.343,
+      "weight": 0.206
     },
     {
       "source": "ollie-liu",
@@ -4310,6 +4842,48 @@
       "weight": 0.211
     },
     {
+      "source": "siyuan-wang",
+      "target": "skyler-hallinan",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.297,
+      "weight": 0.178
+    },
+    {
+      "source": "siyuan-wang",
+      "target": "tejas-srinivasan",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.348,
+      "weight": 0.209
+    },
+    {
+      "source": "siyuan-wang",
+      "target": "wei-yang",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.288,
+      "weight": 0.173
+    },
+    {
+      "source": "siyuan-wang",
+      "target": "xiang-ren",
+      "coauthorCount": 9,
+      "topicSimilarity": 0.398,
+      "weight": 0.588
+    },
+    {
+      "source": "siyuan-wang",
+      "target": "xinyan-velocity-yu",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.256,
+      "weight": 0.154
+    },
+    {
+      "source": "siyuan-wang",
+      "target": "yuqing-yang",
+      "coauthorCount": 0,
+      "topicSimilarity": 0.321,
+      "weight": 0.193
+    },
+    {
       "source": "skyler-hallinan",
       "target": "xiang-ren",
       "coauthorCount": 6,
@@ -4397,11 +4971,11 @@
   "clusters": [
     {
       "id": 0,
-      "label": "language models & text",
+      "label": "reasoning & language models",
       "topics": [
+        "reasoning",
         "language models",
-        "text",
-        "knowledge"
+        "text"
       ],
       "color": "#4e79a7"
     },
@@ -4421,7 +4995,7 @@
       "topics": [
         "language",
         "vision",
-        "robot"
+        "multimodal"
       ],
       "color": "#e15759"
     }

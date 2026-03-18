@@ -41632,5 +41632,4836 @@
         }
       ]
     }
+  },
+  "Michael Duan": {
+    "semantic_scholar_url": "https://www.semanticscholar.org/author/Michael-Duan/2283847628",
+    "fetched_date": "2026-03-17T17:29:07",
+    "details": {
+      "authorId": "2283847628",
+      "name": "Michael Duan",
+      "affiliations": [],
+      "paperCount": 5,
+      "papers": [
+        {
+          "paperId": "bfd29e4df162d5c7eb0993a06f3ba068aac4d1e6",
+          "title": "Privasis: Synthesizing the Largest \"Public\" Private Dataset from Scratch",
+          "venue": "arXiv.org",
+          "year": 2026,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2391718604",
+              "name": "Hyunwoo Kim"
+            },
+            {
+              "authorId": "2254272878",
+              "name": "Niloofar Mireshghallah"
+            },
+            {
+              "authorId": "2283847628",
+              "name": "Michael Duan"
+            },
+            {
+              "authorId": "2358262856",
+              "name": "R. Xin"
+            },
+            {
+              "authorId": "2295954288",
+              "name": "Shuyue Stella Li"
+            },
+            {
+              "authorId": "2266707583",
+              "name": "Jaehun Jung"
+            },
+            {
+              "authorId": "2354171111",
+              "name": "David Acuna"
+            },
+            {
+              "authorId": "2273711525",
+              "name": "Qi Pang"
+            },
+            {
+              "authorId": "2398745385",
+              "name": "Hanshen Xiao"
+            },
+            {
+              "authorId": "2396488305",
+              "name": "G. E. Suh"
+            },
+            {
+              "authorId": "2303461111",
+              "name": "Sewoong Oh"
+            },
+            {
+              "authorId": "2258958466",
+              "name": "Yulia Tsvetkov"
+            },
+            {
+              "authorId": "2396486308",
+              "name": "Pang Wei Koh"
+            },
+            {
+              "authorId": "2259707400",
+              "name": "Yejin Choi"
+            }
+          ]
+        },
+        {
+          "paperId": "f81c695ab53f04bc7b90e11abc9aebc8f93e9ea2",
+          "title": "Proof-of-Guardrail in AI Agents and What (Not) to Trust from It",
+          "venue": "",
+          "year": 2026,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "51134926",
+              "name": "Xisen Jin"
+            },
+            {
+              "authorId": "2283847628",
+              "name": "Michael Duan"
+            },
+            {
+              "authorId": "2422667613",
+              "name": "Qin Lin"
+            },
+            {
+              "authorId": "2265617684",
+              "name": "Aaron Chan"
+            },
+            {
+              "authorId": "2274080133",
+              "name": "Zhenglun Chen"
+            },
+            {
+              "authorId": "3109653",
+              "name": "Junyi Du"
+            },
+            {
+              "authorId": "2315892421",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "a3a766f334ad3a6582a18da4d899c86f50258dc2",
+          "title": "Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 3,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Mathematics",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2156533327",
+              "name": "Xinxi Lyu"
+            },
+            {
+              "authorId": "2283847628",
+              "name": "Michael Duan"
+            },
+            {
+              "authorId": "2287946530",
+              "name": "Rulin Shao"
+            },
+            {
+              "authorId": "2303396379",
+              "name": "Pang Wei Koh"
+            },
+            {
+              "authorId": "48872685",
+              "name": "Sewon Min"
+            }
+          ]
+        },
+        {
+          "paperId": "b32969bcb1650d9375122b73bdd5bd2aff2abac8",
+          "title": "A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 22,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2358262856",
+              "name": "R. Xin"
+            },
+            {
+              "authorId": "2254272878",
+              "name": "Niloofar Mireshghallah"
+            },
+            {
+              "authorId": "2295954288",
+              "name": "Shuyue Stella Li"
+            },
+            {
+              "authorId": "2283847628",
+              "name": "Michael Duan"
+            },
+            {
+              "authorId": "2391718604",
+              "name": "Hyunwoo Kim"
+            },
+            {
+              "authorId": "2312650863",
+              "name": "Yejin Choi"
+            },
+            {
+              "authorId": "2258958466",
+              "name": "Yulia Tsvetkov"
+            },
+            {
+              "authorId": "2303461111",
+              "name": "Sewoong Oh"
+            },
+            {
+              "authorId": "2263759359",
+              "name": "Pang Wei Koh"
+            }
+          ]
+        },
+        {
+          "paperId": "f16c669c126c800dac38d445ddd178ffb9af5b7a",
+          "title": "Do Membership Inference Attacks Work on Large Language Models?",
+          "venue": "arXiv.org",
+          "year": 2024,
+          "citationCount": 179,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2283847628",
+              "name": "Michael Duan"
+            },
+            {
+              "authorId": "7193488",
+              "name": "Anshuman Suri"
+            },
+            {
+              "authorId": "2254272878",
+              "name": "Niloofar Mireshghallah"
+            },
+            {
+              "authorId": "48872685",
+              "name": "Sewon Min"
+            },
+            {
+              "authorId": "2254168373",
+              "name": "Weijia Shi"
+            },
+            {
+              "authorId": "2137813791",
+              "name": "Luke S. Zettlemoyer"
+            },
+            {
+              "authorId": "2258958466",
+              "name": "Yulia Tsvetkov"
+            },
+            {
+              "authorId": "2259707400",
+              "name": "Yejin Choi"
+            },
+            {
+              "authorId": "2262483758",
+              "name": "David Evans"
+            },
+            {
+              "authorId": "2264251662",
+              "name": "Hanna Hajishirzi"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Siyuan Wang": {
+    "semantic_scholar_url": "https://www.semanticscholar.org/author/Siyuan-Wang/2116420560",
+    "fetched_date": "2026-03-17T17:29:10",
+    "details": {
+      "authorId": "2116420560",
+      "name": "Siyuan Wang",
+      "affiliations": [],
+      "paperCount": 64,
+      "papers": [
+        {
+          "paperId": "004113a0556d9524d1015c51c08267a98eb2aa31",
+          "title": "Segment-Level Attribution for Selective Learning of Long Reasoning Traces",
+          "venue": "arXiv.org",
+          "year": 2026,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2108082280",
+              "name": "Yanchen Liu"
+            },
+            {
+              "authorId": "2348191153",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "0435cff870d7e08709e93072f207abcf8eda39d6",
+          "title": "SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation",
+          "venue": "arXiv.org",
+          "year": 2026,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2223697026",
+              "name": "Jiwen Zhang"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2264605902",
+              "name": "Xiangyu Shi"
+            },
+            {
+              "authorId": "2290027793",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2404242638",
+              "name": "Qi Wu"
+            }
+          ]
+        },
+        {
+          "paperId": "71e7b92426270a4a43105e68b7e03c7a0e7ef2be",
+          "title": "UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing",
+          "venue": "arXiv.org",
+          "year": 2026,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2336523218",
+              "name": "Dianyi Wang"
+            },
+            {
+              "authorId": "2408528103",
+              "name": "Chaofan Ma"
+            },
+            {
+              "authorId": "2408882957",
+              "name": "F. Han"
+            },
+            {
+              "authorId": "2149346794",
+              "name": "Size Wu"
+            },
+            {
+              "authorId": "2305695633",
+              "name": "Wei Song"
+            },
+            {
+              "authorId": "2384504643",
+              "name": "Yibin Wang"
+            },
+            {
+              "authorId": "2338346463",
+              "name": "Zhixiong Zhang"
+            },
+            {
+              "authorId": "2409306938",
+              "name": "Tianhang Wang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2386931557",
+              "name": "Jiaqi Wang"
+            }
+          ]
+        },
+        {
+          "paperId": "bae8242f7ba14a448088757d806a987d6d8e6da8",
+          "title": "MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution",
+          "venue": "arXiv.org",
+          "year": 2026,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2301759530",
+              "name": "Libo Sun"
+            },
+            {
+              "authorId": "2223697026",
+              "name": "Jiwen Zhang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "c7244fec202204685e05cfa54575b85c9096d49d",
+          "title": "DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing",
+          "venue": "",
+          "year": 2026,
+          "citationCount": 2,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2336523218",
+              "name": "Dianyi Wang"
+            },
+            {
+              "authorId": "2218413645",
+              "name": "Ruihang Li"
+            },
+            {
+              "authorId": "2408882957",
+              "name": "F. Han"
+            },
+            {
+              "authorId": "2408528103",
+              "name": "Chaofan Ma"
+            },
+            {
+              "authorId": "2305695633",
+              "name": "Wei Song"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2384504643",
+              "name": "Yibin Wang"
+            },
+            {
+              "authorId": "2386950951",
+              "name": "Yi Xin"
+            },
+            {
+              "authorId": "2155560642",
+              "name": "Hongjiang Liu"
+            },
+            {
+              "authorId": "2338346463",
+              "name": "Zhixiong Zhang"
+            },
+            {
+              "authorId": "2341923953",
+              "name": "Shengyuan Ding"
+            },
+            {
+              "authorId": "2409306938",
+              "name": "Tianhang Wang"
+            },
+            {
+              "authorId": "2302893462",
+              "name": "Zhenglin Cheng"
+            },
+            {
+              "authorId": "2372457601",
+              "name": "Tao Lin"
+            },
+            {
+              "authorId": "2334445793",
+              "name": "Cheng Jin"
+            },
+            {
+              "authorId": "2328001265",
+              "name": "Kaicheng Yu"
+            },
+            {
+              "authorId": "2129499834",
+              "name": "Jingjing Chen"
+            },
+            {
+              "authorId": "2408862803",
+              "name": "Wenjie Wang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2408908677",
+              "name": "Jiaqi Wang"
+            }
+          ]
+        },
+        {
+          "paperId": "0876bd9a17fcfa0fca41ee3464b9d30813a2b566",
+          "title": "MoIIE: Mixture of Intra- and Inter-Modality Experts for Large Vision Language Models",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2336523218",
+              "name": "Dianyi Wang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2355325652",
+              "name": "Yikun Wang"
+            },
+            {
+              "authorId": "2351211185",
+              "name": "Yitong Li"
+            },
+            {
+              "authorId": "2344574234",
+              "name": "Duyu Tang"
+            },
+            {
+              "authorId": "2310861322",
+              "name": "Xiaoyu Shen"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2290027793",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "0f8e849e82cbb832822f291a50494aa868f3ca6b",
+          "title": "Mixture-of-Visual-Thoughts: Exploring Context-Adaptive Reasoning Mode Selection for General Visual Reasoning",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 4,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2345919965",
+              "name": "Yingxiu Zhao"
+            },
+            {
+              "authorId": "2223697026",
+              "name": "Jiwen Zhang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2376906485",
+              "name": "Yang Yao"
+            },
+            {
+              "authorId": "2378103103",
+              "name": "Runzhou Zhao"
+            },
+            {
+              "authorId": "2336451613",
+              "name": "Jun Song"
+            },
+            {
+              "authorId": "2336160587",
+              "name": "Bo Zheng"
+            },
+            {
+              "authorId": "2290027793",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "219620f9e9e98602265f023f971eee0993bce68f",
+          "title": "HardcoreLogic: Challenging Large Reasoning Models with Long-tail Logic Puzzle Games",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2269594754",
+              "name": "Jingcong Liang"
+            },
+            {
+              "authorId": "2385540824",
+              "name": "Shijun Wan"
+            },
+            {
+              "authorId": "2326973246",
+              "name": "Xue Wu"
+            },
+            {
+              "authorId": "2351211185",
+              "name": "Yitong Li"
+            },
+            {
+              "authorId": "2362308383",
+              "name": "Qianglong Chen"
+            },
+            {
+              "authorId": "2344574234",
+              "name": "Duyu Tang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "3582ad147fce6a4a6425da7555163847fcdefffb",
+          "title": "AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2301111695",
+              "name": "Xuanwen Ding"
+            },
+            {
+              "authorId": "2275693554",
+              "name": "Chengjun Pan"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2223697026",
+              "name": "Jiwen Zhang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2290027793",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "3ed305d8fafec30942d8c92ec296336058669788",
+          "title": "Stepwise Informativeness Search for Improving LLM Reasoning",
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "year": 2025,
+          "citationCount": 6,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2346836679",
+              "name": "Enda Zhao"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2348191153",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "4c94f0582183b9b6c1314d99038968d5993ad4eb",
+          "title": "Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction",
+          "venue": "North American Chapter of the Association for Computational Linguistics",
+          "year": 2025,
+          "citationCount": 17,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Law",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2209395634",
+              "name": "Shengbin Yue"
+            },
+            {
+              "authorId": "2356854585",
+              "name": "Ting Huang"
+            },
+            {
+              "authorId": "2345787072",
+              "name": "Zheng Jia"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2243135769",
+              "name": "Shujun Liu"
+            },
+            {
+              "authorId": "2331364757",
+              "name": "Yun Song"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "5393dc4a7a5e3fe8bda6084739e97e6a5a22e117",
+          "title": "Diagnosing Memorization in Chain-of-Thought Reasoning, One Token at a Time",
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "year": 2025,
+          "citationCount": 3,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2144403358",
+              "name": "Huihan Li"
+            },
+            {
+              "authorId": "2294390078",
+              "name": "You Chen"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2347348468",
+              "name": "Yixin He"
+            },
+            {
+              "authorId": "51997673",
+              "name": "Ninareh Mehrabi"
+            },
+            {
+              "authorId": "2374944073",
+              "name": "Rahul Gupta"
+            },
+            {
+              "authorId": "2348191153",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "53e7454ed0adf3b635d14cfa2df6747b75370dc5",
+          "title": "Identity-Driven Hierarchical Role-Playing Agents",
+          "venue": "Natural Language Processing and Chinese Computing",
+          "year": 2025,
+          "citationCount": 2,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2301759530",
+              "name": "Libo Sun"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "5aa1b492c4e9a086a62c67995f6962eb566b2637",
+          "title": "Simple o3: Towards Interleaved Vision-Language Reasoning",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 15,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2253861926",
+              "name": "Ye Wang"
+            },
+            {
+              "authorId": "2362308383",
+              "name": "Qianglong Chen"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2376526526",
+              "name": "Shijie Guo"
+            },
+            {
+              "authorId": "2335720996",
+              "name": "Zhirui Zhang"
+            },
+            {
+              "authorId": "2290027793",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "5f293b51143db304435c5724c33a8e0fb064b75f",
+          "title": "Interleaved Latent Visual Reasoning with Selective Perceptual Modeling",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 6,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2397177196",
+              "name": "Shuai Dong"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2302320764",
+              "name": "Xingyu Liu"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "85051baa89b05c105257890639e2e8e7c9713cca",
+          "title": "Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2269594754",
+              "name": "Jingcong Liang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2349398602",
+              "name": "Mi Tian"
+            },
+            {
+              "authorId": "2351211185",
+              "name": "Yitong Li"
+            },
+            {
+              "authorId": "2344574234",
+              "name": "Duyu Tang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "8791d1792477af3c58604045b4212012a0fd7c97",
+          "title": "Stepwise Informativeness Search for Efficient and Effective LLM Reasoning",
+          "venue": "",
+          "year": 2025,
+          "citationCount": 2,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2346836679",
+              "name": "Enda Zhao"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2348191153",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "94d70b19f4e9fecb78cfc4307b23f46882b7ea39",
+          "title": "Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 5,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Law",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2345787072",
+              "name": "Zheng Jia"
+            },
+            {
+              "authorId": "2209395634",
+              "name": "Shengbin Yue"
+            },
+            {
+              "authorId": "2256716476",
+              "name": "Wei Chen"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2108021830",
+              "name": "Yidong Liu"
+            },
+            {
+              "authorId": "2331364757",
+              "name": "Yun Song"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "9a4a680a89db826ff2d99327a1cc621fe458f0d6",
+          "title": "Lookahead Tree-Based Rollouts for Enhanced Trajectory-Level Exploration in Reinforcement Learning with Verifiable Rewards",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 2,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2185074115",
+              "name": "Shangyu Xing"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2361542996",
+              "name": "Chenyuan Yang"
+            },
+            {
+              "authorId": "2374357423",
+              "name": "Xinyu Dai"
+            },
+            {
+              "authorId": "2348191153",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "a6c53f02b328b106435b293cb2c7595ea95629ab",
+          "title": "How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2284692290",
+              "name": "Zhuohan Long"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2243135769",
+              "name": "Shujun Liu"
+            },
+            {
+              "authorId": "2191638875",
+              "name": "Yuhang Lai"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "c588869f3d42c1af3b33ad2e96e84878feebc22a",
+          "title": "OViP: Online Vision-Language Preference Learning",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2243135769",
+              "name": "Shujun Liu"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2337584074",
+              "name": "Jianxiang Wang"
+            },
+            {
+              "authorId": "2269464619",
+              "name": "Cheng Zeng"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "d98d24d94d96c043bcccf3aad885be89d573ab40",
+          "title": "Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 5,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2336523218",
+              "name": "Dianyi Wang"
+            },
+            {
+              "authorId": "2305695633",
+              "name": "Wei Song"
+            },
+            {
+              "authorId": "2355325652",
+              "name": "Yikun Wang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2306948071",
+              "name": "Kaicheng yu"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2350699973",
+              "name": "Jiaqi Wang"
+            }
+          ]
+        },
+        {
+          "paperId": "deb55c9b967789bc6208ec682696932f844141df",
+          "title": "Bi-directional Semantic Alignment for Large Vision Language Model Training via Echo-Former",
+          "venue": "Natural Language Processing and Chinese Computing",
+          "year": 2025,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2253861926",
+              "name": "Ye Wang"
+            },
+            {
+              "authorId": "2255234104",
+              "name": "Qingwen Liu"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2376526526",
+              "name": "Shijie Guo"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "4146b447187e1a09b736564854007c403f986c69",
+          "title": "ALaRM: Align Language Models via Hierarchical Rewards Modeling",
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "year": 2024,
+          "citationCount": 9,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2191638875",
+              "name": "Yuhang Lai"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2243135769",
+              "name": "Shujun Liu"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "44fae41b4a922df98e201f60988f75cfa39edadd",
+          "title": "Graph Interpretation of Image-Text Matching: Link Prediction on Concept-Enhanced Cross-Modal Graph",
+          "venue": "Natural Language Processing and Chinese Computing",
+          "year": 2024,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2290027793",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2112907130",
+              "name": "Haijun Shan"
+            }
+          ]
+        },
+        {
+          "paperId": "49ed697a1e5cc5be831e33f2efb7dc61c77d28e7",
+          "title": "Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs",
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "year": 2024,
+          "citationCount": 40,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2266363632",
+              "name": "Yejin Choi"
+            },
+            {
+              "authorId": "2228515529",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "581d831fcea84501bec33161c716d5bf94a8a345",
+          "title": "HAF-RM: A Hybrid Alignment Framework for Reward Model Training",
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "year": 2024,
+          "citationCount": 4,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2243135769",
+              "name": "Shujun Liu"
+            },
+            {
+              "authorId": "2310861322",
+              "name": "Xiaoyu Shen"
+            },
+            {
+              "authorId": "2191638875",
+              "name": "Yuhang Lai"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2209395634",
+              "name": "Shengbin Yue"
+            },
+            {
+              "authorId": "2367086461",
+              "name": "Zengfeng Huang"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "73230e97e2d1f4bb387c407697cc114280f29a33",
+          "title": "Multi-Objective Forward Reasoning and Multi-Reward Backward Refinement for Product Review Summarization",
+          "venue": "International Conference on Language Resources and Evaluation",
+          "year": 2024,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Business",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2301759530",
+              "name": "Libo Sun"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2223174680",
+              "name": "Meng Han"
+            },
+            {
+              "authorId": "2128243415",
+              "name": "Ruofei Lai"
+            },
+            {
+              "authorId": "2268798179",
+              "name": "Xinyu Zhang"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2266438567",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "85c7f069be8ee148c05abdba927407d42f703163",
+          "title": "LawLLM: Intelligent Legal System with Legal Reasoning and Verifiable Retrieval",
+          "venue": "International Conference on Database Systems for Advanced Applications",
+          "year": 2024,
+          "citationCount": 25,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Law",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2209395634",
+              "name": "Shengbin Yue"
+            },
+            {
+              "authorId": "2243135769",
+              "name": "Shujun Liu"
+            },
+            {
+              "authorId": "2314888997",
+              "name": "Yuxuan Zhou"
+            },
+            {
+              "authorId": "2244117903",
+              "name": "Chenchen Shen"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2243364423",
+              "name": "Yao Xiao"
+            },
+            {
+              "authorId": "2244122886",
+              "name": "Bingxuan Li"
+            },
+            {
+              "authorId": "2331364757",
+              "name": "Yun Song"
+            },
+            {
+              "authorId": "2310861322",
+              "name": "Xiaoyu Shen"
+            },
+            {
+              "authorId": "2256716476",
+              "name": "Wei Chen"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "900a7b999cf495970f4cb4c577f45b9466299d05",
+          "title": "Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference",
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "year": 2024,
+          "citationCount": 3,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2336523218",
+              "name": "Dianyi Wang"
+            },
+            {
+              "authorId": "2253569196",
+              "name": "Chengxing Zhou"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2290027793",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "9b82ff1a5fa0a9dac1d1a23e780fcd7b2cbe943e",
+          "title": "Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks",
+          "venue": "AAAI Conference on Artificial Intelligence",
+          "year": 2024,
+          "citationCount": 22,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2209395634",
+              "name": "Shengbin Yue"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2256716476",
+              "name": "Wei Chen"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "aab95a2479ae7a9dd168ef32314cd654ba8f590c",
+          "title": "From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking",
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "year": 2024,
+          "citationCount": 23,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Linguistics",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2284692290",
+              "name": "Zhuohan Long"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "b93ac10de176c4a7aaa2cc652b90bb25636532cd",
+          "title": "Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation",
+          "venue": "International Conference on Computational Linguistics",
+          "year": 2024,
+          "citationCount": 73,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2284692290",
+              "name": "Zhuohan Long"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "bd15acc371153925bf86924cb2d13114ca6c95f8",
+          "title": "AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis",
+          "venue": "arXiv.org",
+          "year": 2024,
+          "citationCount": 30,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Medicine",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2299550823",
+              "name": "Jialong Tang"
+            },
+            {
+              "authorId": "2256716476",
+              "name": "Wei Chen"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2284220412",
+              "name": "Jun Xi"
+            },
+            {
+              "authorId": "2298712539",
+              "name": "Fei Huang"
+            },
+            {
+              "authorId": "2284490340",
+              "name": "Jingren Zhou"
+            }
+          ]
+        },
+        {
+          "paperId": "dc651710957209c99399d4d3ef1f0579dfcba11c",
+          "title": "AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator",
+          "venue": "International Conference on Computational Linguistics",
+          "year": 2024,
+          "citationCount": 87,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Medicine",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2299550823",
+              "name": "Jialong Tang"
+            },
+            {
+              "authorId": "2256716476",
+              "name": "Wei Chen"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2284220412",
+              "name": "Jun Xi"
+            },
+            {
+              "authorId": "2298712539",
+              "name": "Fei Huang"
+            },
+            {
+              "authorId": "2284490340",
+              "name": "Jingren Zhou"
+            }
+          ]
+        },
+        {
+          "paperId": "e0b3b35d92aa0a1e03687446767203e5af6d94d4",
+          "title": "Symbolic Working Memory Enhances Language Models for Complex Rule Application",
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "year": 2024,
+          "citationCount": 18,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2306706718",
+              "name": "Yejin Choi"
+            },
+            {
+              "authorId": "2228515529",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "f376491fa8da1212ef3563f9bc8575b476757ab5",
+          "title": "Identity-Driven Hierarchical Role-Playing Agents",
+          "venue": "arXiv.org",
+          "year": 2024,
+          "citationCount": 15,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2301759530",
+              "name": "Libo Sun"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2307981771",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "28685ab4bb673cd7aac4f5711b0882d08d2fa7c7",
+          "title": "In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search",
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "year": 2023,
+          "citationCount": 11,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2144403358",
+              "name": "Huihan Li"
+            },
+            {
+              "authorId": "2266397759",
+              "name": "Yuting Ning"
+            },
+            {
+              "authorId": "1435033296",
+              "name": "Zeyi Liao"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2266532556",
+              "name": "Xiang Lorraine Li"
+            },
+            {
+              "authorId": "50085131",
+              "name": "Ximing Lu"
+            },
+            {
+              "authorId": "2266434757",
+              "name": "Wenting Zhao"
+            },
+            {
+              "authorId": "2223951216",
+              "name": "Faeze Brahman"
+            },
+            {
+              "authorId": "2266363632",
+              "name": "Yejin Choi"
+            },
+            {
+              "authorId": "2228515529",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "31282fc5a46f4410450bb4324d47aad0a37d4a36",
+          "title": "In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search",
+          "venue": "arXiv.org",
+          "year": 2023,
+          "citationCount": 5,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Mathematics",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2144403358",
+              "name": "Huihan Li"
+            },
+            {
+              "authorId": "2266397759",
+              "name": "Yuting Ning"
+            },
+            {
+              "authorId": "1435033296",
+              "name": "Zeyi Liao"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2266532556",
+              "name": "Xiang Lorraine Li"
+            },
+            {
+              "authorId": "50085131",
+              "name": "Ximing Lu"
+            },
+            {
+              "authorId": "2223951216",
+              "name": "Faeze Brahman"
+            },
+            {
+              "authorId": "2266434757",
+              "name": "Wenting Zhao"
+            },
+            {
+              "authorId": "2266363632",
+              "name": "Yejin Choi"
+            },
+            {
+              "authorId": "2228515529",
+              "name": "Xiang Ren"
+            }
+          ]
+        },
+        {
+          "paperId": "6806ecad90a778aaa7f6a3cd3a539582d823066c",
+          "title": "DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services",
+          "venue": "arXiv.org",
+          "year": 2023,
+          "citationCount": 144,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Law",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2209395634",
+              "name": "Shengbin Yue"
+            },
+            {
+              "authorId": "2256716476",
+              "name": "Wei Chen"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2244122886",
+              "name": "Bingxuan Li"
+            },
+            {
+              "authorId": "2244117903",
+              "name": "Chenchen Shen"
+            },
+            {
+              "authorId": "2243135769",
+              "name": "Shujun Liu"
+            },
+            {
+              "authorId": "2314888997",
+              "name": "Yuxuan Zhou"
+            },
+            {
+              "authorId": "2243364423",
+              "name": "Yao Xiao"
+            },
+            {
+              "authorId": "2072548465",
+              "name": "Song Yun"
+            },
+            {
+              "authorId": "2243894924",
+              "name": "Wei Lin"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2712533",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "814f0b1658c49c79bc32f3d2b89045de007871c6",
+          "title": "DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning",
+          "venue": "arXiv.org",
+          "year": 2023,
+          "citationCount": 74,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Business",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2256716476",
+              "name": "Wei Chen"
+            },
+            {
+              "authorId": "2261394047",
+              "name": "Qiushi Wang"
+            },
+            {
+              "authorId": "2261388076",
+              "name": "Zefei Long"
+            },
+            {
+              "authorId": "2261393689",
+              "name": "Xianyin Zhang"
+            },
+            {
+              "authorId": "2261475779",
+              "name": "Zhongtian Lu"
+            },
+            {
+              "authorId": "2244122886",
+              "name": "Bingxuan Li"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2260830982",
+              "name": "Jiarong Xu"
+            },
+            {
+              "authorId": "2261455485",
+              "name": "Xiang Bai"
+            },
+            {
+              "authorId": "2253852592",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "9794ea32de8b1ce654feae09ef433b78d2d09ece",
+          "title": "Query Structure Modeling for Inductive Logical Reasoning Over Knowledge Graphs",
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "year": 2023,
+          "citationCount": 10,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2219054426",
+              "name": "Meng Han"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2112907130",
+              "name": "Haijun Shan"
+            },
+            {
+              "authorId": "1409702669",
+              "name": "Qi Zhang"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "a43425af7413e62c816a8fc007ab443465761829",
+          "title": "Unifying Structure Reasoning and Language Pre-Training for Complex Reasoning Tasks",
+          "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+          "year": 2023,
+          "citationCount": 9,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "49394731",
+              "name": "Jiarong Xu"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            }
+          ]
+        },
+        {
+          "paperId": "c25887ad78a4d9b3f7f4a1544121e1c2e1b58d85",
+          "title": "Unifying Structure Reasoning and Language Model Pre-training for Complex Reasoning",
+          "venue": "arXiv.org",
+          "year": 2023,
+          "citationCount": 8,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2260830982",
+              "name": "Jiarong Xu"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            }
+          ]
+        },
+        {
+          "paperId": "f855f58e54238e5c220b4d127b569f39dbe29f54",
+          "title": "Visual Explanation for Open-Domain Question Answering With BERT",
+          "venue": "IEEE Transactions on Visualization and Computer Graphics",
+          "year": 2023,
+          "citationCount": 10,
+          "fieldsOfStudy": [
+            "Computer Science",
+            "Medicine"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Medicine",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Linguistics",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2210213483",
+              "name": "Zekai Shao"
+            },
+            {
+              "authorId": "2210196241",
+              "name": "Shuran Sun"
+            },
+            {
+              "authorId": "2156161874",
+              "name": "Yuheng Zhao"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2067331064",
+              "name": "Tao Gui"
+            },
+            {
+              "authorId": "2427554",
+              "name": "C. Turkay"
+            },
+            {
+              "authorId": "2111637923",
+              "name": "Siming Chen"
+            }
+          ]
+        },
+        {
+          "paperId": "2977ec3bea72c37d8835eb9ee7425cf03c5ce532",
+          "title": "A Structure-Aware Argument Encoder for Literature Discourse Analysis",
+          "venue": "International Conference on Computational Linguistics",
+          "year": 2022,
+          "citationCount": 4,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Linguistics",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2135338697",
+              "name": "Yinzi Li"
+            },
+            {
+              "authorId": "47482777",
+              "name": "W. Chen"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "1918814571",
+              "name": "Yujun Huang"
+            },
+            {
+              "authorId": "72462482",
+              "name": "Chujun Wang"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "49346854",
+              "name": "Qi Zhang"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2218511841",
+              "name": "Libo Wu"
+            }
+          ]
+        },
+        {
+          "paperId": "82c6f5ffd4d2d43ae7684601f607eae26a759a5a",
+          "title": "Analytical Reasoning of Text",
+          "venue": "NAACL-HLT",
+          "year": 2022,
+          "citationCount": 23,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Law",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "81970097",
+              "name": "Wanjun Zhong"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "39483833",
+              "name": "Duyu Tang"
+            },
+            {
+              "authorId": "2109069689",
+              "name": "Zenan Xu"
+            },
+            {
+              "authorId": "2278834796",
+              "name": "Daya Guo"
+            },
+            {
+              "authorId": "2274810643",
+              "name": "Yining Chen"
+            },
+            {
+              "authorId": "2110182717",
+              "name": "Jiahai Wang"
+            },
+            {
+              "authorId": "2152938031",
+              "name": "Jian Yin"
+            },
+            {
+              "authorId": "2214040634",
+              "name": "Ming Zhou"
+            },
+            {
+              "authorId": "46429989",
+              "name": "Nan Duan"
+            }
+          ]
+        },
+        {
+          "paperId": "bdf139c76a57c67c513b8b40ef7a4df3418851ee",
+          "title": "A Unified Continuous Learning Framework for Multi-modal Knowledge Discovery and Pre-training",
+          "venue": "arXiv.org",
+          "year": 2022,
+          "citationCount": 6,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2144168234",
+              "name": "Jingjing Chen"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "49394731",
+              "name": "Jiarong Xu"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "e98dd1b60a1afbe33b806369dd793d0948eb76ef",
+          "title": "Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering",
+          "venue": "International Conference on Computational Linguistics",
+          "year": 2022,
+          "citationCount": 9,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "1409702669",
+              "name": "Qi Zhang"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "1220e23ae956707183cbbede00ceed098aa89d50",
+          "title": "Fine-Grained Element Identification in Complaint Text of Internet Fraud",
+          "venue": "International Conference on Information and Knowledge Management",
+          "year": 2021,
+          "citationCount": 2,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2111148459",
+              "name": "Tong Liu"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "3180894",
+              "name": "Jingchao Fu"
+            },
+            {
+              "authorId": "2146073369",
+              "name": "Lei Chen"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2125067092",
+              "name": "Yaqi Liu"
+            },
+            {
+              "authorId": "2340568074",
+              "name": "Heng Ye"
+            },
+            {
+              "authorId": "2109336963",
+              "name": "Liaosa Xu"
+            },
+            {
+              "authorId": "2124848019",
+              "name": "Weiqiang Wan"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "38357d5f27519cb7717d6b8aa8b275e35a276639",
+          "title": "Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval",
+          "venue": "International Conference on Multimedia Retrieval",
+          "year": 2021,
+          "citationCount": 12,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2112907130",
+              "name": "Haijun Shan"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "2151839604",
+              "name": "Jianqing Fan"
+            }
+          ]
+        },
+        {
+          "paperId": "53e0fa3ebe8cfca84989b579d8f73e8d22addc97",
+          "title": "Negative Sample is Negative in Its Own Way: Tailoring Negative Sentences for Image-Text Retrieval",
+          "venue": "NAACL-HLT",
+          "year": 2021,
+          "citationCount": 7,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2151839604",
+              "name": "Jianqing Fan"
+            }
+          ]
+        },
+        {
+          "paperId": "57689aa1290370702c618713fd8d9202f2d697fe",
+          "title": "TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning",
+          "venue": "International Joint Conference on Artificial Intelligence",
+          "year": 2021,
+          "citationCount": 28,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "29068663",
+              "name": "Ruize Wang"
+            },
+            {
+              "authorId": "2109967493",
+              "name": "Zejun Li"
+            },
+            {
+              "authorId": "2112907130",
+              "name": "Haijun Shan"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "658c952437d039c93a0dba36bf0e3ba032b61be5",
+          "title": "Reasoning Chain Based Adversarial Attack for Multi-hop Question Answering",
+          "venue": "arXiv.org",
+          "year": 2021,
+          "citationCount": 4,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "50813549",
+              "name": "Jiayu Ding"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "1585496097",
+              "name": "Qin Chen"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            }
+          ]
+        },
+        {
+          "paperId": "712bf9c7202b8dec3d06491a380bbac9c9600fbc",
+          "title": "Mask Attention Networks: Rethinking and Strengthen Transformer",
+          "venue": "North American Chapter of the Association for Computational Linguistics",
+          "year": 2021,
+          "citationCount": 81,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2171182",
+              "name": "Yeyun Gong"
+            },
+            {
+              "authorId": "7415571",
+              "name": "Dayiheng Liu"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "49097406",
+              "name": "Jian Jiao"
+            },
+            {
+              "authorId": "46429989",
+              "name": "Nan Duan"
+            },
+            {
+              "authorId": "2124601065",
+              "name": "Ruofei Zhang"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "a26d810b78fa39b23253ee072aeedac88c4c87c4",
+          "title": "Operation Diagnosis on Procedure Graph: The Task and Dataset",
+          "venue": "International Conference on Information and Knowledge Management",
+          "year": 2021,
+          "citationCount": 4,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2136663149",
+              "name": "Ruipu Luo"
+            },
+            {
+              "authorId": "2152207885",
+              "name": "Qi Zhu"
+            },
+            {
+              "authorId": "1585496097",
+              "name": "Qin Chen"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2152822047",
+              "name": "Weijian Sun"
+            },
+            {
+              "authorId": "2217863244",
+              "name": "Shuang Tang"
+            }
+          ]
+        },
+        {
+          "paperId": "c5943bc4b22a63f595cb1c2823a449e03aad4787",
+          "title": "AR-LSAT: Investigating Analytical Reasoning of Text",
+          "venue": "arXiv.org",
+          "year": 2021,
+          "citationCount": 55,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Law",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Linguistics",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "81970097",
+              "name": "Wanjun Zhong"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "39483833",
+              "name": "Duyu Tang"
+            },
+            {
+              "authorId": "2109069689",
+              "name": "Zenan Xu"
+            },
+            {
+              "authorId": "2278834796",
+              "name": "Daya Guo"
+            },
+            {
+              "authorId": "2815388",
+              "name": "Jiahai Wang"
+            },
+            {
+              "authorId": "144926874",
+              "name": "Jian Yin"
+            },
+            {
+              "authorId": "92660691",
+              "name": "Ming Zhou"
+            },
+            {
+              "authorId": "46429989",
+              "name": "Nan Duan"
+            }
+          ]
+        },
+        {
+          "paperId": "e881d5409dc4da043f0e26e04e846cad1e95b007",
+          "title": "Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text",
+          "venue": "Findings",
+          "year": 2021,
+          "citationCount": 85,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "81970097",
+              "name": "Wanjun Zhong"
+            },
+            {
+              "authorId": "39483833",
+              "name": "Duyu Tang"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "71790825",
+              "name": "Daxin Jiang"
+            },
+            {
+              "authorId": "92660691",
+              "name": "Ming Zhou"
+            },
+            {
+              "authorId": "46429989",
+              "name": "Nan Duan"
+            }
+          ]
+        },
+        {
+          "paperId": "f977d79980ed2dfc7b2194fe680895e49b3b60a9",
+          "title": "From LSAT: The Progress and Challenges of Complex Reasoning",
+          "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+          "year": 2021,
+          "citationCount": 58,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Law",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2145285599",
+              "name": "Zhongkun Liu"
+            },
+            {
+              "authorId": "81970097",
+              "name": "Wanjun Zhong"
+            },
+            {
+              "authorId": "92660691",
+              "name": "Ming Zhou"
+            },
+            {
+              "authorId": "2118602528",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "1721165",
+              "name": "Zhumin Chen"
+            },
+            {
+              "authorId": "46429989",
+              "name": "Nan Duan"
+            }
+          ]
+        },
+        {
+          "paperId": "023b508aca0e776f6face93548fedb8921cf35ab",
+          "title": "An Enhanced Knowledge Injection Model for Commonsense Generation",
+          "venue": "International Conference on Computational Linguistics",
+          "year": 2020,
+          "citationCount": 31,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2171182",
+              "name": "Yeyun Gong"
+            },
+            {
+              "authorId": "2712533",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2329867297",
+              "name": "Yameng Huang"
+            },
+            {
+              "authorId": "49097406",
+              "name": "Jian Jiao"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            },
+            {
+              "authorId": "46429989",
+              "name": "Nan Duan"
+            },
+            {
+              "authorId": "2124601065",
+              "name": "Ruofei Zhang"
+            }
+          ]
+        },
+        {
+          "paperId": "9521ca90922348d5e5f110b8968c4ed66542872e",
+          "title": "PathQG: Neural Question Generation from Facts",
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "year": 2020,
+          "citationCount": 22,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2712533",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "3251920",
+              "name": "Zengfeng Huang"
+            },
+            {
+              "authorId": "2152822047",
+              "name": "Weijian Sun"
+            },
+            {
+              "authorId": "1409702669",
+              "name": "Qi Zhang"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "aaf5e3afd61d0df6c483ca32faf8e7a9198b1557",
+          "title": "Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning",
+          "venue": "Annual Meeting of the Association for Computational Linguistics",
+          "year": 2019,
+          "citationCount": 27,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2712533",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "cf782edba2177957e95637f38ea6aff32c5e8814",
+          "title": "A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation",
+          "venue": "AAAI Conference on Artificial Intelligence",
+          "year": 2019,
+          "citationCount": 43,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2712533",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2152797181",
+              "name": "Yang Liu"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        },
+        {
+          "paperId": "8b2d224c8b69191c02dce750257c39d46b1c4a7b",
+          "title": "A Reinforcement Learning Framework for Natural Question Generation using Bi-discriminators",
+          "venue": "International Conference on Computational Linguistics",
+          "year": 2018,
+          "citationCount": 50,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "9610143",
+              "name": "Zhihao Fan"
+            },
+            {
+              "authorId": "2712533",
+              "name": "Zhongyu Wei"
+            },
+            {
+              "authorId": "2116420560",
+              "name": "Siyuan Wang"
+            },
+            {
+              "authorId": "2152797181",
+              "name": "Yang Liu"
+            },
+            {
+              "authorId": "1790227",
+              "name": "Xuanjing Huang"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Wei Yang": {
+    "semantic_scholar_url": "https://www.semanticscholar.org/author/Wei-Yang/2316881202",
+    "fetched_date": "2026-03-17T17:29:13",
+    "details": {
+      "authorId": "2316881202",
+      "name": "Wei Yang",
+      "affiliations": [],
+      "paperCount": 9,
+      "papers": [
+        {
+          "paperId": "0c9fd12807c09c01d526b37768944905ade1315f",
+          "title": "De-conflating Preference and Qualification: Constrained Dual-Perspective Reasoning for Job Recommendation with Large Language Models",
+          "venue": "arXiv.org",
+          "year": 2026,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2408532244",
+              "name": "Bryce Kan"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "2279427927",
+              "name": "Emily Nguyen"
+            },
+            {
+              "authorId": "2408532553",
+              "name": "Ganghui Yi"
+            },
+            {
+              "authorId": "2403671005",
+              "name": "Bowen Yi"
+            },
+            {
+              "authorId": "2329422735",
+              "name": "Chenxiao Yu"
+            },
+            {
+              "authorId": "2157171943",
+              "name": "Yan Liu"
+            }
+          ]
+        },
+        {
+          "paperId": "435f6baa40940a13a080fe0d8ccaacda075c0bef",
+          "title": "TemporalBench: A Benchmark for Evaluating LLM-Based Agents on Contextual and Event-Informed Time Series Tasks",
+          "venue": "",
+          "year": 2026,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2316484662",
+              "name": "Muyan Weng"
+            },
+            {
+              "authorId": "120783624",
+              "name": "Defu Cao"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "2269148436",
+              "name": "Yash Sharma"
+            },
+            {
+              "authorId": "2408442219",
+              "name": "Yan Liu"
+            }
+          ]
+        },
+        {
+          "paperId": "c9219362d8e179bcea5f05697f0b020e13669a35",
+          "title": "Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling",
+          "venue": "",
+          "year": 2026,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Business",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Economics",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2318356874",
+              "name": "Dingding Cao"
+            },
+            {
+              "authorId": "2424025425",
+              "name": "Bianbian Jiao"
+            },
+            {
+              "authorId": "2258721324",
+              "name": "Jingzong Yang"
+            },
+            {
+              "authorId": "2408490164",
+              "name": "Yujin Zhong"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            }
+          ]
+        },
+        {
+          "paperId": "127ab36cee7c8c1b5e7ec4a8cd40963402803825",
+          "title": "A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 11,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2363734038",
+              "name": "Ching Chang"
+            },
+            {
+              "authorId": "2367043009",
+              "name": "Yidan Shi"
+            },
+            {
+              "authorId": "120783624",
+              "name": "Defu Cao"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "2253658207",
+              "name": "Jeehyun Hwang"
+            },
+            {
+              "authorId": "2366570325",
+              "name": "Haixin Wang"
+            },
+            {
+              "authorId": "2380524057",
+              "name": "Jiacheng Pang"
+            },
+            {
+              "authorId": "2275569786",
+              "name": "Wei Wang"
+            },
+            {
+              "authorId": "2260272787",
+              "name": "Yan Liu"
+            },
+            {
+              "authorId": "2354284914",
+              "name": "Wen-Chih Peng"
+            },
+            {
+              "authorId": "2196499971",
+              "name": "Tien-Fu Chen"
+            }
+          ]
+        },
+        {
+          "paperId": "14f0888f7aad2b108d99ff3b86bed899e0111c1d",
+          "title": "Foundation Models for Demand Forecasting via Dual-Strategy Ensembling",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 3,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Business",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "120783624",
+              "name": "Defu Cao"
+            },
+            {
+              "authorId": "2260272787",
+              "name": "Yan Liu"
+            }
+          ]
+        },
+        {
+          "paperId": "81a08007524f93cb8785b2a70110cc14968e4319",
+          "title": "SENP1 promotes p27kip1 nuclear export though enhanced SUMOylation in cholangiocarcinoma leading to increased cell proliferation and chemoresistance",
+          "venue": "International Journal of Molecular Medicine",
+          "year": 2025,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Medicine"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Medicine",
+              "source": "external"
+            },
+            {
+              "category": "Medicine",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Biology",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2113855040",
+              "name": "Kainian Jiang"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "2371090788",
+              "name": "Jie Huang"
+            },
+            {
+              "authorId": "3352438",
+              "name": "Xiao-long Tan"
+            },
+            {
+              "authorId": "2157171797",
+              "name": "Yan Liu"
+            },
+            {
+              "authorId": "2372277237",
+              "name": "Saiya Tu"
+            },
+            {
+              "authorId": "46788954",
+              "name": "Jian Luo"
+            }
+          ]
+        },
+        {
+          "paperId": "b65628e5eb8283b3dd86b6c2b83bdf46f31c2d8a",
+          "title": "When LLM Meets Time Series: Can LLMs Perform Multi-Step Time Series Reasoning and Inference",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 5,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2256992266",
+              "name": "Wen Ye"
+            },
+            {
+              "authorId": "2378609450",
+              "name": "Jinbo Liu"
+            },
+            {
+              "authorId": "120783624",
+              "name": "Defu Cao"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "2260272787",
+              "name": "Yan Liu"
+            }
+          ]
+        },
+        {
+          "paperId": "4ac5e71b614aa0a7c4eb59f2373df836aaf44e47",
+          "title": "Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution",
+          "venue": "arXiv.org",
+          "year": 2024,
+          "citationCount": 10,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Mathematics",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2256992266",
+              "name": "Wen Ye"
+            },
+            {
+              "authorId": "2145055264",
+              "name": "Yizhou Zhang"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "2253747495",
+              "name": "Lumingyuan Tang"
+            },
+            {
+              "authorId": "120783624",
+              "name": "Defu Cao"
+            },
+            {
+              "authorId": "2324863284",
+              "name": "Jie Cai"
+            },
+            {
+              "authorId": "2260272787",
+              "name": "Yan Liu"
+            }
+          ]
+        },
+        {
+          "paperId": "b74b610f1216fd37d8a416c5a99f0ea49a88cd81",
+          "title": "Sea surface carbon dioxide during early summer at the Tuandao nearshore time series site.",
+          "venue": "Marine Environmental Research",
+          "year": 2024,
+          "citationCount": 3,
+          "fieldsOfStudy": [
+            "Medicine"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Medicine",
+              "source": "external"
+            },
+            {
+              "category": "Environmental Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148819557",
+              "name": "Lu Cao"
+            },
+            {
+              "authorId": "2317042310",
+              "name": "Yongqi Qiu"
+            },
+            {
+              "authorId": "2255410996",
+              "name": "Liang Xue"
+            },
+            {
+              "authorId": "2108175471",
+              "name": "Yingying Zhang"
+            },
+            {
+              "authorId": "2316887797",
+              "name": "Shuwei Zhang"
+            },
+            {
+              "authorId": "2264713517",
+              "name": "Ning Wu"
+            },
+            {
+              "authorId": "2068903523",
+              "name": "Da Yuan"
+            },
+            {
+              "authorId": "2327685710",
+              "name": "Quanlong Li"
+            },
+            {
+              "authorId": "2310977420",
+              "name": "Zheng Zhao"
+            },
+            {
+              "authorId": "2317036236",
+              "name": "Ning Wang"
+            },
+            {
+              "authorId": "2393929886",
+              "name": "Yan Zhou"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "2357855761",
+              "name": "Chunqian Li"
+            },
+            {
+              "authorId": "2316898468",
+              "name": "Yan Liu"
+            }
+          ]
+        },
+        {
+          "paperId": "c94d6b2b2e4ed33662e542761bb5880c0938e390",
+          "title": "Domain-Oriented Time Series Inference Agents for Reasoning and Automated Analysis",
+          "venue": "",
+          "year": 2024,
+          "citationCount": 11,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2256992266",
+              "name": "Wen Ye"
+            },
+            {
+              "authorId": "2145055264",
+              "name": "Yizhou Zhang"
+            },
+            {
+              "authorId": "2316881202",
+              "name": "Wei Yang"
+            },
+            {
+              "authorId": "2253747495",
+              "name": "Lumingyuan Tang"
+            },
+            {
+              "authorId": "120783624",
+              "name": "Defu Cao"
+            },
+            {
+              "authorId": "2324863284",
+              "name": "Jie Cai"
+            },
+            {
+              "authorId": "2260272787",
+              "name": "Yan Liu"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Yuliang Cai": {
+    "semantic_scholar_url": "https://www.semanticscholar.org/author/Yuliang-Cai/2149196448",
+    "fetched_date": "2026-03-17T17:29:16",
+    "details": {
+      "authorId": "2149196448",
+      "name": "Yuliang Cai",
+      "affiliations": [],
+      "paperCount": 8,
+      "papers": [
+        {
+          "paperId": "6237b0a02f064fa0460091fc278ff0e04ed19b70",
+          "title": "Dynamic transformer architecture for continual learning of multimodal tasks",
+          "venue": "Neurocomputing",
+          "year": 2026,
+          "citationCount": 0,
+          "fieldsOfStudy": null,
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Engineering",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2149196448",
+              "name": "Yuliang Cai"
+            },
+            {
+              "authorId": "2281745830",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "c6e54915234a2712a6531791d258270529e30c5b",
+          "title": "Efficient Visual Question Answering Pipeline for Autonomous Driving via Scene Region Compression",
+          "venue": "arXiv.org",
+          "year": 2026,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Engineering",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2149196448",
+              "name": "Yuliang Cai"
+            },
+            {
+              "authorId": "51150243",
+              "name": "Dongqiangzi Ye"
+            },
+            {
+              "authorId": "13556061",
+              "name": "Z. Chen"
+            },
+            {
+              "authorId": "22539483",
+              "name": "Chongruo Wu"
+            }
+          ]
+        },
+        {
+          "paperId": "36244d397ede077ec7e1dd1d6cb33e41259e09da",
+          "title": "TNG-CLIP:Training-Time Negation Data Generation for Negation Awareness of CLIP",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 3,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2149196448",
+              "name": "Yuliang Cai"
+            },
+            {
+              "authorId": "2361247396",
+              "name": "Jesse Thomason"
+            },
+            {
+              "authorId": "2281745830",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "6898f46b3eebca4cc2617adec50d849797fc7edf",
+          "title": "Enhancing Bandwidth Efficiency for Video Motion Transfer Applications using Deep Learning Based Keypoint Prediction",
+          "venue": "International Conference on Engineering Applications of Neural Networks",
+          "year": 2024,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Medicine",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Engineering",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2292149434",
+              "name": "Xue Bai"
+            },
+            {
+              "authorId": "2292030794",
+              "name": "Tasmiah Haque"
+            },
+            {
+              "authorId": "88676851",
+              "name": "S. Mohan"
+            },
+            {
+              "authorId": "2149196448",
+              "name": "Yuliang Cai"
+            },
+            {
+              "authorId": "2292030216",
+              "name": "Byungheon Jeong"
+            },
+            {
+              "authorId": "2292029813",
+              "name": "\u00c1d\u00e1m M. Hal\u00e1sz"
+            },
+            {
+              "authorId": "2267012901",
+              "name": "Srinjoy Das"
+            }
+          ]
+        },
+        {
+          "paperId": "76fe260f5a675691e2ce1662dec8f266e863ef72",
+          "title": "CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering",
+          "venue": "Journal of Artificial Intelligence Research",
+          "year": 2024,
+          "citationCount": 5,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2149196448",
+              "name": "Yuliang Cai"
+            },
+            {
+              "authorId": "2281745830",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "a48a0ca11de7819233a2fa24d76618c57befd3c5",
+          "title": "Dynamic Transformer Architecture for Continual Learning of Multimodal Tasks",
+          "venue": "arXiv.org",
+          "year": 2024,
+          "citationCount": 7,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2149196448",
+              "name": "Yuliang Cai"
+            },
+            {
+              "authorId": "2281745830",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "24f2bd9c60fcfa142e645e04ab4abcce2b9a1557",
+          "title": "Task-Attentive Transformer Architecture for Continual Learning of Vision-and-Language Tasks Using Knowledge Distillation",
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "year": 2023,
+          "citationCount": 14,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2149196448",
+              "name": "Yuliang Cai"
+            },
+            {
+              "authorId": "2665873",
+              "name": "Jesse Thomason"
+            },
+            {
+              "authorId": "144023926",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "988bb565f291a9b74da193b6891cd668020f8e3d",
+          "title": "A Manifold Learning based Video Prediction approach for Deep Motion Transfer",
+          "venue": "2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+          "year": 2021,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Engineering",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2149196448",
+              "name": "Yuliang Cai"
+            },
+            {
+              "authorId": "88676851",
+              "name": "S. Mohan"
+            },
+            {
+              "authorId": "2008151984",
+              "name": "Adithya Niranjan"
+            },
+            {
+              "authorId": "2117768193",
+              "name": "Nilesh Jain"
+            },
+            {
+              "authorId": "2827359",
+              "name": "A. Cloninger"
+            },
+            {
+              "authorId": "1947400",
+              "name": "Srinjoy Das"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Zizhao Hu": {
+    "semantic_scholar_url": "https://www.semanticscholar.org/author/Zizhao-Hu/2148424224",
+    "fetched_date": "2026-03-17T17:29:19",
+    "details": {
+      "authorId": "2148424224",
+      "name": "Zizhao Hu",
+      "affiliations": [],
+      "paperCount": 11,
+      "papers": [
+        {
+          "paperId": "45dcadcf56b8e5b87b1538bce1d82cec60bb6067",
+          "title": "Multimodal Synthetic Data Finetuning and Model Collapse: Insights from VLMs and Diffusion Models",
+          "venue": "International Conference on Multimodal Interaction",
+          "year": 2025,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2309458232",
+              "name": "Mohammad Rostami"
+            },
+            {
+              "authorId": "2361247396",
+              "name": "Jesse Thomason"
+            }
+          ]
+        },
+        {
+          "paperId": "5a26510f679bcf8303c472571a33a635ca97b4f5",
+          "title": "Multi-modal Synthetic Data Training and Model Collapse: Insights from VLMs and Diffusion Models",
+          "venue": "arXiv.org",
+          "year": 2025,
+          "citationCount": 2,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2256992795",
+              "name": "Mohammad Rostami"
+            },
+            {
+              "authorId": "2361247396",
+              "name": "Jesse Thomason"
+            }
+          ]
+        },
+        {
+          "paperId": "0e2c9745d29a6d689c132ffd624e5ead183b436d",
+          "title": "An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models",
+          "venue": "arXiv.org",
+          "year": 2024,
+          "citationCount": 2,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2268492825",
+              "name": "Shaochong Jia"
+            },
+            {
+              "authorId": "2256992795",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "b6e73f53e9bcb255986682645a228e07d245adf0",
+          "title": "Lateralization MLP: A Simple Brain-inspired Architecture for Diffusion",
+          "venue": "arXiv.org",
+          "year": 2024,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2256992795",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "e911e1c165751a73f193e7cab88a23b8d1a984a4",
+          "title": "Static Key Attention in Vision",
+          "venue": "arXiv.org",
+          "year": 2024,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2293764965",
+              "name": "Xiaolin Zhou"
+            },
+            {
+              "authorId": "2256992795",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "1fa13420653fe2362b63e08df21f390cb2b28923",
+          "title": "Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net",
+          "venue": "arXiv.org",
+          "year": 2023,
+          "citationCount": 0,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2268492825",
+              "name": "Shaochong Jia"
+            },
+            {
+              "authorId": "2256992795",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "81b65424d8e822b9c96117fad67839638a33bde8",
+          "title": "Class-Incremental Learning Using Generative Experience Replay Based on Time-aware Regularization",
+          "venue": "arXiv.org",
+          "year": 2023,
+          "citationCount": 3,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2256992795",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "81bad2292558473f2e6d78f76ce55deea9c1e1d8",
+          "title": "Cognitively Inspired Cross-Modal Data Generation Using Diffusion Models",
+          "venue": "arXiv.org",
+          "year": 2023,
+          "citationCount": 1,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "144023926",
+              "name": "Mohammad Rostami"
+            }
+          ]
+        },
+        {
+          "paperId": "aef6678f9da757baf381f5c367a87c13339c04af",
+          "title": "GalilAI: Out-of-Task Distribution Detection using Causal Active Experimentation for Safe Transfer RL",
+          "venue": "International Conference on Artificial Intelligence and Statistics",
+          "year": 2021,
+          "citationCount": 3,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "34365421",
+              "name": "S. Sontakke"
+            },
+            {
+              "authorId": "2136047902",
+              "name": "Stephen Iota"
+            },
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2406046",
+              "name": "Arash Mehrjou"
+            },
+            {
+              "authorId": "7326223",
+              "name": "L. Itti"
+            },
+            {
+              "authorId": "1707625",
+              "name": "B. Scholkopf"
+            }
+          ]
+        },
+        {
+          "paperId": "cc7f6d709ed3341e62c8e2f4b76e6eeab3bcf8fb",
+          "title": "Rapid frequency modulation in a resonant system: aerial perturbation recovery in hawkmoths",
+          "venue": "Proceedings of the Royal Society B",
+          "year": 2021,
+          "citationCount": 26,
+          "fieldsOfStudy": [
+            "Medicine"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Medicine",
+              "source": "external"
+            },
+            {
+              "category": "Biology",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Environmental Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Engineering",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "1470750800",
+              "name": "J. Gau"
+            },
+            {
+              "authorId": "2038088931",
+              "name": "Ryan Gemilere"
+            },
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2105475823",
+              "name": "James Lynch"
+            },
+            {
+              "authorId": "48248256",
+              "name": "N. Gravish"
+            },
+            {
+              "authorId": "8635227",
+              "name": "S. Sponberg"
+            }
+          ]
+        },
+        {
+          "paperId": "fa3f508b37f9b5d20489010880285de1950f289f",
+          "title": "Evaluating NLP Systems On a Novel Cloze Task: Judging the Plausibility of Possible Fillers in Instructional Texts",
+          "venue": "arXiv.org",
+          "year": 2021,
+          "citationCount": 5,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2148424224",
+              "name": "Zizhao Hu"
+            },
+            {
+              "authorId": "2143165914",
+              "name": "Ravikiran Chanumolu"
+            },
+            {
+              "authorId": "79695293",
+              "name": "Xingyu Lin"
+            },
+            {
+              "authorId": "2143164139",
+              "name": "Nayela Ayaz"
+            },
+            {
+              "authorId": "2102097306",
+              "name": "V. Chi"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
