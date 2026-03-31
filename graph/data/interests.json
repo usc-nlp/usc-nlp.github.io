@@ -1,11 +1,11 @@
 {
-  "generated": "2026-03-17T17:29:22",
+  "generated": "2026-03-31T16:33:02",
   "researchAreas": [
     "large language models",
     "language models",
     "reasoning",
-    "knowledge",
     "multimodal",
+    "knowledge",
     "vision",
     "robot"
   ],
@@ -17,7 +17,7 @@
       "lab": "INK Lab",
       "url": "https://shanzhenren.github.io/",
       "image": "images/faculty/xiang.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "knowledge",
         "text",
@@ -107,7 +107,7 @@
       "lab": "Allegro Lab",
       "url": "https://robinjia.github.io/",
       "image": "images/faculty/robin.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "question answering",
         "adversarial",
@@ -189,7 +189,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://jessethomason.com/",
       "image": "images/faculty/jesse.jpg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "language",
         "robot",
@@ -278,7 +278,7 @@
       "lab": "DILL Lab",
       "url": "https://swabhs.com/",
       "image": "images/faculty/swabha.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "semantic",
         "language models",
@@ -366,7 +366,7 @@
       "lab": "LIME Lab",
       "url": "https://jyzhao.net/",
       "image": "images/faculty/jieyu.jpeg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "bias",
         "gender",
@@ -469,7 +469,7 @@
       "lab": "INK Lab",
       "url": "https://www.hironaarai.com/",
       "image": "images/students/hirona.jpeg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "planning",
         "plasma",
@@ -561,7 +561,7 @@
       "lab": "INK Lab",
       "url": "https://bremerman.me/",
       "image": "images/students/jacob.jpg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "translation",
         "evaluation",
@@ -662,7 +662,7 @@
       "lab": "INK Lab",
       "url": "https://mattf1n.github.io/",
       "image": "images/students/matt.jpeg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "language models",
         "neural",
@@ -749,7 +749,7 @@
       "lab": "INK Lab",
       "url": "https://skylerhallinan.com/",
       "image": "images/students/skyler.jpeg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "self",
         "text",
@@ -942,7 +942,7 @@
       "lab": "INK Lab",
       "url": "https://brihijoshi.github.io/",
       "image": "images/students/brihi.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "rationales",
         "text",
@@ -1042,7 +1042,7 @@
       "lab": "INK Lab",
       "url": "https://michaelduan8.github.io/",
       "image": "images/students/michael.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "privacy",
         "membership",
@@ -1151,7 +1151,7 @@
       "lab": "INK Lab",
       "url": "https://huihanlhh.github.io/",
       "image": "images/students/huihan.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "search",
         "long",
@@ -1251,7 +1251,7 @@
       "lab": "INK Lab",
       "url": "https://sahanaramnath.github.io/",
       "image": "images/students/sahana.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "tailoring",
         "multi",
@@ -1345,13 +1345,97 @@
       "fetchedDate": "2026-03-08T12:14:55"
     },
     {
+      "id": "sheryl-mathew",
+      "name": "Sheryl Mathew",
+      "role": "student",
+      "lab": "INK Lab",
+      "url": "https://sherylm77.github.io/",
+      "image": "images/students/sheryl.jpg",
+      "cluster": 1,
+      "topics": [
+        "human",
+        "multimodal",
+        "fusion",
+        "llms",
+        "engagement"
+      ],
+      "researchAreas": [
+        "multimodal"
+      ],
+      "paperCount": 4,
+      "topPapers": [
+        {
+          "title": "VinaBench: Benchmark for Faithful and Consistent Visual Narratives",
+          "year": 2025,
+          "venue": "Computer Vision and Pattern Recognition",
+          "authors": [
+            "Silin Gao",
+            "Sheryl Mathew",
+            "Li Mi",
+            "Sepideh Mamooler",
+            "Mengjie Zhao",
+            "Hiromi Wakaki",
+            "Yuki Mitsufuji",
+            "Syrielle Montariol",
+            "Antoine Bosselut"
+          ],
+          "citations": 2
+        },
+        {
+          "title": "Fairness-Aware Offline Reinforcement Learning with Human Feedback (Fair-RLHF): Mitigating Bias in Human Preferences",
+          "year": 2025,
+          "venue": "2025 IEEE 1st International Conference on Smart Innovations in Systems, Infrastructure, Mechanical, Power, AI and Computing Technologies (SISIMPACT)",
+          "authors": [
+            "Sheryl Mathew",
+            "N. Harshit"
+          ],
+          "citations": 0
+        },
+        {
+          "title": "Multimodal Fusion with LLMs for Engagement Prediction in Natural Conversation",
+          "year": 2024,
+          "venue": "ICMI Companion",
+          "authors": [
+            "Cheng Ma",
+            "Kevin Hyekang Joo",
+            "A. Vail",
+            "Sunreeta Bhattacharya",
+            "\u00c1lvaro Fern\u00e1ndez Garc\u00eda",
+            "Kailana Baker-Matsuoka",
+            "Sheryl Mathew",
+            "Lori L. Holt",
+            "Fernando de la Torre"
+          ],
+          "citations": 11
+        },
+        {
+          "title": "Difference-Masking: Choosing What to Mask in Continued Pretraining",
+          "year": 2023,
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "authors": [
+            "Alex Wilf",
+            "Syeda Nahida Akter",
+            "Leena Mathur",
+            "P. Liang",
+            "Sheryl Mathew",
+            "Mengrou Shou",
+            "Eric Nyberg",
+            "Louis-philippe Morency"
+          ],
+          "citations": 8
+        }
+      ],
+      "semanticScholarUrl": "https://www.semanticscholar.org/author/Sheryl-Mathew/2377555828",
+      "fetchedDate": "2026-03-31T16:32:59"
+    },
+    {
       "id": "siyuan-wang",
       "name": "Siyuan Wang",
       "role": "student",
       "lab": "INK Lab",
       "url": "https://siyuanwangw.github.io/",
       "image": "images/students/siyuan.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "reasoning",
         "multi",
@@ -1462,7 +1546,7 @@
       "lab": "Allegro Lab",
       "url": "https://terachang.github.io/",
       "image": "images/students/ting-yun.jpg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "llm",
         "commonsense",
@@ -1552,7 +1636,7 @@
       "lab": "Allegro Lab",
       "url": "https://sites.google.com/usc.edu/deqingfu",
       "image": "images/students/deqing.jpeg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "transformers",
         "learn",
@@ -1660,7 +1744,7 @@
       "lab": "Allegro Lab",
       "url": "https://ameyagodbole.github.io/",
       "image": "images/students/ameya.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "reasoning",
         "llm",
@@ -1755,7 +1839,7 @@
       "lab": "Allegro Lab",
       "url": "https://johntzwei.github.io/",
       "image": "images/students/johnny.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "llm",
         "metrics",
@@ -1841,7 +1925,7 @@
       "lab": "Allegro Lab",
       "url": "https://ayyyq.github.io/",
       "image": "images/students/yuqing.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "large language models",
         "honesty",
@@ -1932,7 +2016,7 @@
       "lab": "Allegro Lab",
       "url": "https://nanami18.github.io/",
       "image": "images/students/muru.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "language models",
         "hallucinations",
@@ -2022,7 +2106,7 @@
       "lab": "Allegro Lab",
       "url": "https://kevinzhoutianyi.github.io/",
       "image": "images/students/tianyi.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "fourier",
         "features",
@@ -2114,7 +2198,7 @@
       "lab": "Allegro Lab",
       "url": "https://billzhu.me/",
       "image": "images/students/bill.jpeg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "vision",
         "visual",
@@ -2227,7 +2311,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://abraranwar.github.io/",
       "image": "images/students/abrar.png",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "robot",
         "language",
@@ -2338,7 +2422,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://leekezar.github.io/",
       "image": "images/students/lee.jpeg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "sign",
         "language",
@@ -2418,7 +2502,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://aliang8.github.io/",
       "image": "images/students/anthony.jpeg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "hand",
         "clam",
@@ -2499,7 +2583,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://leticiapinto.github.io/",
       "image": "images/students/leticia.jpg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "benchmark",
         "climb",
@@ -2584,7 +2668,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://ishikasingh.github.io/",
       "image": "images/students/ishika.jpeg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "large language models",
         "planning",
@@ -2670,7 +2754,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://tejas1995.github.io/",
       "image": "images/students/tejas.jpg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "language",
         "vision",
@@ -2766,7 +2850,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://weiyang930.github.io/",
       "image": "images/students/wei.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "time",
         "series",
@@ -2862,7 +2946,7 @@
       "lab": "GLAMOR Lab",
       "url": "#",
       "image": "images/students/yuliang.jpg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "continual",
         "transformer",
@@ -2944,7 +3028,7 @@
       "lab": "GLAMOR Lab",
       "url": "https://zizhaohu.com/",
       "image": "images/students/zizhao.jpg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "diffusion",
         "multimodal",
@@ -3022,7 +3106,7 @@
       "lab": "DILL Lab",
       "url": "https://x-f-cui.github.io/website/",
       "image": "images/students/xinyue.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "robust",
         "watermarking",
@@ -3081,7 +3165,7 @@
       "lab": "DILL Lab",
       "url": "https://sghosh73.github.io/",
       "image": "images/students/sayan.jpeg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "compare",
         "despair",
@@ -3127,7 +3211,7 @@
       "lab": "DILL Lab",
       "url": "https://atharvajk98.github.io/",
       "image": "images/students/atharva.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "large language models",
         "evaluating",
@@ -3220,7 +3304,7 @@
       "lab": "DILL Lab",
       "url": "https://jr4fs.github.io/",
       "image": "images/students/jaspreet.png",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "assistants",
         "oath",
@@ -3310,7 +3394,7 @@
       "lab": "LIME Lab",
       "url": "http://liuziyi219.github.io/",
       "image": "images/students/ziyi.jpg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "llms",
         "cultural",
@@ -3431,7 +3515,7 @@
       "lab": "LIME Lab",
       "url": "https://maksimstw.github.io/",
       "image": "images/students/taiwei.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "large language models",
         "language models",
@@ -3599,7 +3683,7 @@
       "lab": "LIME Lab",
       "url": "https://linxins.net",
       "image": "images/students/linxin.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "language models",
         "reinforcement",
@@ -3693,7 +3777,7 @@
       "lab": "tamagotchi",
       "url": "https://ctinray.github.io/",
       "image": "images/students/ting-rui.jpeg",
-      "cluster": 0,
+      "cluster": 2,
       "topics": [
         "dialogue",
         "bias",
@@ -3773,7 +3857,7 @@
       "lab": "tamagotchi",
       "url": "https://ollieliu.com/",
       "image": "images/students/oliver.png",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "foundation",
         "multimodal",
@@ -3942,7 +4026,7 @@
       "lab": "tamagotchi",
       "url": "https://velocitycavalry.github.io/",
       "image": "images/students/xinyan.jpg",
-      "cluster": 1,
+      "cluster": 0,
       "topics": [
         "retrieval",
         "language models",
@@ -4041,7 +4125,7 @@
       "lab": "MOLA Lab",
       "url": "#",
       "image": "images/students/preni.jpeg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "police",
         "annotation",
@@ -4152,7 +4236,7 @@
       "lab": "MOLA Lab",
       "url": "#",
       "image": "images/students/elnaz.jpeg",
-      "cluster": 2,
+      "cluster": 1,
       "topics": [
         "evaluating",
         "llms",
@@ -4971,31 +5055,31 @@
   "clusters": [
     {
       "id": 0,
-      "label": "reasoning & language models",
-      "topics": [
-        "reasoning",
-        "language models",
-        "text"
-      ],
-      "color": "#4e79a7"
-    },
-    {
-      "id": 1,
       "label": "large language models & reasoning",
       "topics": [
         "large language models",
         "reasoning",
         "language models"
       ],
-      "color": "#f28e2b"
+      "color": "#4e79a7"
     },
     {
-      "id": 2,
+      "id": 1,
       "label": "language & vision",
       "topics": [
         "language",
         "vision",
         "multimodal"
+      ],
+      "color": "#f28e2b"
+    },
+    {
+      "id": 2,
+      "label": "reasoning & language models",
+      "topics": [
+        "reasoning",
+        "language models",
+        "text"
       ],
       "color": "#e15759"
     }

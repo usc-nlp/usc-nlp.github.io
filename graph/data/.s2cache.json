@@ -46463,5 +46463,215 @@
         }
       ]
     }
+  },
+  "Sheryl Mathew": {
+    "semantic_scholar_url": "https://www.semanticscholar.org/author/Sheryl-Mathew/2377555828",
+    "fetched_date": "2026-03-31T16:32:59",
+    "details": {
+      "authorId": "2377555828",
+      "name": "Sheryl Mathew",
+      "affiliations": [],
+      "paperCount": 4,
+      "papers": [
+        {
+          "paperId": "08958f691ed282fffc8f03dd6511241016a1a566",
+          "title": "VinaBench: Benchmark for Faithful and Consistent Visual Narratives",
+          "venue": "Computer Vision and Pattern Recognition",
+          "year": 2025,
+          "citationCount": 2,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2282084596",
+              "name": "Silin Gao"
+            },
+            {
+              "authorId": "2377555828",
+              "name": "Sheryl Mathew"
+            },
+            {
+              "authorId": "2284761526",
+              "name": "Li Mi"
+            },
+            {
+              "authorId": "2122924160",
+              "name": "Sepideh Mamooler"
+            },
+            {
+              "authorId": "2346245051",
+              "name": "Mengjie Zhao"
+            },
+            {
+              "authorId": "2253399579",
+              "name": "Hiromi Wakaki"
+            },
+            {
+              "authorId": "2253398841",
+              "name": "Yuki Mitsufuji"
+            },
+            {
+              "authorId": "2261392096",
+              "name": "Syrielle Montariol"
+            },
+            {
+              "authorId": "2284866282",
+              "name": "Antoine Bosselut"
+            }
+          ]
+        },
+        {
+          "paperId": "c240fd2514356abfaf4dc054d37db1eb49b1bc95",
+          "title": "Fairness-Aware Offline Reinforcement Learning with Human Feedback (Fair-RLHF): Mitigating Bias in Human Preferences",
+          "venue": "2025 IEEE 1st International Conference on Smart Innovations in Systems, Infrastructure, Mechanical, Power, AI and Computing Technologies (SISIMPACT)",
+          "year": 2025,
+          "citationCount": 0,
+          "fieldsOfStudy": null,
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2377555828",
+              "name": "Sheryl Mathew"
+            },
+            {
+              "authorId": "2375388708",
+              "name": "N. Harshit"
+            }
+          ]
+        },
+        {
+          "paperId": "0cfa59eda780534edcb4430675c307bf794413f5",
+          "title": "Multimodal Fusion with LLMs for Engagement Prediction in Natural Conversation",
+          "venue": "ICMI Companion",
+          "year": 2024,
+          "citationCount": 11,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            },
+            {
+              "category": "Psychology",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2385971852",
+              "name": "Cheng Ma"
+            },
+            {
+              "authorId": "2321404639",
+              "name": "Kevin Hyekang Joo"
+            },
+            {
+              "authorId": "2404385",
+              "name": "A. Vail"
+            },
+            {
+              "authorId": "2321409496",
+              "name": "Sunreeta Bhattacharya"
+            },
+            {
+              "authorId": "2387919267",
+              "name": "\u00c1lvaro Fern\u00e1ndez Garc\u00eda"
+            },
+            {
+              "authorId": "2321409408",
+              "name": "Kailana Baker-Matsuoka"
+            },
+            {
+              "authorId": "2377555828",
+              "name": "Sheryl Mathew"
+            },
+            {
+              "authorId": "2292394195",
+              "name": "Lori L. Holt"
+            },
+            {
+              "authorId": "2359757466",
+              "name": "Fernando de la Torre"
+            }
+          ]
+        },
+        {
+          "paperId": "8d0c37eee7162f33178979b4183f0211e2dcae0d",
+          "title": "Difference-Masking: Choosing What to Mask in Continued Pretraining",
+          "venue": "Conference on Empirical Methods in Natural Language Processing",
+          "year": 2023,
+          "citationCount": 8,
+          "fieldsOfStudy": [
+            "Computer Science"
+          ],
+          "s2FieldsOfStudy": [
+            {
+              "category": "Computer Science",
+              "source": "external"
+            },
+            {
+              "category": "Computer Science",
+              "source": "s2-fos-model"
+            }
+          ],
+          "authors": [
+            {
+              "authorId": "2000786644",
+              "name": "Alex Wilf"
+            },
+            {
+              "authorId": "1900302322",
+              "name": "Syeda Nahida Akter"
+            },
+            {
+              "authorId": "1413897871",
+              "name": "Leena Mathur"
+            },
+            {
+              "authorId": "28130078",
+              "name": "P. Liang"
+            },
+            {
+              "authorId": "2377555828",
+              "name": "Sheryl Mathew"
+            },
+            {
+              "authorId": "2218143553",
+              "name": "Mengrou Shou"
+            },
+            {
+              "authorId": "46841006",
+              "name": "Eric Nyberg"
+            },
+            {
+              "authorId": "49933077",
+              "name": "Louis-philippe Morency"
+            }
+          ]
+        }
+      ]
+    }
   }
 }

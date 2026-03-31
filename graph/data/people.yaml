@@ -110,6 +110,13 @@
   image: images/students/sahana.jpg
   semantic_scholar: https://www.semanticscholar.org/author/1399403094
 
+- name: Sheryl Mathew
+  role: student
+  lab: INK Lab
+  url: https://sherylm77.github.io/
+  image: images/students/sheryl.jpg
+  semantic_scholar: https://www.semanticscholar.org/author/Sheryl-Mathew/2377555828
+
 - name: Siyuan Wang
   role: student
   lab: INK Lab
