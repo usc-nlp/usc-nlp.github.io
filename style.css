@@ -555,7 +555,10 @@ footer {
   .header-logo img { height: 48px; }
   .header-dept { font-size: 0.8rem; }
   .header-dept strong { font-size: 0.95rem; }
-  .header-usc img { height: 72px; }
+  .header-usc { display: none; }
+
+  .affiliated-labs { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+  .affiliated-labs a { width: 100%; height: 110px; }
 
   .header-nav .nav-links {
     display: none;
