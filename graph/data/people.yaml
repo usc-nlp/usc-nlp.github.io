@@ -117,21 +117,7 @@
   image: images/students/sheryl.jpg
   semantic_scholar: https://www.semanticscholar.org/author/Sheryl-Mathew/2377555828
 
-- name: Siyuan Wang
-  role: student
-  lab: INK Lab
-  url: https://siyuanwangw.github.io/
-  image: images/students/siyuan.jpg
-  semantic_scholar: https://www.semanticscholar.org/author/Siyuan-Wang/2116420560
-
 # ── Allegro Lab Students ──
-
-- name: Ting-Yun Chang
-  role: student
-  lab: Allegro Lab
-  url: https://terachang.github.io/
-  image: images/students/ting-yun.jpg
-  semantic_scholar: https://www.semanticscholar.org/author/Ting-Yun-Chang/3386996
 
 - name: Deqing Fu
   role: student
@@ -146,13 +132,6 @@
   url: https://ameyagodbole.github.io/
   image: images/students/ameya.jpg
   semantic_scholar: https://www.semanticscholar.org/author/36851489
-
-- name: Johnny Wei
-  role: student
-  lab: Allegro Lab
-  url: https://johntzwei.github.io/
-  image: images/students/johnny.jpg
-  semantic_scholar: https://www.semanticscholar.org/author/6145196
 
 - name: Yuqing Yang
   role: student
@@ -175,35 +154,7 @@
   image: images/students/tianyi.jpg
   semantic_scholar: https://www.semanticscholar.org/author/Tianyi-Zhou/2291084729
 
-- name: Bill Zhu
-  role: student
-  lab: Allegro Lab
-  url: https://billzhu.me/
-  image: images/students/bill.jpeg
-  semantic_scholar: https://www.semanticscholar.org/author/Wang-Bill-Zhu/2267003898
-
 # ── GLAMOR Lab Students ──
-
-- name: Abrar Anwar
-  role: student
-  lab: GLAMOR Lab
-  url: https://abraranwar.github.io/
-  image: images/students/abrar.png
-  semantic_scholar: https://www.semanticscholar.org/author/2266391775
-
-- name: Lee Kezar
-  role: student
-  lab: GLAMOR Lab
-  url: https://leekezar.github.io/
-  image: images/students/lee.jpeg
-  semantic_scholar: https://www.semanticscholar.org/author/51132560
-
-- name: Anthony Liang
-  role: student
-  lab: GLAMOR Lab
-  url: https://aliang8.github.io/
-  image: images/students/anthony.jpeg
-  semantic_scholar: https://www.semanticscholar.org/author/Anthony-Liang/2286891988
 
 - name: Leticia Pinto-Alva
   role: student
@@ -211,20 +162,6 @@
   url: https://leticiapinto.github.io/
   image: images/students/leticia.jpg
   semantic_scholar: https://www.semanticscholar.org/author/104339089
-
-- name: Ishika Singh
-  role: student
-  lab: GLAMOR Lab
-  url: https://ishikasingh.github.io/
-  image: images/students/ishika.jpeg
-  semantic_scholar: https://www.semanticscholar.org/author/Ishika-Singh/144399662
-
-- name: Tejas Srinivasan
-  role: student
-  lab: GLAMOR Lab
-  url: https://tejas1995.github.io/
-  image: images/students/tejas.jpg
-  semantic_scholar: https://www.semanticscholar.org/author/150324514
 
 - name: Wei Yang
   role: student
